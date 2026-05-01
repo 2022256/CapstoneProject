@@ -1,0 +1,900 @@
+ArchiveDate,Adult_Child,HospitalName,0-6 Months,6-12 Months,12-18 Months,18 Months +,Total
+27/01/2022,Adult,Bantry General Hospital,634,309,209,207,"1,359"
+27/01/2022,Adult,Beaumont Hospital,"18,302","5,357",276,132,"24,066"
+27/01/2022,Adult,Cavan General Hospital,"3,498","1,724",376,360,"5,958"
+27/01/2022,Adult,Connolly Hospital Blanchardstown,"4,371",762,54,17,"5,203"
+27/01/2022,Adult,Coombe Women and Infants University Hospital,"1,583",563,286,353,"2,785"
+27/01/2022,Adult,Cork University Hospital,"11,993","6,767","4,133","9,463","32,355"
+27/01/2022,Adult,Cork University Maternity Hospital,"1,618",528,150,18,"2,314"
+27/01/2022,Adult,Croom Orthopaedic Hospital,"1,748","1,469",951,798,"4,966"
+27/01/2022,Adult,Ennis Hospital,613,434,317,726,"2,090"
+27/01/2022,Adult,Galway University Hospitals,"17,791","9,736","6,830","16,909","51,265"
+27/01/2022,Adult,Letterkenny University Hospital,"7,111","2,996","2,200","4,355","16,661"
+27/01/2022,Adult,Louth County Hospital,"1,470",634,391,167,"2,662"
+27/01/2022,Adult,Mallow General Hospital,"1,565",669,366,289,"2,889"
+27/01/2022,Adult,Mater Misericordiae University Hospital,"20,682","8,068","4,309","9,079","42,137"
+27/01/2022,Adult,Mayo University Hospital,"4,160","2,854","2,277","3,151","12,442"
+27/01/2022,Adult,Mercy University Hospital,"2,617","1,207",861,"2,536","7,220"
+27/01/2022,Adult,Midland Regional Hospital Mullingar,"3,868","2,478","1,402","1,167","8,915"
+27/01/2022,Adult,Midland Regional Hospital Portlaoise,"2,188","1,042",901,"1,209","5,340"
+27/01/2022,Adult,Midland Regional Hospital Tullamore,"5,727","2,932","1,900","3,719","14,278"
+27/01/2022,Adult,Naas General Hospital,"4,601","1,805","1,034","2,108","9,548"
+27/01/2022,Adult,National Orthopaedic Hospital Cappagh,"1,990",403,168,67,"2,628"
+27/01/2022,Adult,Nenagh Hospital,395,265,253,153,"1,066"
+27/01/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"5,673","3,277","1,130",476,"10,555"
+27/01/2022,Adult,Our Lady's Hospital Navan,"2,784","1,402","1,055","2,405","7,646"
+27/01/2022,Adult,Portiuncula University Hospital,"1,740",782,405,941,"3,868"
+27/01/2022,Adult,Roscommon University Hospital,"2,690","1,187",921,"1,903","6,701"
+27/01/2022,Adult,Rotunda Hospital,"2,051",703,17,2,"2,773"
+27/01/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,045","2,547","1,811","6,894","15,297"
+27/01/2022,Adult,Sligo University Hospital,"6,613","3,733","2,634","4,211","17,191"
+27/01/2022,Adult,South Infirmary Victoria University Hospital,"8,088","3,694","2,157","6,913","20,852"
+27/01/2022,Adult,St. Columcille's Hospital,"2,044","1,263",797,"1,958","6,061"
+27/01/2022,Adult,St. James's Hospital,"12,848","5,454","2,437","4,045","24,783"
+27/01/2022,Adult,St. John's Hospital Limerick,737,408,288,529,"1,962"
+27/01/2022,Adult,St. Luke's General Hospital Kilkenny,"2,648",515,161,54,"3,377"
+27/01/2022,Adult,St. Michael's Hospital,"2,332",623,102,251,"3,308"
+27/01/2022,Adult,St. Vincent's University Hospital,"14,766","5,074","2,766","2,766","25,371"
+27/01/2022,Adult,Tallaght University Hospital,"13,001","8,238","4,836","10,288","36,363"
+27/01/2022,Adult,Tipperary University Hospital,"2,125",925,405,457,"3,912"
+27/01/2022,Adult,University Hospital Kerry,"3,960","2,479","1,520","1,549","9,508"
+27/01/2022,Adult,University Hospital Limerick,"12,226","7,392","4,933","16,478","41,029"
+27/01/2022,Adult,University Hospital Waterford,"13,481","8,209","5,237","11,818","38,745"
+27/01/2022,Adult,Wexford General Hospital,"2,075",855,158,65,"3,153"
+27/01/2022,Child,Beaumont Hospital,95,21,2,0,117
+27/01/2022,Child,Cavan General Hospital,402,94,9,2,507
+27/01/2022,Child,Children's Health Ireland,"16,715","8,785","4,792","13,921","44,212"
+27/01/2022,Child,Cork University Hospital,"2,637","1,204",650,"1,136","5,627"
+27/01/2022,Child,Cork University Maternity Hospital,35,8,0,0,43
+27/01/2022,Child,Croom Orthopaedic Hospital,132,48,27,26,233
+27/01/2022,Child,Ennis Hospital,25,2,4,5,36
+27/01/2022,Child,Galway University Hospitals,"2,519","1,193",603,"1,336","5,651"
+27/01/2022,Child,Letterkenny University Hospital,823,235,152,896,"2,106"
+27/01/2022,Child,Mallow General Hospital,78,16,5,5,105
+27/01/2022,Child,Mayo University Hospital,483,266,142,387,"1,278"
+27/01/2022,Child,Mercy University Hospital,302,84,30,56,472
+27/01/2022,Child,Midland Regional Hospital Mullingar,678,265,101,164,"1,208"
+27/01/2022,Child,Midland Regional Hospital Portlaoise,468,152,129,79,829
+27/01/2022,Child,Midland Regional Hospital Tullamore,617,342,192,911,"2,061"
+27/01/2022,Child,National Orthopaedic Hospital Cappagh,163,59,16,6,244
+27/01/2022,Child,Nenagh Hospital,15,5,5,2,28
+27/01/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,446","1,022",309,131,"2,908"
+27/01/2022,Child,Our Lady's Hospital Navan,4,15,12,14,44
+27/01/2022,Child,Portiuncula University Hospital,466,37,11,64,578
+27/01/2022,Child,Rotunda Hospital,38,8,0,0,46
+27/01/2022,Child,Royal Victoria Eye and Ear Hospital,323,129,90,445,987
+27/01/2022,Child,Sligo University Hospital,986,516,323,393,"2,218"
+27/01/2022,Child,Small Volume Hospitals,11,5,5,0,22
+27/01/2022,Child,South Infirmary Victoria University Hospital,"1,167",386,112,314,"1,979"
+27/01/2022,Child,St. Luke's General Hospital Kilkenny,322,41,7,0,370
+27/01/2022,Child,Tallaght University Hospital,33,11,2,4,49
+27/01/2022,Child,Tipperary University Hospital,317,119,6,0,443
+27/01/2022,Child,University Hospital Kerry,437,272,127,376,"1,212"
+27/01/2022,Child,University Hospital Limerick,"1,532",654,508,"1,870","4,564"
+27/01/2022,Child,University Hospital Waterford,"1,268",631,404,"1,954","4,257"
+27/01/2022,Child,Wexford General Hospital,430,52,0,0,483
+24/02/2022,Adult,Bantry General Hospital,693,332,204,215,"1,444"
+24/02/2022,Adult,Beaumont Hospital,"18,531","5,508",331,89,"24,459"
+24/02/2022,Adult,Cavan General Hospital,"3,710","1,768",335,282,"6,095"
+24/02/2022,Adult,Connolly Hospital Blanchardstown,"4,524",600,59,6,"5,189"
+24/02/2022,Adult,Coombe Women and Infants University Hospital,"1,174",891,299,400,"2,764"
+24/02/2022,Adult,Cork University Hospital,"12,057","6,902","4,125","9,422","32,506"
+24/02/2022,Adult,Cork University Maternity Hospital,"1,655",537,159,17,"2,368"
+24/02/2022,Adult,Croom Orthopaedic Hospital,"1,688","1,560",891,781,"4,920"
+24/02/2022,Adult,Ennis Hospital,586,396,249,629,"1,860"
+24/02/2022,Adult,Galway University Hospitals,"18,353","9,834","6,629","16,595","51,411"
+24/02/2022,Adult,Letterkenny University Hospital,"7,284","3,210","1,875","4,336","16,705"
+24/02/2022,Adult,Louth County Hospital,"1,605",642,378,175,"2,800"
+24/02/2022,Adult,Mallow General Hospital,"1,697",660,380,278,"3,015"
+24/02/2022,Adult,Mater Misericordiae University Hospital,"20,958","7,616","4,176","8,891","41,641"
+24/02/2022,Adult,Mayo University Hospital,"4,267","2,915","2,172","3,289","12,643"
+24/02/2022,Adult,Mercy University Hospital,"2,681","1,158",803,"2,538","7,180"
+24/02/2022,Adult,Midland Regional Hospital Mullingar,"3,847","2,564","1,443","1,174","9,028"
+24/02/2022,Adult,Midland Regional Hospital Portlaoise,"2,197","1,145",904,"1,283","5,529"
+24/02/2022,Adult,Midland Regional Hospital Tullamore,"5,935","3,021","1,797","3,007","13,760"
+24/02/2022,Adult,Naas General Hospital,"4,724","1,970","1,014","2,083","9,791"
+24/02/2022,Adult,National Orthopaedic Hospital Cappagh,"1,936",448,142,48,"2,574"
+24/02/2022,Adult,Nenagh Hospital,394,246,239,144,"1,023"
+24/02/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"5,896","3,448","1,092",479,"10,915"
+24/02/2022,Adult,Our Lady's Hospital Navan,"2,861","1,347",976,"2,444","7,628"
+24/02/2022,Adult,Portiuncula University Hospital,"1,811",747,400,918,"3,876"
+24/02/2022,Adult,Roscommon University Hospital,"2,769","1,295",854,"1,980","6,898"
+24/02/2022,Adult,Rotunda Hospital,"2,135",629,30,2,"2,796"
+24/02/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,031","2,602","1,751","6,371","14,755"
+24/02/2022,Adult,Sligo University Hospital,"6,914","3,688","2,455","4,066","17,123"
+24/02/2022,Adult,South Infirmary Victoria University Hospital,"8,462","3,709","2,150","6,801","21,122"
+24/02/2022,Adult,St. Columcille's Hospital,"2,074","1,326",796,"2,035","6,231"
+24/02/2022,Adult,St. James's Hospital,"13,122","5,188","2,393","3,897","24,600"
+24/02/2022,Adult,St. John's Hospital Limerick,762,404,262,540,"1,968"
+24/02/2022,Adult,St. Luke's General Hospital Kilkenny,"2,829",543,90,21,"3,483"
+24/02/2022,Adult,St. Michael's Hospital,"2,421",547,97,254,"3,319"
+24/02/2022,Adult,St. Vincent's University Hospital,"14,766","5,328","2,507","2,594","25,195"
+24/02/2022,Adult,Tallaght University Hospital,"13,222","8,534","4,720","9,975","36,451"
+24/02/2022,Adult,Tipperary University Hospital,"2,265",893,335,435,"3,928"
+24/02/2022,Adult,University Hospital Kerry,"4,007","2,597","1,459","1,527","9,590"
+24/02/2022,Adult,University Hospital Limerick,"12,376","7,637","4,815","16,437","41,265"
+24/02/2022,Adult,University Hospital Waterford,"13,385","8,285","5,037","10,895","37,602"
+24/02/2022,Adult,Wexford General Hospital,"2,204",826,151,73,"3,254"
+24/02/2022,Child,Beaumont Hospital,93,16,2,0,111
+24/02/2022,Child,Cavan General Hospital,483,89,11,0,583
+24/02/2022,Child,Children's Health Ireland,"17,330","8,821","4,819","13,484","44,455"
+24/02/2022,Child,Cork University Hospital,"2,725","1,277",621,"1,104","5,728"
+24/02/2022,Child,Cork University Maternity Hospital,42,4,0,0,46
+24/02/2022,Child,Croom Orthopaedic Hospital,138,51,27,28,244
+24/02/2022,Child,Ennis Hospital,26,6,5,2,40
+24/02/2022,Child,Galway University Hospitals,"2,639","1,247",598,"1,342","5,826"
+24/02/2022,Child,Letterkenny University Hospital,887,240,144,909,"2,180"
+24/02/2022,Child,Mallow General Hospital,81,13,5,5,106
+24/02/2022,Child,Mayo University Hospital,518,262,143,384,"1,307"
+24/02/2022,Child,Mercy University Hospital,321,89,16,40,466
+24/02/2022,Child,Midland Regional Hospital Mullingar,717,263,110,161,"1,251"
+24/02/2022,Child,Midland Regional Hospital Portlaoise,469,158,123,84,835
+24/02/2022,Child,Midland Regional Hospital Tullamore,657,362,180,880,"2,078"
+24/02/2022,Child,National Orthopaedic Hospital Cappagh,139,56,16,5,216
+24/02/2022,Child,Nenagh Hospital,12,4,5,2,23
+24/02/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,542","1,064",293,122,"3,021"
+24/02/2022,Child,Our Lady's Hospital Navan,2,10,12,16,39
+24/02/2022,Child,Portiuncula University Hospital,488,41,9,63,601
+24/02/2022,Child,Rotunda Hospital,35,8,0,0,43
+24/02/2022,Child,Royal Victoria Eye and Ear Hospital,363,123,101,413,"1,000"
+24/02/2022,Child,Sligo University Hospital,"1,038",502,281,368,"2,188"
+24/02/2022,Child,Small Volume Hospitals,11,4,4,0,18
+24/02/2022,Child,South Infirmary Victoria University Hospital,"1,232",373,110,292,"2,006"
+24/02/2022,Child,St. Luke's General Hospital Kilkenny,390,39,7,0,435
+24/02/2022,Child,Tallaght University Hospital,30,9,4,4,47
+24/02/2022,Child,Tipperary University Hospital,330,133,10,0,474
+24/02/2022,Child,University Hospital Kerry,457,287,103,368,"1,215"
+24/02/2022,Child,University Hospital Limerick,"1,651",689,483,"1,830","4,653"
+24/02/2022,Child,University Hospital Waterford,"1,340",638,399,"1,804","4,181"
+24/02/2022,Child,Wexford General Hospital,487,54,0,0,541
+31/03/2022,Adult,Bantry General Hospital,733,356,195,236,"1,520"
+31/03/2022,Adult,Beaumont Hospital,"18,027","6,237",413,20,"24,698"
+31/03/2022,Adult,Cavan General Hospital,"3,930","1,935",350,239,"6,455"
+31/03/2022,Adult,Connolly Hospital Blanchardstown,"4,517",591,31,2,"5,142"
+31/03/2022,Adult,Coombe Women and Infants University Hospital,"1,088",972,327,381,"2,768"
+31/03/2022,Adult,Cork University Hospital,"11,912","7,105","4,141","9,741","32,898"
+31/03/2022,Adult,Cork University Maternity Hospital,"1,788",614,157,29,"2,588"
+31/03/2022,Adult,Croom Orthopaedic Hospital,"1,711","1,481",905,744,"4,841"
+31/03/2022,Adult,Ennis Hospital,630,377,116,320,"1,443"
+31/03/2022,Adult,Galway University Hospitals,"18,061","10,320","6,360","16,472","51,214"
+31/03/2022,Adult,Letterkenny University Hospital,"7,256","3,159","1,685","4,377","16,478"
+31/03/2022,Adult,Louth County Hospital,"1,654",651,344,211,"2,861"
+31/03/2022,Adult,Mallow General Hospital,"1,820",669,417,284,"3,190"
+31/03/2022,Adult,Mater Misericordiae University Hospital,"20,640","7,369","4,325","8,703","41,037"
+31/03/2022,Adult,Mayo University Hospital,"4,224","2,945","2,103","3,322","12,594"
+31/03/2022,Adult,Mercy University Hospital,"2,607","1,202",775,"2,430","7,014"
+31/03/2022,Adult,Midland Regional Hospital Mullingar,"3,876","2,634","1,600","1,229","9,339"
+31/03/2022,Adult,Midland Regional Hospital Portlaoise,"2,102","1,278",844,"1,297","5,522"
+31/03/2022,Adult,Midland Regional Hospital Tullamore,"5,946","3,147","1,829","2,998","13,920"
+31/03/2022,Adult,Naas General Hospital,"4,723","2,013",972,"2,088","9,796"
+31/03/2022,Adult,National Orthopaedic Hospital Cappagh,"2,172",459,120,27,"2,778"
+31/03/2022,Adult,Nenagh Hospital,408,243,138,150,939
+31/03/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"5,915","3,647","1,152",344,"11,060"
+31/03/2022,Adult,Our Lady's Hospital Navan,"2,779","1,415",932,"2,435","7,561"
+31/03/2022,Adult,Portiuncula University Hospital,"1,871",757,361,886,"3,876"
+31/03/2022,Adult,Roscommon University Hospital,"2,947","1,387",798,"2,008","7,140"
+31/03/2022,Adult,Rotunda Hospital,"2,156",542,18,2,"2,718"
+31/03/2022,Adult,Royal Victoria Eye and Ear Hospital,"3,990","2,522","1,871","6,122","14,505"
+31/03/2022,Adult,Sligo University Hospital,"6,596","3,871","2,277","3,737","16,482"
+31/03/2022,Adult,South Infirmary Victoria University Hospital,"8,525","3,818","2,164","6,662","21,169"
+31/03/2022,Adult,St. Columcille's Hospital,"2,165","1,458",811,"2,090","6,525"
+31/03/2022,Adult,St. James's Hospital,"12,978","5,080","2,407","3,866","24,332"
+31/03/2022,Adult,St. John's Hospital Limerick,792,397,257,573,"2,019"
+31/03/2022,Adult,St. Luke's General Hospital Kilkenny,"2,816",568,99,11,"3,495"
+31/03/2022,Adult,St. Michael's Hospital,"2,357",591,112,221,"3,281"
+31/03/2022,Adult,St. Vincent's University Hospital,"14,781","5,678","2,227","2,361","25,048"
+31/03/2022,Adult,Tallaght University Hospital,"13,050","8,720","4,779","9,693","36,243"
+31/03/2022,Adult,Tipperary University Hospital,"2,214",946,356,395,"3,912"
+31/03/2022,Adult,University Hospital Kerry,"4,009","2,687","1,272","1,218","9,186"
+31/03/2022,Adult,University Hospital Limerick,"12,323","7,296","5,083","16,755","41,458"
+31/03/2022,Adult,University Hospital Waterford,"13,291","8,223","4,536","10,312","36,363"
+31/03/2022,Adult,Wexford General Hospital,"2,197",779,151,72,"3,200"
+31/03/2022,Child,Beaumont Hospital,85,22,2,0,109
+31/03/2022,Child,Cavan General Hospital,508,103,12,0,623
+31/03/2022,Child,Children's Health Ireland,"17,842","8,995","5,060","12,846","44,742"
+31/03/2022,Child,Cork University Hospital,"2,750","1,363",588,"1,115","5,816"
+31/03/2022,Child,Cork University Maternity Hospital,46,11,0,0,57
+31/03/2022,Child,Croom Orthopaedic Hospital,133,43,31,26,233
+31/03/2022,Child,Ennis Hospital,26,9,2,4,40
+31/03/2022,Child,Galway University Hospitals,"2,618","1,316",586,"1,296","5,816"
+31/03/2022,Child,Letterkenny University Hospital,872,231,152,899,"2,155"
+31/03/2022,Child,Mallow General Hospital,119,16,5,5,146
+31/03/2022,Child,Mayo University Hospital,530,227,134,391,"1,281"
+31/03/2022,Child,Mercy University Hospital,324,95,22,38,480
+31/03/2022,Child,Midland Regional Hospital Mullingar,722,284,126,154,"1,286"
+31/03/2022,Child,Midland Regional Hospital Portlaoise,497,184,93,82,857
+31/03/2022,Child,Midland Regional Hospital Tullamore,679,373,175,777,"2,004"
+31/03/2022,Child,National Orthopaedic Hospital Cappagh,143,46,29,2,220
+31/03/2022,Child,Nenagh Hospital,15,4,5,2,26
+31/03/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,622","1,141",331,127,"3,222"
+31/03/2022,Child,Our Lady's Hospital Navan,2,8,13,17,39
+31/03/2022,Child,Portiuncula University Hospital,526,39,7,60,632
+31/03/2022,Child,Rotunda Hospital,37,11,0,0,48
+31/03/2022,Child,Royal Victoria Eye and Ear Hospital,348,133,96,357,934
+31/03/2022,Child,Sligo University Hospital,"1,006",527,252,330,"2,115"
+31/03/2022,Child,Small Volume Hospitals,17,5,4,2,28
+31/03/2022,Child,South Infirmary Victoria University Hospital,"1,283",390,109,279,"2,061"
+31/03/2022,Child,St. Luke's General Hospital Kilkenny,411,42,2,0,455
+31/03/2022,Child,Tallaght University Hospital,33,9,4,5,51
+31/03/2022,Child,Tipperary University Hospital,326,136,20,0,481
+31/03/2022,Child,University Hospital Kerry,492,282,97,365,"1,235"
+31/03/2022,Child,University Hospital Limerick,"1,652",652,487,"1,806","4,598"
+31/03/2022,Child,University Hospital Waterford,"1,391",636,374,"1,668","4,069"
+31/03/2022,Child,Wexford General Hospital,524,61,0,2,587
+28/04/2022,Adult,Bantry General Hospital,737,328,170,210,"1,446"
+28/04/2022,Adult,Beaumont Hospital,"18,929","6,273",446,6,"25,655"
+28/04/2022,Adult,Cavan General Hospital,"4,041","2,110",388,205,"6,745"
+28/04/2022,Adult,Connolly Hospital Blanchardstown,"4,578",518,31,8,"5,136"
+28/04/2022,Adult,Coombe Women and Infants University Hospital,"1,338",984,387,375,"3,084"
+28/04/2022,Adult,Cork University Hospital,"12,441","6,915","4,019","9,674","33,049"
+28/04/2022,Adult,Cork University Maternity Hospital,"1,782",625,178,43,"2,628"
+28/04/2022,Adult,Croom Orthopaedic Hospital,"1,735","1,436",855,699,"4,725"
+28/04/2022,Adult,Ennis Hospital,629,400,223,418,"1,670"
+28/04/2022,Adult,Galway University Hospitals,"17,655","10,248","6,361","16,329","50,594"
+28/04/2022,Adult,Letterkenny University Hospital,"7,264","3,313","1,648","4,270","16,496"
+28/04/2022,Adult,Louth County Hospital,"1,763",632,366,217,"2,978"
+28/04/2022,Adult,Mallow General Hospital,"1,879",652,399,274,"3,204"
+28/04/2022,Adult,Mater Misericordiae University Hospital,"20,803","7,148","4,300","8,717","40,968"
+28/04/2022,Adult,Mayo University Hospital,"4,063","2,832","2,073","3,238","12,206"
+28/04/2022,Adult,Mercy University Hospital,"2,652","1,160",705,"2,302","6,820"
+28/04/2022,Adult,Midland Regional Hospital Mullingar,"3,779","2,716","1,683","1,306","9,484"
+28/04/2022,Adult,Midland Regional Hospital Portlaoise,"2,143","1,381",829,"1,305","5,659"
+28/04/2022,Adult,Midland Regional Hospital Tullamore,"5,907","2,965","1,784","2,889","13,545"
+28/04/2022,Adult,Naas General Hospital,"4,738","2,116",911,"1,788","9,553"
+28/04/2022,Adult,National Orthopaedic Hospital Cappagh,"2,238",449,90,26,"2,803"
+28/04/2022,Adult,Nenagh Hospital,429,249,136,108,922
+28/04/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"6,127","3,780","1,162",148,"11,218"
+28/04/2022,Adult,Our Lady's Hospital Navan,"2,773","1,460",872,"2,415","7,520"
+28/04/2022,Adult,Portiuncula University Hospital,"1,971",731,347,803,"3,853"
+28/04/2022,Adult,Roscommon University Hospital,"2,867","1,306",833,"2,038","7,044"
+28/04/2022,Adult,Rotunda Hospital,"2,140",451,19,0,"2,610"
+28/04/2022,Adult,Royal Victoria Eye and Ear Hospital,"3,969","2,612","1,913","6,150","14,644"
+28/04/2022,Adult,Sligo University Hospital,"6,751","3,736","2,050","3,809","16,347"
+28/04/2022,Adult,South Infirmary Victoria University Hospital,"8,655","3,953","2,180","6,703","21,491"
+28/04/2022,Adult,St. Columcille's Hospital,"2,140","1,487",883,"2,180","6,691"
+28/04/2022,Adult,St. James's Hospital,"13,361","4,949","2,488","3,807","24,606"
+28/04/2022,Adult,St. John's Hospital Limerick,798,364,237,577,"1,976"
+28/04/2022,Adult,St. Luke's General Hospital Kilkenny,"2,866",619,77,16,"3,579"
+28/04/2022,Adult,St. Michael's Hospital,"2,361",592,113,231,"3,297"
+28/04/2022,Adult,St. Vincent's University Hospital,"14,847","5,678","2,160","2,215","24,901"
+28/04/2022,Adult,Tallaght University Hospital,"12,850","9,051","4,731","9,669","36,301"
+28/04/2022,Adult,Tipperary University Hospital,"2,184",924,412,381,"3,901"
+28/04/2022,Adult,University Hospital Kerry,"4,057","2,426","1,201","1,148","8,833"
+28/04/2022,Adult,University Hospital Limerick,"12,233","7,028","4,833","16,060","40,155"
+28/04/2022,Adult,University Hospital Waterford,"13,865","8,188","4,548","9,641","36,243"
+28/04/2022,Adult,Wexford General Hospital,"2,222",795,164,70,"3,251"
+28/04/2022,Child,Beaumont Hospital,88,22,2,0,112
+28/04/2022,Child,Cavan General Hospital,561,107,20,0,688
+28/04/2022,Child,Children's Health Ireland,"18,393","9,165","5,272","12,088","44,919"
+28/04/2022,Child,Cork University Hospital,"2,747","1,494",587,"1,128","5,955"
+28/04/2022,Child,Cork University Maternity Hospital,44,16,0,0,60
+28/04/2022,Child,Croom Orthopaedic Hospital,134,36,25,34,229
+28/04/2022,Child,Ennis Hospital,28,6,2,4,40
+28/04/2022,Child,Galway University Hospitals,"2,607","1,293",614,"1,272","5,786"
+28/04/2022,Child,Letterkenny University Hospital,881,239,141,899,"2,159"
+28/04/2022,Child,Mallow General Hospital,129,12,6,6,152
+28/04/2022,Child,Mayo University Hospital,507,226,142,388,"1,262"
+28/04/2022,Child,Mercy University Hospital,341,87,27,36,490
+28/04/2022,Child,Midland Regional Hospital Mullingar,712,314,121,156,"1,303"
+28/04/2022,Child,Midland Regional Hospital Portlaoise,536,175,84,90,885
+28/04/2022,Child,Midland Regional Hospital Tullamore,663,333,183,604,"1,783"
+28/04/2022,Child,National Orthopaedic Hospital Cappagh,191,49,32,5,277
+28/04/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,709","1,168",387,151,"3,415"
+28/04/2022,Child,Our Lady's Hospital Navan,2,9,11,19,40
+28/04/2022,Child,Portiuncula University Hospital,505,40,10,48,604
+28/04/2022,Child,Rotunda Hospital,36,11,0,0,47
+28/04/2022,Child,Royal Victoria Eye and Ear Hospital,357,144,96,356,953
+28/04/2022,Child,Sligo University Hospital,"1,064",506,237,337,"2,144"
+28/04/2022,Child,Small Volume Hospitals,28,11,9,4,52
+28/04/2022,Child,South Infirmary Victoria University Hospital,"1,331",411,103,270,"2,115"
+28/04/2022,Child,St. Luke's General Hospital Kilkenny,425,31,0,0,456
+28/04/2022,Child,Tallaght University Hospital,30,9,2,4,45
+28/04/2022,Child,Tipperary University Hospital,319,150,22,0,491
+28/04/2022,Child,University Hospital Kerry,519,290,91,350,"1,251"
+28/04/2022,Child,University Hospital Limerick,"1,747",655,489,"1,780","4,671"
+28/04/2022,Child,University Hospital Waterford,"1,543",664,347,"1,378","3,933"
+28/04/2022,Child,Wexford General Hospital,550,72,2,2,625
+26/05/2022,Adult,Bantry General Hospital,691,337,164,227,"1,418"
+26/05/2022,Adult,Beaumont Hospital,"19,163","6,388",497,10,"26,057"
+26/05/2022,Adult,Cavan General Hospital,"4,390","2,192",466,171,"7,218"
+26/05/2022,Adult,Connolly Hospital Blanchardstown,"4,803",488,29,4,"5,324"
+26/05/2022,Adult,Coombe Women and Infants University Hospital,"1,634",976,400,345,"3,355"
+26/05/2022,Adult,Cork University Hospital,"12,460","7,117","3,873","9,688","33,138"
+26/05/2022,Adult,Cork University Maternity Hospital,"1,867",678,200,48,"2,793"
+26/05/2022,Adult,Croom Orthopaedic Hospital,"1,742","1,422",780,749,"4,693"
+26/05/2022,Adult,Ennis Hospital,735,509,286,438,"1,967"
+26/05/2022,Adult,Galway University Hospitals,"17,579","10,524","5,850","16,195","50,148"
+26/05/2022,Adult,Letterkenny University Hospital,"7,315","3,400","1,508","4,284","16,507"
+26/05/2022,Adult,Louth County Hospital,"1,694",663,371,243,"2,971"
+26/05/2022,Adult,Mallow General Hospital,"2,017",702,384,310,"3,412"
+26/05/2022,Adult,Mater Misericordiae University Hospital,"21,367","6,937","4,107","8,808","41,219"
+26/05/2022,Adult,Mayo University Hospital,"4,157","2,866","1,938","3,055","12,016"
+26/05/2022,Adult,Mercy University Hospital,"2,744","1,133",658,"2,216","6,750"
+26/05/2022,Adult,Midland Regional Hospital Mullingar,"3,882","2,673","1,621","1,291","9,466"
+26/05/2022,Adult,Midland Regional Hospital Portlaoise,"2,228","1,438",650,"1,295","5,610"
+26/05/2022,Adult,Midland Regional Hospital Tullamore,"6,233","3,149","1,646","2,606","13,634"
+26/05/2022,Adult,Naas General Hospital,"4,882","2,202",930,"1,601","9,615"
+26/05/2022,Adult,National Orthopaedic Hospital Cappagh,"2,437",443,47,21,"2,948"
+26/05/2022,Adult,Nenagh Hospital,400,258,115,110,883
+26/05/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"6,376","3,904","1,194",44,"11,517"
+26/05/2022,Adult,Our Lady's Hospital Navan,"2,712","1,453",797,"2,452","7,414"
+26/05/2022,Adult,Portiuncula University Hospital,"1,985",715,375,762,"3,836"
+26/05/2022,Adult,Roscommon University Hospital,"2,989","1,322",761,"1,907","6,979"
+26/05/2022,Adult,Rotunda Hospital,"2,302",456,15,0,"2,773"
+26/05/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,212","2,668","1,927","5,229","14,036"
+26/05/2022,Adult,Sligo University Hospital,"6,794","3,799","1,915","3,707","16,214"
+26/05/2022,Adult,South Infirmary Victoria University Hospital,"8,673","4,020","2,184","6,232","21,109"
+26/05/2022,Adult,St. Columcille's Hospital,"2,342","1,529",869,"2,242","6,982"
+26/05/2022,Adult,St. James's Hospital,"13,410","4,806","2,388","3,750","24,354"
+26/05/2022,Adult,St. John's Hospital Limerick,800,351,209,571,"1,931"
+26/05/2022,Adult,St. Luke's General Hospital Kilkenny,"3,047",633,108,14,"3,802"
+26/05/2022,Adult,St. Michael's Hospital,"2,507",613,114,224,"3,458"
+26/05/2022,Adult,St. Vincent's University Hospital,"14,806","5,711","2,003","1,827","24,346"
+26/05/2022,Adult,Tallaght University Hospital,"12,645","9,329","4,614","9,613","36,200"
+26/05/2022,Adult,Tipperary University Hospital,"2,181",910,447,343,"3,881"
+26/05/2022,Adult,University Hospital Kerry,"4,339","2,407","1,196","1,244","9,185"
+26/05/2022,Adult,University Hospital Limerick,"12,403","7,415","4,395","15,438","39,651"
+26/05/2022,Adult,University Hospital Waterford,"14,225","7,845","4,127","8,763","34,959"
+26/05/2022,Adult,Wexford General Hospital,"2,414",775,187,66,"3,441"
+26/05/2022,Child,Beaumont Hospital,114,24,0,0,138
+26/05/2022,Child,Cavan General Hospital,703,113,27,0,844
+26/05/2022,Child,Children's Health Ireland,"18,750","9,048","5,356","11,874","45,028"
+26/05/2022,Child,Cork University Hospital,"2,790","1,552",550,"1,095","5,987"
+26/05/2022,Child,Cork University Maternity Hospital,50,15,2,0,66
+26/05/2022,Child,Croom Orthopaedic Hospital,159,39,22,34,254
+26/05/2022,Child,Ennis Hospital,29,8,2,2,41
+26/05/2022,Child,Galway University Hospitals,"2,634","1,313",570,"1,257","5,774"
+26/05/2022,Child,Letterkenny University Hospital,964,251,147,897,"2,260"
+26/05/2022,Child,Mallow General Hospital,155,22,5,5,188
+26/05/2022,Child,Mayo University Hospital,499,218,149,375,"1,242"
+26/05/2022,Child,Mercy University Hospital,341,89,27,22,479
+26/05/2022,Child,Midland Regional Hospital Mullingar,697,331,111,157,"1,296"
+26/05/2022,Child,Midland Regional Hospital Portlaoise,591,195,79,86,951
+26/05/2022,Child,Midland Regional Hospital Tullamore,701,361,202,477,"1,742"
+26/05/2022,Child,National Orthopaedic Hospital Cappagh,144,50,27,5,226
+26/05/2022,Child,Nenagh Hospital,15,3,3,2,23
+26/05/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,720","1,236",384,127,"3,467"
+26/05/2022,Child,Our Lady's Hospital Navan,3,2,13,19,37
+26/05/2022,Child,Portiuncula University Hospital,504,31,18,48,601
+26/05/2022,Child,Rotunda Hospital,34,11,0,0,45
+26/05/2022,Child,Royal Victoria Eye and Ear Hospital,376,154,90,280,900
+26/05/2022,Child,Sligo University Hospital,"1,098",487,209,319,"2,114"
+26/05/2022,Child,Small Volume Hospitals,23,7,3,2,35
+26/05/2022,Child,South Infirmary Victoria University Hospital,"1,329",433,116,258,"2,137"
+26/05/2022,Child,St. Luke's General Hospital Kilkenny,452,27,0,0,479
+26/05/2022,Child,Tallaght University Hospital,28,10,3,3,45
+26/05/2022,Child,Tipperary University Hospital,306,167,17,0,490
+26/05/2022,Child,University Hospital Kerry,538,291,96,345,"1,270"
+26/05/2022,Child,University Hospital Limerick,"1,891",686,454,"1,775","4,806"
+26/05/2022,Child,University Hospital Waterford,"1,480",697,304,"1,154","3,635"
+26/05/2022,Child,Wexford General Hospital,561,74,2,0,637
+30/06/2022,Adult,Bantry General Hospital,750,291,151,199,"1,391"
+30/06/2022,Adult,Beaumont Hospital,"19,551","5,737",532,10,"25,829"
+30/06/2022,Adult,Cavan General Hospital,"4,556","2,044",511,130,"7,241"
+30/06/2022,Adult,Connolly Hospital Blanchardstown,"4,948",414,12,2,"5,376"
+30/06/2022,Adult,Coombe Women and Infants University Hospital,"1,750",927,444,347,"3,468"
+30/06/2022,Adult,Cork University Hospital,"13,201","6,879","3,890","9,574","33,543"
+30/06/2022,Adult,Cork University Maternity Hospital,"1,964",735,187,66,"2,952"
+30/06/2022,Adult,Croom Orthopaedic Hospital,"1,890","1,310",708,761,"4,669"
+30/06/2022,Adult,Ennis Hospital,718,424,131,330,"1,603"
+30/06/2022,Adult,Galway University Hospitals,"17,999","10,920","5,830","16,035","50,784"
+30/06/2022,Adult,Letterkenny University Hospital,"7,444","3,502","1,545","4,247","16,738"
+30/06/2022,Adult,Louth County Hospital,"1,729",650,404,251,"3,034"
+30/06/2022,Adult,Mallow General Hospital,"2,045",658,384,307,"3,394"
+30/06/2022,Adult,Mater Misericordiae University Hospital,"21,719","6,143","4,153","8,762","40,776"
+30/06/2022,Adult,Mayo University Hospital,"4,334","2,623","1,587","2,907","11,451"
+30/06/2022,Adult,Mercy University Hospital,"2,924","1,134",631,"2,102","6,790"
+30/06/2022,Adult,Midland Regional Hospital Mullingar,"4,274","2,619","1,713","1,293","9,899"
+30/06/2022,Adult,Midland Regional Hospital Portlaoise,"2,257","1,360",572,"1,190","5,379"
+30/06/2022,Adult,Midland Regional Hospital Tullamore,"6,626","3,332","1,610","2,170","13,738"
+30/06/2022,Adult,Naas General Hospital,"5,191","2,037",769,"1,231","9,228"
+30/06/2022,Adult,National Maternity Hospital (Holles Street),"1,804",127,10,2,"1,943"
+30/06/2022,Adult,National Orthopaedic Hospital Cappagh,"2,566",332,56,14,"2,968"
+30/06/2022,Adult,Nenagh Hospital,432,252,65,121,870
+30/06/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"6,804","3,804","1,170",50,"11,827"
+30/06/2022,Adult,Our Lady's Hospital Navan,"2,763","1,180",764,"2,210","6,917"
+30/06/2022,Adult,Portiuncula University Hospital,"2,014",701,337,754,"3,806"
+30/06/2022,Adult,Roscommon University Hospital,"3,221","1,193",687,"1,929","7,030"
+30/06/2022,Adult,Rotunda Hospital,"2,157",278,4,2,"2,441"
+30/06/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,550","2,727","1,691","5,260","14,228"
+30/06/2022,Adult,Sligo University Hospital,"6,974","3,453","1,780","3,216","15,423"
+30/06/2022,Adult,South Infirmary Victoria University Hospital,"9,016","3,932","2,183","6,194","21,325"
+30/06/2022,Adult,St. Columcille's Hospital,"2,428","1,579",878,"2,255","7,139"
+30/06/2022,Adult,St. James's Hospital,"13,901","4,504","2,343","3,596","24,344"
+30/06/2022,Adult,St. John's Hospital Limerick,774,352,223,557,"1,906"
+30/06/2022,Adult,St. Luke's General Hospital Kilkenny,"3,255",639,102,16,"4,012"
+30/06/2022,Adult,St. Michael's Hospital,"2,543",565,137,205,"3,450"
+30/06/2022,Adult,St. Vincent's University Hospital,"15,052","5,418","2,012","1,588","24,069"
+30/06/2022,Adult,Tallaght University Hospital,"13,318","9,511","4,558","9,576","36,963"
+30/06/2022,Adult,Tipperary University Hospital,"2,104",869,444,282,"3,699"
+30/06/2022,Adult,University Hospital Kerry,"4,575","2,284","1,281","1,092","9,232"
+30/06/2022,Adult,University Hospital Limerick,"13,163","7,096","4,317","14,010","38,586"
+30/06/2022,Adult,University Hospital Waterford,"14,879","7,537","3,923","7,549","33,888"
+30/06/2022,Adult,Wexford General Hospital,"2,370",704,207,70,"3,351"
+30/06/2022,Child,Beaumont Hospital,123,29,0,0,152
+30/06/2022,Child,Cavan General Hospital,819,109,28,0,956
+30/06/2022,Child,Children's Health Ireland,"19,583","9,157","5,185","10,826","44,751"
+30/06/2022,Child,Coombe Women and Infants University Hospital,30,0,0,0,30
+30/06/2022,Child,Cork University Hospital,"2,876","1,501",553,"1,089","6,019"
+30/06/2022,Child,Cork University Maternity Hospital,47,14,2,0,62
+30/06/2022,Child,Croom Orthopaedic Hospital,162,31,29,34,256
+30/06/2022,Child,Ennis Hospital,42,7,2,3,54
+30/06/2022,Child,Galway University Hospitals,"2,572","1,405",575,"1,264","5,816"
+30/06/2022,Child,Letterkenny University Hospital,969,260,145,903,"2,278"
+30/06/2022,Child,Mallow General Hospital,170,10,3,3,187
+30/06/2022,Child,Mayo University Hospital,546,201,136,346,"1,230"
+30/06/2022,Child,Mercy University Hospital,318,88,32,20,458
+30/06/2022,Child,Midland Regional Hospital Mullingar,739,352,112,164,"1,368"
+30/06/2022,Child,Midland Regional Hospital Portlaoise,598,204,70,66,938
+30/06/2022,Child,Midland Regional Hospital Tullamore,720,399,192,395,"1,706"
+30/06/2022,Child,National Maternity Hospital (Holles Street),48,5,0,0,53
+30/06/2022,Child,National Orthopaedic Hospital Cappagh,176,51,26,5,258
+30/06/2022,Child,Nenagh Hospital,20,5,0,2,27
+30/06/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,858","1,219",460,175,"3,713"
+30/06/2022,Child,Our Lady's Hospital Navan,3,0,13,16,32
+30/06/2022,Child,Portiuncula University Hospital,537,31,17,51,636
+30/06/2022,Child,Rotunda Hospital,21,15,0,0,36
+30/06/2022,Child,Royal Victoria Eye and Ear Hospital,416,190,81,265,952
+30/06/2022,Child,Sligo University Hospital,"1,161",466,207,264,"2,098"
+30/06/2022,Child,Small Volume Hospitals,8,3,0,3,15
+30/06/2022,Child,South Infirmary Victoria University Hospital,"1,326",395,124,254,"2,098"
+30/06/2022,Child,St. Luke's General Hospital Kilkenny,451,19,2,0,472
+30/06/2022,Child,Tallaght University Hospital,25,23,2,3,53
+30/06/2022,Child,Tipperary University Hospital,321,159,20,0,500
+30/06/2022,Child,University Hospital Kerry,523,256,115,342,"1,236"
+30/06/2022,Child,University Hospital Limerick,"2,031",664,421,"1,738","4,853"
+30/06/2022,Child,University Hospital Waterford,"1,503",656,268,845,"3,273"
+30/06/2022,Child,Wexford General Hospital,577,61,3,0,642
+28/07/2022,Adult,Bantry General Hospital,734,263,121,149,"1,267"
+28/07/2022,Adult,Beaumont Hospital,"21,156","5,608",711,6,"27,480"
+28/07/2022,Adult,Cavan General Hospital,"4,515","1,978",619,120,"7,232"
+28/07/2022,Adult,Connolly Hospital Blanchardstown,"5,032",403,27,2,"5,463"
+28/07/2022,Adult,Coombe Women and Infants University Hospital,"1,904",496,370,292,"3,062"
+28/07/2022,Adult,Cork University Hospital,"12,985","6,882","4,136","9,364","33,367"
+28/07/2022,Adult,Cork University Maternity Hospital,"1,872",589,222,51,"2,734"
+28/07/2022,Adult,Croom Orthopaedic Hospital,"2,027","1,162",812,751,"4,752"
+28/07/2022,Adult,Ennis Hospital,747,407,165,252,"1,571"
+28/07/2022,Adult,Galway University Hospitals,"18,082","10,412","6,372","15,826","50,691"
+28/07/2022,Adult,Letterkenny University Hospital,"7,580","3,453","1,669","4,250","16,952"
+28/07/2022,Adult,Louth County Hospital,"1,832",600,397,253,"3,082"
+28/07/2022,Adult,Mallow General Hospital,"2,046",688,408,342,"3,484"
+28/07/2022,Adult,Mater Misericordiae University Hospital,"21,847","5,721","4,281","8,572","40,420"
+28/07/2022,Adult,Mayo University Hospital,"4,591","2,438","1,631","2,673","11,333"
+28/07/2022,Adult,Mercy University Hospital,"3,108","1,040",731,"2,161","7,039"
+28/07/2022,Adult,Midland Regional Hospital Mullingar,"4,561","2,572","1,837","1,268","10,238"
+28/07/2022,Adult,Midland Regional Hospital Portlaoise,"2,283","1,376",601,"1,104","5,364"
+28/07/2022,Adult,Midland Regional Hospital Tullamore,"6,803","3,401","1,806","2,029","14,039"
+28/07/2022,Adult,Naas General Hospital,"5,357","1,815",814,"1,121","9,107"
+28/07/2022,Adult,National Maternity Hospital (Holles Street),"1,853",127,23,0,"2,003"
+28/07/2022,Adult,National Orthopaedic Hospital Cappagh,"2,845",313,55,16,"3,229"
+28/07/2022,Adult,Nenagh Hospital,436,250,57,86,829
+28/07/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"6,927","3,245","1,305",34,"11,510"
+28/07/2022,Adult,Our Lady's Hospital Navan,"2,964","1,114",791,"2,171","7,040"
+28/07/2022,Adult,Portiuncula University Hospital,"2,034",717,343,739,"3,832"
+28/07/2022,Adult,Roscommon University Hospital,"3,314","1,092",765,"1,870","7,041"
+28/07/2022,Adult,Rotunda Hospital,"2,286",218,2,0,"2,506"
+28/07/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,650","2,537","1,687","5,149","14,023"
+28/07/2022,Adult,Sligo University Hospital,"6,981","3,393","2,021","3,315","15,709"
+28/07/2022,Adult,South Infirmary Victoria University Hospital,"9,719","3,742","2,352","6,195","22,008"
+28/07/2022,Adult,St. Columcille's Hospital,"2,643","1,528","1,109","2,358","7,637"
+28/07/2022,Adult,St. James's Hospital,"14,507","3,874","2,546","3,506","24,432"
+28/07/2022,Adult,St. John's Hospital Limerick,770,376,224,559,"1,929"
+28/07/2022,Adult,St. Luke's General Hospital Kilkenny,"3,358",660,107,19,"4,143"
+28/07/2022,Adult,St. Michael's Hospital,"2,730",545,163,202,"3,640"
+28/07/2022,Adult,St. Vincent's University Hospital,"16,050","4,972","2,166","1,399","24,586"
+28/07/2022,Adult,Tallaght University Hospital,"13,562","8,844","5,221","9,441","37,068"
+28/07/2022,Adult,Tipperary University Hospital,"2,122",766,445,260,"3,593"
+28/07/2022,Adult,University Hospital Kerry,"4,690","2,192","1,473","1,464","9,819"
+28/07/2022,Adult,University Hospital Limerick,"13,605","6,780","4,725","13,062","38,171"
+28/07/2022,Adult,University Hospital Waterford,"15,590","6,995","4,218","7,320","34,123"
+28/07/2022,Adult,Wexford General Hospital,"2,448",620,226,64,"3,358"
+28/07/2022,Child,Beaumont Hospital,140,27,3,0,170
+28/07/2022,Child,Cavan General Hospital,812,111,24,0,947
+28/07/2022,Child,Children's Health Ireland,"20,106","9,074","5,393","9,737","44,310"
+28/07/2022,Child,Coombe Women and Infants University Hospital,28,0,0,0,28
+28/07/2022,Child,Cork University Hospital,"2,919","1,516",587,"1,081","6,102"
+28/07/2022,Child,Cork University Maternity Hospital,42,16,0,0,58
+28/07/2022,Child,Croom Orthopaedic Hospital,164,27,30,34,255
+28/07/2022,Child,Ennis Hospital,39,8,2,2,51
+28/07/2022,Child,Galway University Hospitals,"2,601","1,397",637,"1,261","5,896"
+28/07/2022,Child,Letterkenny University Hospital,943,277,171,899,"2,290"
+28/07/2022,Child,Mallow General Hospital,164,7,2,3,176
+28/07/2022,Child,Mayo University Hospital,524,204,144,311,"1,183"
+28/07/2022,Child,Mercy University Hospital,329,70,45,14,458
+28/07/2022,Child,Midland Regional Hospital Mullingar,799,333,135,165,"1,432"
+28/07/2022,Child,Midland Regional Hospital Portlaoise,598,203,63,56,920
+28/07/2022,Child,Midland Regional Hospital Tullamore,708,408,211,373,"1,701"
+28/07/2022,Child,National Maternity Hospital (Holles Street),42,3,0,0,45
+28/07/2022,Child,National Orthopaedic Hospital Cappagh,229,47,23,5,304
+28/07/2022,Child,Nenagh Hospital,20,2,0,2,23
+28/07/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,842","1,051",543,168,"3,603"
+28/07/2022,Child,Our Lady's Hospital Navan,3,0,12,16,31
+28/07/2022,Child,Portiuncula University Hospital,497,36,14,45,593
+28/07/2022,Child,Rotunda Hospital,23,12,0,0,35
+28/07/2022,Child,Royal Victoria Eye and Ear Hospital,414,191,77,263,945
+28/07/2022,Child,Sligo University Hospital,"1,160",474,244,224,"2,103"
+28/07/2022,Child,Small Volume Hospitals,13,2,0,2,16
+28/07/2022,Child,South Infirmary Victoria University Hospital,"1,385",395,124,244,"2,148"
+28/07/2022,Child,St. Luke's General Hospital Kilkenny,470,17,2,0,489
+28/07/2022,Child,Tallaght University Hospital,26,13,2,2,42
+28/07/2022,Child,Tipperary University Hospital,331,121,32,0,485
+28/07/2022,Child,University Hospital Kerry,524,256,122,345,"1,248"
+28/07/2022,Child,University Hospital Limerick,"2,103",679,454,"1,696","4,932"
+28/07/2022,Child,University Hospital Waterford,"1,534",636,281,789,"3,241"
+28/07/2022,Child,Wexford General Hospital,626,61,3,0,691
+25/08/2022,Adult,Bantry General Hospital,645,253,126,133,"1,156"
+25/08/2022,Adult,Beaumont Hospital,"21,079","6,288",769,12,"28,147"
+25/08/2022,Adult,Cavan General Hospital,"4,853","2,034",649,121,"7,657"
+25/08/2022,Adult,Connolly Hospital Blanchardstown,"5,128",469,25,2,"5,623"
+25/08/2022,Adult,Coombe Women and Infants University Hospital,"1,999",448,408,287,"3,142"
+25/08/2022,Adult,Cork University Hospital,"12,686","6,837","4,281","9,393","33,196"
+25/08/2022,Adult,Cork University Maternity Hospital,"1,558",502,222,39,"2,321"
+25/08/2022,Adult,Croom Orthopaedic Hospital,"2,068","1,013",858,745,"4,684"
+25/08/2022,Adult,Ennis Hospital,727,429,199,181,"1,535"
+25/08/2022,Adult,Galway University Hospitals,"17,623","10,950","6,551","15,964","51,087"
+25/08/2022,Adult,Letterkenny University Hospital,"7,417","3,533","1,785","4,206","16,940"
+25/08/2022,Adult,Louth County Hospital,"1,721",638,392,265,"3,016"
+25/08/2022,Adult,Mallow General Hospital,"1,937",772,418,358,"3,485"
+25/08/2022,Adult,Mater Misericordiae University Hospital,"22,095","6,071","4,119","8,482","40,768"
+25/08/2022,Adult,Mayo University Hospital,"4,485","2,446","1,442","2,516","10,888"
+25/08/2022,Adult,Mercy University Hospital,"2,990","1,151",707,"2,079","6,927"
+25/08/2022,Adult,Midland Regional Hospital Mullingar,"4,417","2,647","1,903","1,361","10,327"
+25/08/2022,Adult,Midland Regional Hospital Portlaoise,"2,160","1,453",624,"1,064","5,300"
+25/08/2022,Adult,Midland Regional Hospital Tullamore,"6,527","3,740","1,923","1,937","14,126"
+25/08/2022,Adult,Naas General Hospital,"5,462","1,897",824,"1,122","9,305"
+25/08/2022,Adult,National Maternity Hospital (Holles Street),"1,837",151,20,0,"2,008"
+25/08/2022,Adult,National Orthopaedic Hospital Cappagh,"3,081",367,76,13,"3,537"
+25/08/2022,Adult,Nenagh Hospital,469,267,61,80,876
+25/08/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"7,028","2,935","1,305",69,"11,338"
+25/08/2022,Adult,Our Lady's Hospital Navan,"3,029","1,125",798,"1,927","6,879"
+25/08/2022,Adult,Portiuncula University Hospital,"2,013",820,437,760,"4,029"
+25/08/2022,Adult,Roscommon University Hospital,"3,272","1,052",764,"1,753","6,841"
+25/08/2022,Adult,Rotunda Hospital,"2,259",220,0,2,"2,481"
+25/08/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,709","2,516","1,614","5,084","13,923"
+25/08/2022,Adult,Sligo University Hospital,"6,885","3,248","1,810","3,287","15,230"
+25/08/2022,Adult,South Infirmary Victoria University Hospital,"9,860","4,088","2,363","5,972","22,282"
+25/08/2022,Adult,St. Columcille's Hospital,"2,738","1,579","1,153","2,427","7,897"
+25/08/2022,Adult,St. James's Hospital,"14,295","4,222","2,414","3,543","24,473"
+25/08/2022,Adult,St. John's Hospital Limerick,715,396,233,546,"1,890"
+25/08/2022,Adult,St. Luke's General Hospital Kilkenny,"3,345",784,143,17,"4,289"
+25/08/2022,Adult,St. Michael's Hospital,"2,752",621,174,208,"3,754"
+25/08/2022,Adult,St. Vincent's University Hospital,"16,244","4,922","2,257","1,370","24,794"
+25/08/2022,Adult,Tallaght University Hospital,"13,761","9,087","5,538","9,479","37,864"
+25/08/2022,Adult,Tipperary University Hospital,"2,148",811,448,267,"3,673"
+25/08/2022,Adult,University Hospital Kerry,"4,846","2,161","1,298",975,"9,279"
+25/08/2022,Adult,University Hospital Limerick,"13,688","6,794","4,872","12,364","37,717"
+25/08/2022,Adult,University Hospital Waterford,"15,957","7,157","4,430","6,989","34,533"
+25/08/2022,Adult,Wexford General Hospital,"2,543",677,235,67,"3,521"
+25/08/2022,Child,Beaumont Hospital,120,31,2,0,152
+25/08/2022,Child,Cavan General Hospital,857,157,19,0,"1,034"
+25/08/2022,Child,Children's Health Ireland,"19,969","9,680","4,897","9,825","44,370"
+25/08/2022,Child,Coombe Women and Infants University Hospital,30,0,0,0,30
+25/08/2022,Child,Cork University Hospital,"2,784","1,487",610,990,"5,871"
+25/08/2022,Child,Cork University Maternity Hospital,46,11,0,0,57
+25/08/2022,Child,Croom Orthopaedic Hospital,167,27,22,35,251
+25/08/2022,Child,Ennis Hospital,36,7,0,2,45
+25/08/2022,Child,Galway University Hospitals,"2,582","1,444",714,"1,257","5,997"
+25/08/2022,Child,Letterkenny University Hospital,873,305,171,861,"2,210"
+25/08/2022,Child,Mallow General Hospital,134,14,2,4,153
+25/08/2022,Child,Mayo University Hospital,519,201,149,297,"1,165"
+25/08/2022,Child,Mercy University Hospital,302,73,52,5,431
+25/08/2022,Child,Midland Regional Hospital Mullingar,736,367,147,163,"1,412"
+25/08/2022,Child,Midland Regional Hospital Portlaoise,553,244,74,49,919
+25/08/2022,Child,Midland Regional Hospital Tullamore,655,453,215,313,"1,635"
+25/08/2022,Child,National Maternity Hospital (Holles Street),39,4,0,0,43
+25/08/2022,Child,National Orthopaedic Hospital Cappagh,202,43,16,7,268
+25/08/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,768",944,487,149,"3,348"
+25/08/2022,Child,Our Lady's Hospital Navan,4,0,8,17,28
+25/08/2022,Child,Portiuncula University Hospital,496,41,31,41,608
+25/08/2022,Child,Rotunda Hospital,24,12,0,0,36
+25/08/2022,Child,Royal Victoria Eye and Ear Hospital,402,270,118,470,"1,260"
+25/08/2022,Child,Sligo University Hospital,"1,089",506,245,195,"2,035"
+25/08/2022,Child,Small Volume Hospitals,28,5,0,2,35
+25/08/2022,Child,South Infirmary Victoria University Hospital,"1,403",471,131,241,"2,246"
+25/08/2022,Child,St. Luke's General Hospital Kilkenny,458,34,2,0,494
+25/08/2022,Child,Tallaght University Hospital,34,11,2,2,48
+25/08/2022,Child,Tipperary University Hospital,319,131,45,0,495
+25/08/2022,Child,University Hospital Kerry,516,246,136,345,"1,243"
+25/08/2022,Child,University Hospital Limerick,"2,127",721,468,"1,573","4,890"
+25/08/2022,Child,University Hospital Waterford,"1,489",659,309,740,"3,196"
+25/08/2022,Child,Wexford General Hospital,613,89,2,0,703
+29/09/2022,Adult,Bantry General Hospital,658,236,93,38,"1,025"
+29/09/2022,Adult,Beaumont Hospital,"21,387","6,065",767,13,"28,233"
+29/09/2022,Adult,Cavan General Hospital,"4,574","2,004",554,91,"7,224"
+29/09/2022,Adult,Connolly Hospital Blanchardstown,"4,928",588,98,0,"5,614"
+29/09/2022,Adult,Coombe Women and Infants University Hospital,"1,903",606,401,267,"3,177"
+29/09/2022,Adult,Cork University Hospital,"13,061","6,774","4,587","9,279","33,701"
+29/09/2022,Adult,Cork University Maternity Hospital,"1,397",400,166,33,"1,996"
+29/09/2022,Adult,Croom Orthopaedic Hospital,"2,072",994,804,783,"4,653"
+29/09/2022,Adult,Ennis Hospital,692,377,196,131,"1,396"
+29/09/2022,Adult,Galway University Hospitals,"18,261","10,188","7,164","15,586","51,200"
+29/09/2022,Adult,Letterkenny University Hospital,"7,602","3,533","1,952","4,200","17,287"
+29/09/2022,Adult,Louth County Hospital,"1,825",653,399,288,"3,165"
+29/09/2022,Adult,Mallow General Hospital,"1,902",795,428,402,"3,527"
+29/09/2022,Adult,Mater Misericordiae University Hospital,"22,054","5,527","3,792","8,412","39,786"
+29/09/2022,Adult,Mayo University Hospital,"4,480","2,158","1,242","2,398","10,278"
+29/09/2022,Adult,Mercy University Hospital,"3,098","1,146",733,"1,926","6,903"
+29/09/2022,Adult,Midland Regional Hospital Mullingar,"4,480","2,602","1,682","1,319","10,083"
+29/09/2022,Adult,Midland Regional Hospital Portlaoise,"2,347","1,398",677,945,"5,367"
+29/09/2022,Adult,Midland Regional Hospital Tullamore,"7,070","4,022","1,511","1,729","14,332"
+29/09/2022,Adult,Naas General Hospital,"5,688","1,902",822,"1,141","9,553"
+29/09/2022,Adult,National Maternity Hospital (Holles Street),"1,904",137,13,0,"2,054"
+29/09/2022,Adult,National Orthopaedic Hospital Cappagh,"3,019",514,92,14,"3,639"
+29/09/2022,Adult,Nenagh Hospital,507,257,66,48,878
+29/09/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"7,140","2,925","1,261",98,"11,425"
+29/09/2022,Adult,Our Lady's Hospital Navan,"3,036","1,109",773,"1,727","6,645"
+29/09/2022,Adult,Portiuncula University Hospital,"1,980",729,418,682,"3,810"
+29/09/2022,Adult,Roscommon University Hospital,"3,342","1,063",772,"1,718","6,895"
+29/09/2022,Adult,Rotunda Hospital,"2,231",179,2,0,"2,412"
+29/09/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,725","2,343","1,728","5,018","13,814"
+29/09/2022,Adult,Sligo University Hospital,"7,424","3,068","1,824","2,903","15,219"
+29/09/2022,Adult,South Infirmary Victoria University Hospital,"10,104","4,239","2,421","5,982","22,746"
+29/09/2022,Adult,St. Columcille's Hospital,"2,688","1,611","1,211","2,496","8,006"
+29/09/2022,Adult,St. James's Hospital,"14,651","4,183","2,270","3,469","24,574"
+29/09/2022,Adult,St. John's Hospital Limerick,732,370,241,543,"1,886"
+29/09/2022,Adult,St. Luke's General Hospital Kilkenny,"3,545",809,178,11,"4,543"
+29/09/2022,Adult,St. Michael's Hospital,"2,813",543,184,163,"3,703"
+29/09/2022,Adult,St. Vincent's University Hospital,"16,499","4,655","2,085","1,318","24,558"
+29/09/2022,Adult,Tallaght University Hospital,"13,436","9,069","5,726","9,385","37,616"
+29/09/2022,Adult,Tipperary University Hospital,"2,138",860,449,276,"3,724"
+29/09/2022,Adult,University Hospital Kerry,"4,917","1,705","1,251",662,"8,535"
+29/09/2022,Adult,University Hospital Limerick,"14,177","6,631","4,884","11,348","37,041"
+29/09/2022,Adult,University Hospital Waterford,"15,936","6,815","4,524","6,745","34,020"
+29/09/2022,Adult,Wexford General Hospital,"2,563",667,203,22,"3,455"
+29/09/2022,Child,Beaumont Hospital,141,29,4,0,174
+29/09/2022,Child,Cavan General Hospital,804,205,15,0,"1,023"
+29/09/2022,Child,Children's Health Ireland,"20,048","9,533","4,838","9,889","44,308"
+29/09/2022,Child,Coombe Women and Infants University Hospital,32,0,0,0,32
+29/09/2022,Child,Cork University Hospital,"2,735","1,379",672,914,"5,701"
+29/09/2022,Child,Cork University Maternity Hospital,47,16,0,0,63
+29/09/2022,Child,Croom Orthopaedic Hospital,146,24,23,31,224
+29/09/2022,Child,Ennis Hospital,33,9,0,2,44
+29/09/2022,Child,Galway University Hospitals,"2,766","1,436",798,"1,249","6,249"
+29/09/2022,Child,Letterkenny University Hospital,848,303,176,786,"2,113"
+29/09/2022,Child,Mallow General Hospital,138,9,2,4,152
+29/09/2022,Child,Mayo University Hospital,519,208,144,271,"1,141"
+29/09/2022,Child,Mercy University Hospital,311,80,54,8,453
+29/09/2022,Child,Midland Regional Hospital Mullingar,635,367,125,135,"1,261"
+29/09/2022,Child,Midland Regional Hospital Portlaoise,604,257,72,42,974
+29/09/2022,Child,Midland Regional Hospital Tullamore,709,447,231,241,"1,627"
+29/09/2022,Child,National Maternity Hospital (Holles Street),43,8,0,0,51
+29/09/2022,Child,National Orthopaedic Hospital Cappagh,241,44,14,7,306
+29/09/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,828","1,030",496,132,"3,485"
+29/09/2022,Child,Portiuncula University Hospital,504,34,31,35,603
+29/09/2022,Child,Rotunda Hospital,22,12,0,0,34
+29/09/2022,Child,Royal Victoria Eye and Ear Hospital,366,229,138,394,"1,127"
+29/09/2022,Child,Sligo University Hospital,"1,024",468,196,162,"1,850"
+29/09/2022,Child,Small Volume Hospitals,24,5,4,12,45
+29/09/2022,Child,South Infirmary Victoria University Hospital,"1,361",488,141,233,"2,223"
+29/09/2022,Child,St. Luke's General Hospital Kilkenny,455,32,4,0,491
+29/09/2022,Child,Tallaght University Hospital,23,9,5,0,37
+29/09/2022,Child,Tipperary University Hospital,327,136,52,0,515
+29/09/2022,Child,University Hospital Kerry,529,251,137,323,"1,240"
+29/09/2022,Child,University Hospital Limerick,"2,130",731,432,"1,297","4,590"
+29/09/2022,Child,University Hospital Waterford,"1,515",628,318,667,"3,128"
+29/09/2022,Child,Wexford General Hospital,588,114,2,0,704
+27/10/2022,Adult,Bantry General Hospital,665,227,79,14,985
+27/10/2022,Adult,Beaumont Hospital,"21,286","5,720",502,14,"27,521"
+27/10/2022,Adult,Cavan General Hospital,"4,206","2,187",468,47,"6,907"
+27/10/2022,Adult,Connolly Hospital Blanchardstown,"4,705",524,254,2,"5,485"
+27/10/2022,Adult,Coombe Women and Infants University Hospital,"2,076",608,391,251,"3,326"
+27/10/2022,Adult,Cork University Hospital,"13,448","6,502","4,816","9,286","34,051"
+27/10/2022,Adult,Cork University Maternity Hospital,"1,533",373,141,43,"2,090"
+27/10/2022,Adult,Croom Orthopaedic Hospital,"2,078",993,759,721,"4,551"
+27/10/2022,Adult,Ennis Hospital,540,276,125,45,986
+27/10/2022,Adult,Galway University Hospitals,"18,932","9,822","7,050","15,271","51,075"
+27/10/2022,Adult,Letterkenny University Hospital,"7,581","3,309","1,844","3,961","16,695"
+27/10/2022,Adult,Louth County Hospital,"1,977",677,245,189,"3,088"
+27/10/2022,Adult,Mallow General Hospital,"1,893",788,439,354,"3,474"
+27/10/2022,Adult,Mater Misericordiae University Hospital,"21,683","5,615","3,437","8,275","39,009"
+27/10/2022,Adult,Mayo University Hospital,"4,367","1,946","1,157","2,303","9,773"
+27/10/2022,Adult,Mercy University Hospital,"3,111","1,154",739,"1,884","6,888"
+27/10/2022,Adult,Midland Regional Hospital Mullingar,"4,576","2,704","1,669","1,322","10,271"
+27/10/2022,Adult,Midland Regional Hospital Portlaoise,"2,290","1,315",683,852,"5,140"
+27/10/2022,Adult,Midland Regional Hospital Tullamore,"7,011","3,851","1,186","1,439","13,487"
+27/10/2022,Adult,Naas General Hospital,"5,704","1,875",898,999,"9,476"
+27/10/2022,Adult,National Maternity Hospital (Holles Street),"1,965",132,17,0,"2,114"
+27/10/2022,Adult,National Orthopaedic Hospital Cappagh,"2,920",651,105,16,"3,692"
+27/10/2022,Adult,Nenagh Hospital,382,199,50,21,652
+27/10/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"7,087","2,898","1,098",119,"11,201"
+27/10/2022,Adult,Our Lady's Hospital Navan,"3,106","1,013",708,"1,532","6,359"
+27/10/2022,Adult,Portiuncula University Hospital,"1,908",680,362,695,"3,645"
+27/10/2022,Adult,Roscommon University Hospital,"3,235","1,043",726,"1,718","6,722"
+27/10/2022,Adult,Rotunda Hospital,"2,337",196,2,2,"2,537"
+27/10/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,717","2,261","1,776","4,787","13,541"
+27/10/2022,Adult,Sligo University Hospital,"7,595","2,946","1,905","2,517","14,963"
+27/10/2022,Adult,South Infirmary Victoria University Hospital,"9,944","4,159","2,544","6,071","22,718"
+27/10/2022,Adult,St. Columcille's Hospital,"2,642","1,654","1,256","2,580","8,131"
+27/10/2022,Adult,St. James's Hospital,"14,518","4,064","2,177","3,076","23,834"
+27/10/2022,Adult,St. John's Hospital Limerick,790,374,227,499,"1,890"
+27/10/2022,Adult,St. Luke's General Hospital Kilkenny,"3,329",833,193,13,"4,368"
+27/10/2022,Adult,St. Michael's Hospital,"2,838",521,172,166,"3,697"
+27/10/2022,Adult,St. Vincent's University Hospital,"16,443","4,453","1,714","1,263","23,872"
+27/10/2022,Adult,Tallaght University Hospital,"13,150","8,736","5,899","9,245","37,030"
+27/10/2022,Adult,Tipperary University Hospital,"2,046",882,433,269,"3,630"
+27/10/2022,Adult,University Hospital Kerry,"4,895","1,385","1,186",572,"8,038"
+27/10/2022,Adult,University Hospital Limerick,"14,298","6,589","4,880","10,136","35,902"
+27/10/2022,Adult,University Hospital Waterford,"16,136","6,672","4,384","6,303","33,495"
+27/10/2022,Adult,Wexford General Hospital,"2,810",706,187,14,"3,717"
+27/10/2022,Child,Beaumont Hospital,141,31,3,0,176
+27/10/2022,Child,Cavan General Hospital,775,204,16,0,994
+27/10/2022,Child,Children's Health Ireland,"20,005","9,269","4,741","9,410","43,425"
+27/10/2022,Child,Coombe Women and Infants University Hospital,35,0,0,0,35
+27/10/2022,Child,Cork University Hospital,"2,742","1,387",663,821,"5,613"
+27/10/2022,Child,Cork University Maternity Hospital,50,12,0,0,62
+27/10/2022,Child,Croom Orthopaedic Hospital,147,20,24,19,209
+27/10/2022,Child,Ennis Hospital,28,5,2,0,35
+27/10/2022,Child,Galway University Hospitals,"2,842","1,367",813,"1,221","6,243"
+27/10/2022,Child,Letterkenny University Hospital,824,295,145,692,"1,956"
+27/10/2022,Child,Mallow General Hospital,132,10,2,3,148
+27/10/2022,Child,Mayo University Hospital,540,192,142,254,"1,129"
+27/10/2022,Child,Mercy University Hospital,292,77,55,13,437
+27/10/2022,Child,Midland Regional Hospital Mullingar,636,379,143,129,"1,288"
+27/10/2022,Child,Midland Regional Hospital Portlaoise,582,255,69,35,941
+27/10/2022,Child,Midland Regional Hospital Tullamore,707,433,215,225,"1,580"
+27/10/2022,Child,National Maternity Hospital (Holles Street),49,11,0,0,60
+27/10/2022,Child,National Orthopaedic Hospital Cappagh,246,44,16,10,316
+27/10/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,787","1,063",495,137,"3,482"
+27/10/2022,Child,Portiuncula University Hospital,475,27,24,41,567
+27/10/2022,Child,Rotunda Hospital,39,10,0,0,49
+27/10/2022,Child,Royal Victoria Eye and Ear Hospital,350,194,168,321,"1,033"
+27/10/2022,Child,Sligo University Hospital,951,467,169,149,"1,735"
+27/10/2022,Child,Small Volume Hospitals,24,9,2,11,45
+27/10/2022,Child,South Infirmary Victoria University Hospital,"1,313",480,160,229,"2,182"
+27/10/2022,Child,St. Luke's General Hospital Kilkenny,431,22,3,0,456
+27/10/2022,Child,Tallaght University Hospital,17,10,5,0,33
+27/10/2022,Child,Tipperary University Hospital,331,134,66,0,531
+27/10/2022,Child,University Hospital Kerry,518,236,137,280,"1,171"
+27/10/2022,Child,University Hospital Limerick,"2,127",716,438,"1,177","4,458"
+27/10/2022,Child,University Hospital Waterford,"1,538",627,321,597,"3,083"
+27/10/2022,Child,Wexford General Hospital,567,161,3,0,732
+24/11/2022,Adult,Bantry General Hospital,644,241,82,8,975
+24/11/2022,Adult,Beaumont Hospital,"21,563","5,410",307,8,"27,288"
+24/11/2022,Adult,Cavan General Hospital,"3,921","2,422",414,27,"6,784"
+24/11/2022,Adult,Connolly Hospital Blanchardstown,"4,577",649,281,10,"5,517"
+24/11/2022,Adult,Coombe Women and Infants University Hospital,"1,953",653,417,244,"3,267"
+24/11/2022,Adult,Cork University Hospital,"13,168","6,395","5,007","8,898","33,469"
+24/11/2022,Adult,Cork University Maternity Hospital,"1,576",371,109,31,"2,087"
+24/11/2022,Adult,Croom Orthopaedic Hospital,"2,037","1,010",752,701,"4,500"
+24/11/2022,Adult,Ennis Hospital,518,259,145,33,955
+24/11/2022,Adult,Galway University Hospitals,"18,794","9,836","7,168","14,695","50,493"
+24/11/2022,Adult,Letterkenny University Hospital,"7,427","2,701","1,583","3,762","15,473"
+24/11/2022,Adult,Louth County Hospital,"1,935",715,222,183,"3,055"
+24/11/2022,Adult,Mallow General Hospital,"1,926",770,332,233,"3,261"
+24/11/2022,Adult,Mater Misericordiae University Hospital,"21,618","5,786","3,301","8,156","38,862"
+24/11/2022,Adult,Mayo University Hospital,"4,199","1,942","1,115","2,163","9,419"
+24/11/2022,Adult,Mercy University Hospital,"2,990","1,176",724,"1,859","6,749"
+24/11/2022,Adult,Midland Regional Hospital Mullingar,"4,346","2,641","1,618","1,354","9,959"
+24/11/2022,Adult,Midland Regional Hospital Portlaoise,"2,204","1,219",730,587,"4,740"
+24/11/2022,Adult,Midland Regional Hospital Tullamore,"6,820","3,421","1,045",960,"12,246"
+24/11/2022,Adult,Naas General Hospital,"5,591","1,823",898,894,"9,206"
+24/11/2022,Adult,National Maternity Hospital (Holles Street),"1,968",152,15,0,"2,135"
+24/11/2022,Adult,National Orthopaedic Hospital Cappagh,"2,947",781,108,18,"3,854"
+24/11/2022,Adult,Nenagh Hospital,367,207,76,23,673
+24/11/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"6,937","2,821",994,134,"10,887"
+24/11/2022,Adult,Our Lady's Hospital Navan,"3,088","1,048",651,"1,395","6,182"
+24/11/2022,Adult,Portiuncula University Hospital,"1,895",707,340,665,"3,607"
+24/11/2022,Adult,Roscommon University Hospital,"3,112","1,118",727,"1,515","6,472"
+24/11/2022,Adult,Rotunda Hospital,"2,414",189,2,0,"2,605"
+24/11/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,777","2,318","1,741","4,204","13,040"
+24/11/2022,Adult,Sligo University Hospital,"7,871","2,842","1,966","2,234","14,913"
+24/11/2022,Adult,South Infirmary Victoria University Hospital,"9,784","4,422","2,511","5,979","22,696"
+24/11/2022,Adult,St. Columcille's Hospital,"2,499","1,748","1,237","2,650","8,134"
+24/11/2022,Adult,St. James's Hospital,"14,865","4,142","2,081","2,540","23,628"
+24/11/2022,Adult,St. John's Hospital Limerick,742,386,201,423,"1,752"
+24/11/2022,Adult,St. Luke's General Hospital Kilkenny,"3,332",890,152,23,"4,397"
+24/11/2022,Adult,St. Michael's Hospital,"2,857",602,194,147,"3,800"
+24/11/2022,Adult,St. Vincent's University Hospital,"16,481","4,502","1,590","1,263","23,837"
+24/11/2022,Adult,Tallaght University Hospital,"12,846","9,053","5,938","9,232","37,069"
+24/11/2022,Adult,Tipperary University Hospital,"2,082",861,422,244,"3,609"
+24/11/2022,Adult,University Hospital Kerry,"4,903","1,552","1,061",304,"7,820"
+24/11/2022,Adult,University Hospital Limerick,"14,302","6,566","4,903","8,146","33,917"
+24/11/2022,Adult,University Hospital Waterford,"15,536","6,861","4,313","5,879","32,589"
+24/11/2022,Adult,Wexford General Hospital,"2,788",746,173,6,"3,713"
+24/11/2022,Child,Beaumont Hospital,80,26,2,0,107
+24/11/2022,Child,Cavan General Hospital,795,252,13,2,"1,062"
+24/11/2022,Child,Children's Health Ireland,"19,751","9,537","5,000","8,696","42,984"
+24/11/2022,Child,Coombe Women and Infants University Hospital,31,0,0,0,31
+24/11/2022,Child,Cork University Hospital,"2,882","1,424",575,751,"5,632"
+24/11/2022,Child,Cork University Maternity Hospital,45,8,0,0,53
+24/11/2022,Child,Croom Orthopaedic Hospital,141,24,18,15,198
+24/11/2022,Child,Ennis Hospital,25,4,0,0,29
+24/11/2022,Child,Galway University Hospitals,"2,813","1,381",838,"1,135","6,167"
+24/11/2022,Child,Letterkenny University Hospital,844,297,146,620,"1,907"
+24/11/2022,Child,Mallow General Hospital,134,7,2,2,145
+24/11/2022,Child,Mayo University Hospital,574,209,144,212,"1,138"
+24/11/2022,Child,Mercy University Hospital,260,83,53,13,409
+24/11/2022,Child,Midland Regional Hospital Mullingar,650,358,169,129,"1,305"
+24/11/2022,Child,Midland Regional Hospital Portlaoise,542,266,85,26,919
+24/11/2022,Child,Midland Regional Hospital Tullamore,654,383,199,166,"1,402"
+24/11/2022,Child,National Maternity Hospital (Holles Street),48,12,0,0,60
+24/11/2022,Child,National Orthopaedic Hospital Cappagh,250,53,11,9,323
+24/11/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,797","1,138",493,112,"3,540"
+24/11/2022,Child,Portiuncula University Hospital,477,24,28,42,571
+24/11/2022,Child,Rotunda Hospital,38,4,0,0,42
+24/11/2022,Child,Royal Victoria Eye and Ear Hospital,338,185,178,259,960
+24/11/2022,Child,Sligo University Hospital,"1,023",524,135,133,"1,814"
+24/11/2022,Child,Small Volume Hospitals,32,5,0,2,39
+24/11/2022,Child,South Infirmary Victoria University Hospital,"1,367",486,152,219,"2,224"
+24/11/2022,Child,St. Luke's General Hospital Kilkenny,433,22,5,0,460
+24/11/2022,Child,Tallaght University Hospital,14,7,5,0,27
+24/11/2022,Child,Tipperary University Hospital,348,119,68,0,535
+24/11/2022,Child,University Hospital Kerry,494,235,130,208,"1,068"
+24/11/2022,Child,University Hospital Limerick,"2,116",778,435,967,"4,296"
+24/11/2022,Child,University Hospital Waterford,"1,527",654,336,500,"3,017"
+24/11/2022,Child,Wexford General Hospital,543,187,2,0,731
+22/12/2022,Adult,Bantry General Hospital,578,188,68,2,836
+22/12/2022,Adult,Beaumont Hospital,"21,530","5,640",18,2,"27,190"
+22/12/2022,Adult,Cavan General Hospital,"3,823","2,453",248,0,"6,524"
+22/12/2022,Adult,Connolly Hospital Blanchardstown,"4,363",515,181,2,"5,061"
+22/12/2022,Adult,Coombe Women and Infants University Hospital,"1,984",660,385,262,"3,291"
+22/12/2022,Adult,Cork University Hospital,"13,086","6,273","4,662","7,831","31,852"
+22/12/2022,Adult,Cork University Maternity Hospital,"1,583",347,56,24,"2,010"
+22/12/2022,Adult,Croom Orthopaedic Hospital,"1,996","1,022",681,642,"4,341"
+22/12/2022,Adult,Ennis Hospital,468,290,101,25,884
+22/12/2022,Adult,Galway University Hospitals,"18,196","8,984","6,781","12,670","46,630"
+22/12/2022,Adult,Letterkenny University Hospital,"7,010","2,581","1,491","3,469","14,551"
+22/12/2022,Adult,Louth County Hospital,"2,009",791,209,114,"3,123"
+22/12/2022,Adult,Mallow General Hospital,"1,900",711,273,184,"3,068"
+22/12/2022,Adult,Mater Misericordiae University Hospital,"21,036","5,726","3,129","7,980","37,870"
+22/12/2022,Adult,Mayo University Hospital,"4,255","1,940",823,"1,851","8,869"
+22/12/2022,Adult,Mercy University Hospital,"2,914","1,187",607,"1,762","6,469"
+22/12/2022,Adult,Midland Regional Hospital Mullingar,"4,103","2,219","1,360","1,130","8,812"
+22/12/2022,Adult,Midland Regional Hospital Portlaoise,"2,257","1,208",735,506,"4,706"
+22/12/2022,Adult,Midland Regional Hospital Tullamore,"7,343","3,540",945,364,"12,192"
+22/12/2022,Adult,Naas General Hospital,"5,311","1,892",873,659,"8,735"
+22/12/2022,Adult,National Maternity Hospital (Holles Street),"1,976",155,11,0,"2,142"
+22/12/2022,Adult,National Orthopaedic Hospital Cappagh,"2,789",727,103,21,"3,640"
+22/12/2022,Adult,Nenagh Hospital,322,220,82,22,646
+22/12/2022,Adult,Our Lady of Lourdes Hospital Drogheda,"6,947","3,113",847,97,"11,004"
+22/12/2022,Adult,Our Lady's Hospital Navan,"3,052",996,595,"1,267","5,910"
+22/12/2022,Adult,Portiuncula University Hospital,"1,917",633,285,595,"3,429"
+22/12/2022,Adult,Roscommon University Hospital,"3,022","1,204",741,"1,325","6,292"
+22/12/2022,Adult,Rotunda Hospital,"2,416",168,2,0,"2,586"
+22/12/2022,Adult,Royal Victoria Eye and Ear Hospital,"4,764","2,540","1,822","3,657","12,783"
+22/12/2022,Adult,Sligo University Hospital,"7,527","3,220","1,889","2,209","14,845"
+22/12/2022,Adult,South Infirmary Victoria University Hospital,"9,553","4,586","2,535","5,803","22,477"
+22/12/2022,Adult,St. Columcille's Hospital,"2,455","1,744","1,232","2,632","8,062"
+22/12/2022,Adult,St. James's Hospital,"14,658","4,157","1,933","2,047","22,795"
+22/12/2022,Adult,St. John's Hospital Limerick,630,371,203,324,"1,528"
+22/12/2022,Adult,St. Luke's General Hospital Kilkenny,"3,186",965,165,29,"4,344"
+22/12/2022,Adult,St. Michael's Hospital,"2,814",608,201,150,"3,773"
+22/12/2022,Adult,St. Vincent's University Hospital,"17,026","4,378","1,343","1,202","23,948"
+22/12/2022,Adult,Tallaght University Hospital,"12,945","9,174","6,027","9,083","37,228"
+22/12/2022,Adult,Tipperary University Hospital,"1,990",804,406,191,"3,390"
+22/12/2022,Adult,University Hospital Kerry,"4,823","1,410",963,161,"7,356"
+22/12/2022,Adult,University Hospital Limerick,"13,472","6,505","4,480","5,757","30,213"
+22/12/2022,Adult,University Hospital Waterford,"15,501","7,307","4,073","5,565","32,445"
+22/12/2022,Adult,Wexford General Hospital,"2,689",742,109,2,"3,541"
+22/12/2022,Child,Beaumont Hospital,74,18,0,0,93
+22/12/2022,Child,Cavan General Hospital,826,247,7,0,"1,081"
+22/12/2022,Child,Children's Health Ireland,"20,434","9,790","5,346","8,238","43,808"
+22/12/2022,Child,Coombe Women and Infants University Hospital,25,2,0,0,27
+22/12/2022,Child,Cork University Hospital,"2,923","1,459",506,624,"5,512"
+22/12/2022,Child,Cork University Maternity Hospital,42,8,0,0,50
+22/12/2022,Child,Croom Orthopaedic Hospital,128,20,9,11,167
+22/12/2022,Child,Ennis Hospital,25,4,0,0,28
+22/12/2022,Child,Galway University Hospitals,"2,766","1,308",791,951,"5,817"
+22/12/2022,Child,Letterkenny University Hospital,867,291,156,565,"1,879"
+22/12/2022,Child,Mallow General Hospital,123,20,2,0,145
+22/12/2022,Child,Mayo University Hospital,621,198,132,182,"1,134"
+22/12/2022,Child,Mercy University Hospital,274,70,48,12,404
+22/12/2022,Child,Midland Regional Hospital Mullingar,725,297,158,126,"1,305"
+22/12/2022,Child,Midland Regional Hospital Portlaoise,666,264,102,13,"1,044"
+22/12/2022,Child,Midland Regional Hospital Tullamore,695,386,232,111,"1,424"
+22/12/2022,Child,National Maternity Hospital (Holles Street),55,15,0,0,70
+22/12/2022,Child,National Orthopaedic Hospital Cappagh,242,54,8,5,309
+22/12/2022,Child,Our Lady of Lourdes Hospital Drogheda,"1,879","1,150",408,70,"3,508"
+22/12/2022,Child,Portiuncula University Hospital,470,33,11,38,552
+22/12/2022,Child,Rotunda Hospital,32,4,0,0,36
+22/12/2022,Child,Royal Victoria Eye and Ear Hospital,294,218,179,186,877
+22/12/2022,Child,Sligo University Hospital,"1,034",559,132,118,"1,843"
+22/12/2022,Child,Small Volume Hospitals,29,4,2,2,36
+22/12/2022,Child,South Infirmary Victoria University Hospital,"1,404",502,167,212,"2,285"
+22/12/2022,Child,St. Luke's General Hospital Kilkenny,393,23,2,2,420
+22/12/2022,Child,Tallaght University Hospital,20,5,4,0,29
+22/12/2022,Child,Tipperary University Hospital,369,105,54,0,528
+22/12/2022,Child,University Hospital Kerry,512,216,101,159,989
+22/12/2022,Child,University Hospital Limerick,"2,106",822,411,656,"3,995"
+22/12/2022,Child,University Hospital Waterford,"1,600",648,343,458,"3,049"
+22/12/2022,Child,Wexford General Hospital,580,214,0,0,794

@@ -1,0 +1,770 @@
+ArchiveDate,Hospital_Name,Case_Type,Adult_Child,0-6 Months,6-12 Months,12-18 Months,18 Months +,Total
+29/04/2021,Bantry General Hospital,Day Case,Adult,149,110,14,3,275
+29/04/2021,Beaumont Hospital,Day Case,Adult,"2,349",510,180,62,"3,101"
+29/04/2021,Cavan General Hospital,Day Case,Adult,243,56,11,0,310
+29/04/2021,Connolly Hospital Blanchardstown,Day Case,Adult,512,75,13,12,612
+29/04/2021,Coombe Women and Infants University Hospital,Day Case,Adult,116,24,3,3,145
+29/04/2021,Cork University Hospital,Day Case,Adult,476,115,110,110,811
+29/04/2021,Cork University Maternity Hospital,Day Case,Adult,153,33,14,17,217
+29/04/2021,Croom Orthopaedic Hospital,Day Case,Adult,328,117,67,3,515
+29/04/2021,Ennis Hospital,Day Case,Adult,275,124,49,3,451
+29/04/2021,Galway University Hospitals,Day Case,Adult,"2,840","1,098",862,"1,202","6,002"
+29/04/2021,Kilcreene Regional Orthopaedic Hospital,Day Case,Adult,73,8,5,0,86
+29/04/2021,Letterkenny University Hospital,Day Case,Adult,"1,007",696,344,273,"2,320"
+29/04/2021,Louth County Hospital,Day Case,Adult,495,94,15,3,607
+29/04/2021,Mallow General Hospital,Day Case,Adult,135,49,11,8,203
+29/04/2021,Mater Misericordiae University Hospital,Day Case,Adult,"2,219",676,330,506,"3,731"
+29/04/2021,Mayo University Hospital,Day Case,Adult,351,145,123,257,876
+29/04/2021,Mercy University Hospital,Day Case,Adult,403,131,134,151,819
+29/04/2021,Midland Regional Hospital Mullingar,Day Case,Adult,401,232,106,8,747
+29/04/2021,Midland Regional Hospital Portlaoise,Day Case,Adult,268,105,61,34,468
+29/04/2021,Midland Regional Hospital Tullamore,Day Case,Adult,498,75,55,80,708
+29/04/2021,Naas General Hospital,Day Case,Adult,195,110,57,23,385
+29/04/2021,National Orthopaedic Hospital Cappagh,Day Case,Adult,346,49,5,3,403
+29/04/2021,Nenagh Hospital,Day Case,Adult,575,375,582,278,"1,810"
+29/04/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Adult,198,41,3,0,242
+29/04/2021,Our Lady's Hospital Navan,Day Case,Adult,403,79,26,7,515
+29/04/2021,Portiuncula University Hospital,Day Case,Adult,242,73,82,77,474
+29/04/2021,Roscommon University Hospital,Day Case,Adult,497,181,135,85,898
+29/04/2021,Royal Victoria Eye and Ear Hospital,Day Case,Adult,"1,034",291,162,93,"1,580"
+29/04/2021,Sligo University Hospital,Day Case,Adult,"1,151",340,210,200,"1,901"
+29/04/2021,South Infirmary Victoria University Hospital,Day Case,Adult,"1,710",382,57,50,"2,199"
+29/04/2021,South Tipperary General Hospital,Day Case,Adult,135,8,3,0,145
+29/04/2021,St. Columcille's Hospital,Day Case,Adult,449,155,36,20,660
+29/04/2021,St. James's Hospital,Day Case,Adult,"2,304",720,550,846,"4,420"
+29/04/2021,St. John's Hospital Limerick,Day Case,Adult,295,136,141,166,738
+29/04/2021,St. Luke's General Hospital Kilkenny,Day Case,Adult,359,177,129,181,846
+29/04/2021,St. Michael's Hospital,Day Case,Adult,16,5,0,3,23
+29/04/2021,St. Vincent's University Hospital,Day Case,Adult,"1,425",421,216,128,"2,190"
+29/04/2021,Tallaght University Hospital,Day Case,Adult,"1,381",574,282,394,"2,631"
+29/04/2021,University Hospital Kerry,Day Case,Adult,218,31,61,5,315
+29/04/2021,University Hospital Limerick,Day Case,Adult,648,312,288,248,"1,496"
+29/04/2021,University Hospital Waterford,Day Case,Adult,"1,643",576,504,938,"3,661"
+29/04/2021,Wexford General Hospital,Day Case,Adult,527,259,63,3,852
+29/04/2021,Beaumont Hospital,Inpatient,Adult,888,428,268,122,"1,706"
+29/04/2021,Connolly Hospital Blanchardstown,Inpatient,Adult,155,9,8,0,172
+29/04/2021,Cork University Hospital,Inpatient,Adult,185,107,39,54,385
+29/04/2021,Cork University Maternity Hospital,Inpatient,Adult,144,37,40,166,387
+29/04/2021,Croom Orthopaedic Hospital,Inpatient,Adult,193,167,41,2,403
+29/04/2021,Galway University Hospitals,Inpatient,Adult,721,314,303,967,"2,305"
+29/04/2021,Kilcreene Regional Orthopaedic Hospital,Inpatient,Adult,103,4,4,2,114
+29/04/2021,Letterkenny University Hospital,Inpatient,Adult,196,177,110,188,671
+29/04/2021,Mater Misericordiae University Hospital,Inpatient,Adult,692,229,172,428,"1,521"
+29/04/2021,Mayo University Hospital,Inpatient,Adult,118,57,62,56,293
+29/04/2021,Mercy University Hospital,Inpatient,Adult,92,38,23,48,201
+29/04/2021,Midland Regional Hospital Portlaoise,Inpatient,Adult,24,8,8,2,42
+29/04/2021,Midland Regional Hospital Tullamore,Inpatient,Adult,338,49,64,117,568
+29/04/2021,National Orthopaedic Hospital Cappagh,Inpatient,Adult,748,163,44,13,968
+29/04/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Adult,266,99,42,0,407
+29/04/2021,Our Lady's Hospital Navan,Inpatient,Adult,78,51,38,37,204
+29/04/2021,Royal Victoria Eye and Ear Hospital,Inpatient,Adult,125,53,42,43,263
+29/04/2021,Sligo University Hospital,Inpatient,Adult,375,137,145,159,816
+29/04/2021,Small Volume Hospitals,Inpatient,Adult,116,33,13,19,181
+29/04/2021,South Infirmary Victoria University Hospital,Inpatient,Adult,190,58,57,77,382
+29/04/2021,South Tipperary General Hospital,Inpatient,Adult,27,7,0,0,34
+29/04/2021,St. James's Hospital,Inpatient,Adult,618,259,218,489,"1,584"
+29/04/2021,St. John's Hospital Limerick,Inpatient,Adult,281,99,133,98,611
+29/04/2021,St. Luke's General Hospital Kilkenny,Inpatient,Adult,16,11,10,10,47
+29/04/2021,St. Michael's Hospital,Inpatient,Adult,422,105,51,45,623
+29/04/2021,St. Vincent's University Hospital,Inpatient,Adult,529,141,100,228,998
+29/04/2021,Tallaght University Hospital,Inpatient,Adult,410,222,231,229,"1,092"
+29/04/2021,University Hospital Kerry,Inpatient,Adult,50,4,15,11,80
+29/04/2021,University Hospital Limerick,Inpatient,Adult,197,84,61,79,421
+29/04/2021,University Hospital Waterford,Inpatient,Adult,132,66,50,91,339
+29/04/2021,Children's Health Ireland,Day Case,Child,"1,441",510,459,455,"2,865"
+29/04/2021,Cork University Hospital,Day Case,Child,70,36,17,13,136
+29/04/2021,Galway University Hospitals,Day Case,Child,120,61,53,48,282
+29/04/2021,Letterkenny University Hospital,Day Case,Child,23,27,12,11,73
+29/04/2021,Mercy University Hospital,Day Case,Child,61,26,7,2,96
+29/04/2021,Midland Regional Hospital Tullamore,Day Case,Child,28,4,0,0,32
+29/04/2021,National Orthopaedic Hospital Cappagh,Day Case,Child,95,2,2,0,100
+29/04/2021,Royal Victoria Eye and Ear Hospital,Day Case,Child,27,16,20,12,75
+29/04/2021,Sligo University Hospital,Day Case,Child,30,20,8,11,69
+29/04/2021,Small Volume Hospitals,Day Case,Child,90,27,59,24,200
+29/04/2021,South Infirmary Victoria University Hospital,Day Case,Child,77,19,11,5,112
+29/04/2021,South Tipperary General Hospital,Day Case,Child,24,2,2,0,28
+29/04/2021,University Hospital Limerick,Day Case,Child,44,20,57,47,168
+29/04/2021,University Hospital Waterford,Day Case,Child,38,8,27,17,90
+29/04/2021,Children's Health Ireland,Inpatient,Child,984,690,542,559,"2,775"
+29/04/2021,Galway University Hospitals,Inpatient,Child,55,7,7,10,79
+29/04/2021,Midland Regional Hospital Tullamore,Inpatient,Child,50,0,0,0,50
+29/04/2021,National Orthopaedic Hospital Cappagh,Inpatient,Child,74,25,23,5,127
+29/04/2021,Sligo University Hospital,Inpatient,Child,33,13,7,16,69
+29/04/2021,Small Volume Hospitals,Inpatient,Child,114,55,83,37,290
+29/04/2021,South Infirmary Victoria University Hospital,Inpatient,Child,32,9,4,5,50
+13/05/2021,Bantry General Hospital,Day Case,Adult,156,125,20,2,303
+13/05/2021,Beaumont Hospital,Day Case,Adult,"2,428",506,160,50,"3,144"
+13/05/2021,Cavan General Hospital,Day Case,Adult,251,48,7,0,306
+13/05/2021,Connolly Hospital Blanchardstown,Day Case,Adult,495,71,2,0,568
+13/05/2021,Coombe Women and Infants University Hospital,Day Case,Adult,114,30,2,2,149
+13/05/2021,Cork University Hospital,Day Case,Adult,449,120,99,120,788
+13/05/2021,Cork University Maternity Hospital,Day Case,Adult,168,32,14,18,232
+13/05/2021,Croom Orthopaedic Hospital,Day Case,Adult,342,115,60,2,519
+13/05/2021,Ennis Hospital,Day Case,Adult,270,147,48,2,467
+13/05/2021,Galway University Hospitals,Day Case,Adult,"2,924","1,172",789,"1,179","6,064"
+13/05/2021,Kilcreene Regional Orthopaedic Hospital,Day Case,Adult,77,8,8,0,94
+13/05/2021,Letterkenny University Hospital,Day Case,Adult,895,674,335,272,"2,176"
+13/05/2021,Louth County Hospital,Day Case,Adult,483,96,22,2,603
+13/05/2021,Mallow General Hospital,Day Case,Adult,161,39,12,8,220
+13/05/2021,Mater Misericordiae University Hospital,Day Case,Adult,"2,256",680,313,506,"3,755"
+13/05/2021,Mayo University Hospital,Day Case,Adult,363,148,110,266,887
+13/05/2021,Mercy University Hospital,Day Case,Adult,429,132,133,152,846
+13/05/2021,Midland Regional Hospital Mullingar,Day Case,Adult,367,209,94,13,683
+13/05/2021,Midland Regional Hospital Portlaoise,Day Case,Adult,260,133,80,45,518
+13/05/2021,Midland Regional Hospital Tullamore,Day Case,Adult,487,75,56,78,696
+13/05/2021,Naas General Hospital,Day Case,Adult,165,113,53,20,351
+13/05/2021,National Orthopaedic Hospital Cappagh,Day Case,Adult,343,46,5,2,396
+13/05/2021,Nenagh Hospital,Day Case,Adult,581,382,535,354,"1,852"
+13/05/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Adult,192,40,2,0,234
+13/05/2021,Our Lady's Hospital Navan,Day Case,Adult,413,73,26,2,514
+13/05/2021,Portiuncula University Hospital,Day Case,Adult,256,70,71,71,468
+13/05/2021,Roscommon University Hospital,Day Case,Adult,410,189,121,92,812
+13/05/2021,Royal Victoria Eye and Ear Hospital,Day Case,Adult,"1,020",298,141,95,"1,554"
+13/05/2021,Sligo University Hospital,Day Case,Adult,"1,153",339,208,193,"1,893"
+13/05/2021,South Infirmary Victoria University Hospital,Day Case,Adult,"1,647",413,55,52,"2,167"
+13/05/2021,St. Columcille's Hospital,Day Case,Adult,452,145,33,27,657
+13/05/2021,St. James's Hospital,Day Case,Adult,"2,269",738,504,853,"4,364"
+13/05/2021,St. John's Hospital Limerick,Day Case,Adult,284,156,128,166,734
+13/05/2021,St. Luke's General Hospital Kilkenny,Day Case,Adult,388,171,121,161,841
+13/05/2021,St. Michael's Hospital,Day Case,Adult,24,5,0,2,31
+13/05/2021,St. Vincent's University Hospital,Day Case,Adult,"1,485",444,208,128,"2,265"
+13/05/2021,Tallaght University Hospital,Day Case,Adult,"1,371",600,263,397,"2,631"
+13/05/2021,Tipperary University Hospital,Day Case,Adult,138,5,2,0,145
+13/05/2021,University Hospital Kerry,Day Case,Adult,207,24,54,8,293
+13/05/2021,University Hospital Limerick,Day Case,Adult,648,335,268,261,"1,512"
+13/05/2021,University Hospital Waterford,Day Case,Adult,"1,661",570,452,939,"3,622"
+13/05/2021,Wexford General Hospital,Day Case,Adult,495,292,58,2,847
+13/05/2021,Beaumont Hospital,Inpatient,Adult,870,436,250,130,"1,686"
+13/05/2021,Connolly Hospital Blanchardstown,Inpatient,Adult,159,7,0,0,166
+13/05/2021,Cork University Hospital,Inpatient,Adult,179,109,38,56,382
+13/05/2021,Cork University Maternity Hospital,Inpatient,Adult,142,41,32,162,377
+13/05/2021,Croom Orthopaedic Hospital,Inpatient,Adult,198,196,41,2,437
+13/05/2021,Galway University Hospitals,Inpatient,Adult,712,347,287,968,"2,314"
+13/05/2021,Kilcreene Regional Orthopaedic Hospital,Inpatient,Adult,104,10,8,2,124
+13/05/2021,Letterkenny University Hospital,Inpatient,Adult,151,172,98,183,604
+13/05/2021,Mater Misericordiae University Hospital,Inpatient,Adult,703,233,158,430,"1,524"
+13/05/2021,Mayo University Hospital,Inpatient,Adult,110,62,56,60,288
+13/05/2021,Mercy University Hospital,Inpatient,Adult,88,38,21,47,194
+13/05/2021,Midland Regional Hospital Portlaoise,Inpatient,Adult,21,7,8,2,38
+13/05/2021,Midland Regional Hospital Tullamore,Inpatient,Adult,326,46,43,105,520
+13/05/2021,National Orthopaedic Hospital Cappagh,Inpatient,Adult,744,144,39,13,940
+13/05/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Adult,268,98,32,0,398
+13/05/2021,Our Lady's Hospital Navan,Inpatient,Adult,78,45,26,28,177
+13/05/2021,Royal Victoria Eye and Ear Hospital,Inpatient,Adult,107,58,37,46,248
+13/05/2021,Sligo University Hospital,Inpatient,Adult,345,146,141,165,797
+13/05/2021,Small Volume Hospitals,Inpatient,Adult,136,32,12,19,199
+13/05/2021,South Infirmary Victoria University Hospital,Inpatient,Adult,178,65,57,86,386
+13/05/2021,St. James's Hospital,Inpatient,Adult,628,266,212,491,"1,597"
+13/05/2021,St. John's Hospital Limerick,Inpatient,Adult,296,109,120,99,624
+13/05/2021,St. Luke's General Hospital Kilkenny,Inpatient,Adult,20,10,10,10,50
+13/05/2021,St. Michael's Hospital,Inpatient,Adult,419,103,44,49,615
+13/05/2021,St. Vincent's University Hospital,Inpatient,Adult,480,152,92,235,959
+13/05/2021,Tallaght University Hospital,Inpatient,Adult,438,226,221,235,"1,120"
+13/05/2021,University Hospital Kerry,Inpatient,Adult,68,9,13,10,100
+13/05/2021,University Hospital Limerick,Inpatient,Adult,196,81,58,80,415
+13/05/2021,University Hospital Waterford,Inpatient,Adult,127,67,47,89,330
+13/05/2021,Children's Health Ireland,Day Case,Child,"1,375",539,427,464,"2,805"
+13/05/2021,Cork University Hospital,Day Case,Child,69,35,20,13,137
+13/05/2021,Galway University Hospitals,Day Case,Child,118,62,57,49,286
+13/05/2021,Letterkenny University Hospital,Day Case,Child,22,29,12,12,75
+13/05/2021,Mercy University Hospital,Day Case,Child,59,28,8,2,97
+13/05/2021,Midland Regional Hospital Tullamore,Day Case,Child,22,4,0,0,26
+13/05/2021,National Orthopaedic Hospital Cappagh,Day Case,Child,85,0,2,0,87
+13/05/2021,Royal Victoria Eye and Ear Hospital,Day Case,Child,26,18,20,11,75
+13/05/2021,Sligo University Hospital,Day Case,Child,28,19,9,9,65
+13/05/2021,Small Volume Hospitals,Day Case,Child,118,27,60,23,228
+13/05/2021,South Infirmary Victoria University Hospital,Day Case,Child,81,20,9,6,116
+13/05/2021,University Hospital Limerick,Day Case,Child,50,22,47,40,159
+13/05/2021,University Hospital Waterford,Day Case,Child,34,4,20,19,78
+13/05/2021,Children's Health Ireland,Inpatient,Child,996,706,490,579,"2,771"
+13/05/2021,Galway University Hospitals,Inpatient,Child,60,7,8,10,85
+13/05/2021,Midland Regional Hospital Tullamore,Inpatient,Child,39,0,0,0,39
+13/05/2021,National Orthopaedic Hospital Cappagh,Inpatient,Child,69,24,23,2,118
+13/05/2021,Sligo University Hospital,Inpatient,Child,41,14,7,15,77
+13/05/2021,Small Volume Hospitals,Inpatient,Child,120,69,104,34,326
+13/05/2021,South Infirmary Victoria University Hospital,Inpatient,Child,27,12,4,2,46
+29/07/2021,Bantry General Hospital,Day Case,Adult,130,24,15,2,171
+29/07/2021,Beaumont Hospital,Day Case,Adult,"2,739",471,65,55,"3,330"
+29/07/2021,Cavan General Hospital,Day Case,Adult,330,9,10,0,350
+29/07/2021,Connolly Hospital Blanchardstown,Day Case,Adult,443,2,2,0,448
+29/07/2021,Coombe Women and Infants University Hospital,Day Case,Adult,80,37,0,2,119
+29/07/2021,Cork University Hospital,Day Case,Adult,369,162,66,156,753
+29/07/2021,Cork University Maternity Hospital,Day Case,Adult,138,51,5,22,216
+29/07/2021,Croom Orthopaedic Hospital,Day Case,Adult,335,78,46,17,476
+29/07/2021,Ennis Hospital,Day Case,Adult,232,142,86,15,475
+29/07/2021,Galway University Hospitals,Day Case,Adult,"2,664","1,569",539,"1,385","6,157"
+29/07/2021,Kilcreene Regional Orthopaedic Hospital,Day Case,Adult,65,8,5,2,80
+29/07/2021,Letterkenny University Hospital,Day Case,Adult,816,580,282,398,"2,076"
+29/07/2021,Louth County Hospital,Day Case,Adult,451,100,16,6,573
+29/07/2021,Mallow General Hospital,Day Case,Adult,128,51,12,11,202
+29/07/2021,Mater Misericordiae University Hospital,Day Case,Adult,"2,446",428,252,535,"3,661"
+29/07/2021,Mayo University Hospital,Day Case,Adult,323,171,78,302,874
+29/07/2021,Mercy University Hospital,Day Case,Adult,447,172,101,187,907
+29/07/2021,Midland Regional Hospital Mullingar,Day Case,Adult,393,216,112,34,755
+29/07/2021,Midland Regional Hospital Portlaoise,Day Case,Adult,207,178,72,74,531
+29/07/2021,Midland Regional Hospital Tullamore,Day Case,Adult,438,111,34,95,678
+29/07/2021,Naas General Hospital,Day Case,Adult,160,96,50,26,332
+29/07/2021,National Orthopaedic Hospital Cappagh,Day Case,Adult,425,41,6,2,474
+29/07/2021,Nenagh Hospital,Day Case,Adult,437,404,406,372,"1,619"
+29/07/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Adult,180,33,2,0,215
+29/07/2021,Our Lady's Hospital Navan,Day Case,Adult,385,81,21,11,498
+29/07/2021,Portiuncula University Hospital,Day Case,Adult,278,64,40,44,426
+29/07/2021,Roscommon University Hospital,Day Case,Adult,352,208,115,118,793
+29/07/2021,Royal Victoria Eye and Ear Hospital,Day Case,Adult,"1,525",308,107,133,"2,073"
+29/07/2021,Sligo University Hospital,Day Case,Adult,"1,311",457,192,246,"2,206"
+29/07/2021,South Infirmary Victoria University Hospital,Day Case,Adult,"1,634",490,83,61,"2,268"
+29/07/2021,St. Columcille's Hospital,Day Case,Adult,474,109,34,35,652
+29/07/2021,St. James's Hospital,Day Case,Adult,"1,963",875,324,918,"4,080"
+29/07/2021,St. John's Hospital Limerick,Day Case,Adult,255,189,103,204,751
+29/07/2021,St. Luke's General Hospital Kilkenny,Day Case,Adult,453,165,123,159,900
+29/07/2021,St. Michael's Hospital,Day Case,Adult,19,5,2,2,28
+29/07/2021,St. Vincent's University Hospital,Day Case,Adult,"1,406",403,177,147,"2,133"
+29/07/2021,Tallaght University Hospital,Day Case,Adult,"1,553",517,242,380,"2,692"
+29/07/2021,Tipperary University Hospital,Day Case,Adult,190,5,2,0,197
+29/07/2021,University Hospital Kerry,Day Case,Adult,153,67,45,18,283
+29/07/2021,University Hospital Limerick,Day Case,Adult,641,380,241,325,"1,587"
+29/07/2021,University Hospital Waterford,Day Case,Adult,"1,867",596,300,"1,034","3,797"
+29/07/2021,Wexford General Hospital,Day Case,Adult,551,364,80,9,"1,004"
+29/07/2021,Beaumont Hospital,Inpatient,Adult,"1,033",430,179,188,"1,830"
+29/07/2021,Connolly Hospital Blanchardstown,Inpatient,Adult,76,0,5,0,81
+29/07/2021,Cork University Hospital,Inpatient,Adult,163,123,40,67,393
+29/07/2021,Cork University Maternity Hospital,Inpatient,Adult,96,85,15,175,371
+29/07/2021,Croom Orthopaedic Hospital,Inpatient,Adult,219,138,63,12,432
+29/07/2021,Galway University Hospitals,Inpatient,Adult,710,373,195,"1,033","2,311"
+29/07/2021,Kilcreene Regional Orthopaedic Hospital,Inpatient,Adult,136,16,5,5,162
+29/07/2021,Letterkenny University Hospital,Inpatient,Adult,188,135,72,209,604
+29/07/2021,Mater Misericordiae University Hospital,Inpatient,Adult,694,222,117,421,"1,454"
+29/07/2021,Mayo University Hospital,Inpatient,Adult,72,82,40,93,287
+29/07/2021,Mercy University Hospital,Inpatient,Adult,90,32,20,52,194
+29/07/2021,Midland Regional Hospital Portlaoise,Inpatient,Adult,11,9,5,2,27
+29/07/2021,Midland Regional Hospital Tullamore,Inpatient,Adult,263,84,42,149,538
+29/07/2021,National Orthopaedic Hospital Cappagh,Inpatient,Adult,820,115,7,21,963
+29/07/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Adult,275,103,35,2,415
+29/07/2021,Our Lady's Hospital Navan,Inpatient,Adult,83,35,7,26,151
+29/07/2021,Royal Victoria Eye and Ear Hospital,Inpatient,Adult,109,54,32,47,242
+29/07/2021,Sligo University Hospital,Inpatient,Adult,320,186,99,204,809
+29/07/2021,Small Volume Hospitals,Inpatient,Adult,101,36,16,19,172
+29/07/2021,South Infirmary Victoria University Hospital,Inpatient,Adult,188,75,41,101,405
+29/07/2021,St. James's Hospital,Inpatient,Adult,635,303,146,550,"1,634"
+29/07/2021,St. John's Hospital Limerick,Inpatient,Adult,248,142,88,129,607
+29/07/2021,St. Luke's General Hospital Kilkenny,Inpatient,Adult,29,10,10,6,56
+29/07/2021,St. Michael's Hospital,Inpatient,Adult,443,124,32,51,650
+29/07/2021,St. Vincent's University Hospital,Inpatient,Adult,511,142,62,240,955
+29/07/2021,Tallaght University Hospital,Inpatient,Adult,412,193,155,240,"1,000"
+29/07/2021,University Hospital Kerry,Inpatient,Adult,134,34,18,20,206
+29/07/2021,University Hospital Limerick,Inpatient,Adult,225,103,61,115,504
+29/07/2021,University Hospital Waterford,Inpatient,Adult,99,66,38,99,302
+29/07/2021,Children's Health Ireland,Day Case,Child,"1,493",614,341,556,"3,004"
+29/07/2021,Cork University Hospital,Day Case,Child,68,39,18,22,147
+29/07/2021,Galway University Hospitals,Day Case,Child,109,70,42,69,290
+29/07/2021,Letterkenny University Hospital,Day Case,Child,20,27,11,18,76
+29/07/2021,Mercy University Hospital,Day Case,Child,61,41,9,5,116
+29/07/2021,Midland Regional Hospital Tullamore,Day Case,Child,32,2,2,0,36
+29/07/2021,National Orthopaedic Hospital Cappagh,Day Case,Child,62,0,0,0,62
+29/07/2021,Royal Victoria Eye and Ear Hospital,Day Case,Child,33,12,15,15,75
+29/07/2021,Sligo University Hospital,Day Case,Child,48,22,7,10,87
+29/07/2021,Small Volume Hospitals,Day Case,Child,105,25,34,22,185
+29/07/2021,South Infirmary Victoria University Hospital,Day Case,Child,74,22,4,9,109
+29/07/2021,University Hospital Limerick,Day Case,Child,54,27,32,45,158
+29/07/2021,University Hospital Waterford,Day Case,Child,32,11,9,16,68
+29/07/2021,Children's Health Ireland,Inpatient,Child,"1,072",760,416,667,"2,915"
+29/07/2021,Galway University Hospitals,Inpatient,Child,45,10,4,17,76
+29/07/2021,Midland Regional Hospital Tullamore,Inpatient,Child,49,2,0,0,51
+29/07/2021,National Orthopaedic Hospital Cappagh,Inpatient,Child,94,31,9,19,153
+29/07/2021,Sligo University Hospital,Inpatient,Child,48,22,7,19,96
+29/07/2021,Small Volume Hospitals,Inpatient,Child,73,55,34,49,211
+29/07/2021,South Infirmary Victoria University Hospital,Inpatient,Child,18,4,0,2,24
+26/08/2021,Bantry General Hospital,Day Case,Adult,92,19,9,7,127
+26/08/2021,Beaumont Hospital,Day Case,Adult,"2,494",394,53,45,"2,986"
+26/08/2021,Cavan General Hospital,Day Case,Adult,292,26,5,2,325
+26/08/2021,Connolly Hospital Blanchardstown,Day Case,Adult,360,2,0,0,362
+26/08/2021,Coombe Women and Infants University Hospital,Day Case,Adult,89,34,2,2,128
+26/08/2021,Cork University Hospital,Day Case,Adult,351,160,50,176,737
+26/08/2021,Cork University Maternity Hospital,Day Case,Adult,147,49,7,23,226
+26/08/2021,Croom Orthopaedic Hospital,Day Case,Adult,358,98,40,22,518
+26/08/2021,Ennis Hospital,Day Case,Adult,211,157,85,25,478
+26/08/2021,Galway University Hospitals,Day Case,Adult,"2,792","1,547",481,"1,465","6,285"
+26/08/2021,Kilcreene Regional Orthopaedic Hospital,Day Case,Adult,67,10,2,2,82
+26/08/2021,Letterkenny University Hospital,Day Case,Adult,895,524,271,434,"2,124"
+26/08/2021,Louth County Hospital,Day Case,Adult,486,68,18,2,574
+26/08/2021,Mallow General Hospital,Day Case,Adult,116,47,15,10,188
+26/08/2021,Mater Misericordiae University Hospital,Day Case,Adult,"2,375",492,221,564,"3,652"
+26/08/2021,Mayo University Hospital,Day Case,Adult,333,179,57,318,887
+26/08/2021,Mercy University Hospital,Day Case,Adult,440,180,97,202,919
+26/08/2021,Midland Regional Hospital Mullingar,Day Case,Adult,419,182,103,58,762
+26/08/2021,Midland Regional Hospital Portlaoise,Day Case,Adult,226,158,71,83,538
+26/08/2021,Midland Regional Hospital Tullamore,Day Case,Adult,442,115,34,95,686
+26/08/2021,Naas General Hospital,Day Case,Adult,93,65,40,36,234
+26/08/2021,National Orthopaedic Hospital Cappagh,Day Case,Adult,308,33,5,2,348
+26/08/2021,Nenagh Hospital,Day Case,Adult,400,373,304,444,"1,521"
+26/08/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Adult,181,35,5,0,221
+26/08/2021,Our Lady's Hospital Navan,Day Case,Adult,331,75,14,11,431
+26/08/2021,Portiuncula University Hospital,Day Case,Adult,319,64,25,54,462
+26/08/2021,Roscommon University Hospital,Day Case,Adult,315,209,108,132,764
+26/08/2021,Royal Victoria Eye and Ear Hospital,Day Case,Adult,"1,530",286,92,140,"2,048"
+26/08/2021,Sligo University Hospital,Day Case,Adult,"1,324",420,172,264,"2,180"
+26/08/2021,South Infirmary Victoria University Hospital,Day Case,Adult,"1,497",475,98,65,"2,135"
+26/08/2021,St. Columcille's Hospital,Day Case,Adult,529,102,39,32,702
+26/08/2021,St. James's Hospital,Day Case,Adult,"1,872",788,282,973,"3,915"
+26/08/2021,St. John's Hospital Limerick,Day Case,Adult,272,175,79,228,754
+26/08/2021,St. Luke's General Hospital Kilkenny,Day Case,Adult,465,157,108,156,886
+26/08/2021,St. Michael's Hospital,Day Case,Adult,57,5,2,2,67
+26/08/2021,St. Vincent's University Hospital,Day Case,Adult,"1,377",420,165,162,"2,124"
+26/08/2021,Tallaght University Hospital,Day Case,Adult,"1,649",512,180,371,"2,712"
+26/08/2021,Tipperary University Hospital,Day Case,Adult,207,5,0,2,214
+26/08/2021,University Hospital Kerry,Day Case,Adult,165,77,37,28,307
+26/08/2021,University Hospital Limerick,Day Case,Adult,659,245,103,267,"1,274"
+26/08/2021,University Hospital Waterford,Day Case,Adult,"1,825",519,252,"1,052","3,648"
+26/08/2021,Wexford General Hospital,Day Case,Adult,563,259,109,18,949
+26/08/2021,Beaumont Hospital,Inpatient,Adult,960,406,146,188,"1,700"
+26/08/2021,Connolly Hospital Blanchardstown,Inpatient,Adult,54,0,0,0,54
+26/08/2021,Cork University Hospital,Inpatient,Adult,162,105,39,72,378
+26/08/2021,Cork University Maternity Hospital,Inpatient,Adult,102,77,7,182,368
+26/08/2021,Croom Orthopaedic Hospital,Inpatient,Adult,265,105,56,16,442
+26/08/2021,Galway University Hospitals,Inpatient,Adult,740,372,166,"1,059","2,337"
+26/08/2021,Kilcreene Regional Orthopaedic Hospital,Inpatient,Adult,160,10,5,6,181
+26/08/2021,Letterkenny University Hospital,Inpatient,Adult,184,111,69,207,571
+26/08/2021,Mater Misericordiae University Hospital,Inpatient,Adult,715,209,97,437,"1,458"
+26/08/2021,Mayo University Hospital,Inpatient,Adult,75,70,28,100,273
+26/08/2021,Mercy University Hospital,Inpatient,Adult,79,35,16,55,185
+26/08/2021,Midland Regional Hospital Portlaoise,Inpatient,Adult,11,9,5,2,27
+26/08/2021,Midland Regional Hospital Tullamore,Inpatient,Adult,211,93,25,142,471
+26/08/2021,National Orthopaedic Hospital Cappagh,Inpatient,Adult,855,105,9,17,986
+26/08/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Adult,288,87,32,12,419
+26/08/2021,Our Lady's Hospital Navan,Inpatient,Adult,90,36,8,25,159
+26/08/2021,Royal Victoria Eye and Ear Hospital,Inpatient,Adult,116,49,23,45,233
+26/08/2021,Sligo University Hospital,Inpatient,Adult,326,160,83,220,789
+26/08/2021,Small Volume Hospitals,Inpatient,Adult,93,34,14,21,161
+26/08/2021,South Infirmary Victoria University Hospital,Inpatient,Adult,174,77,33,112,396
+26/08/2021,St. James's Hospital,Inpatient,Adult,592,290,140,582,"1,604"
+26/08/2021,St. John's Hospital Limerick,Inpatient,Adult,292,130,66,156,644
+26/08/2021,St. Luke's General Hospital Kilkenny,Inpatient,Adult,28,8,11,8,55
+26/08/2021,St. Michael's Hospital,Inpatient,Adult,468,134,26,57,685
+26/08/2021,St. Vincent's University Hospital,Inpatient,Adult,532,148,58,243,981
+26/08/2021,Tallaght University Hospital,Inpatient,Adult,430,184,138,256,"1,008"
+26/08/2021,University Hospital Kerry,Inpatient,Adult,149,39,20,23,231
+26/08/2021,University Hospital Limerick,Inpatient,Adult,201,125,51,136,513
+26/08/2021,University Hospital Waterford,Inpatient,Adult,113,61,34,101,309
+26/08/2021,Children's Health Ireland,Day Case,Child,"1,359",610,260,641,"2,870"
+26/08/2021,Cork University Hospital,Day Case,Child,61,40,17,24,142
+26/08/2021,Galway University Hospitals,Day Case,Child,110,68,40,74,292
+26/08/2021,Letterkenny University Hospital,Day Case,Child,23,21,9,17,70
+26/08/2021,Mercy University Hospital,Day Case,Child,70,23,5,5,103
+26/08/2021,Midland Regional Hospital Tullamore,Day Case,Child,31,5,2,0,38
+26/08/2021,National Orthopaedic Hospital Cappagh,Day Case,Child,48,0,0,0,48
+26/08/2021,Royal Victoria Eye and Ear Hospital,Day Case,Child,35,12,9,14,70
+26/08/2021,Sligo University Hospital,Day Case,Child,51,25,4,14,94
+26/08/2021,Small Volume Hospitals,Day Case,Child,103,22,20,30,175
+26/08/2021,South Infirmary Victoria University Hospital,Day Case,Child,76,15,4,8,103
+26/08/2021,University Hospital Limerick,Day Case,Child,49,32,12,67,160
+26/08/2021,University Hospital Waterford,Day Case,Child,25,10,4,20,59
+26/08/2021,Children's Health Ireland,Inpatient,Child,943,746,317,769,"2,775"
+26/08/2021,Galway University Hospitals,Inpatient,Child,42,13,4,18,77
+26/08/2021,Midland Regional Hospital Tullamore,Inpatient,Child,50,23,0,0,73
+26/08/2021,National Orthopaedic Hospital Cappagh,Inpatient,Child,96,24,14,20,154
+26/08/2021,Sligo University Hospital,Inpatient,Child,45,10,4,19,78
+26/08/2021,Small Volume Hospitals,Inpatient,Child,73,56,22,59,211
+26/08/2021,South Infirmary Victoria University Hospital,Inpatient,Child,19,4,0,2,25
+30/09/2021,Bantry General Hospital,Day Case,Adult,105,12,17,8,142
+30/09/2021,Beaumont Hospital,Day Case,Adult,"2,610",429,53,36,"3,128"
+30/09/2021,Cavan General Hospital,Day Case,Adult,290,22,11,2,325
+30/09/2021,Connolly Hospital Blanchardstown,Day Case,Adult,375,2,2,0,379
+30/09/2021,Coombe Women and Infants University Hospital,Day Case,Adult,123,36,2,2,163
+30/09/2021,Cork University Hospital,Day Case,Adult,369,167,50,182,768
+30/09/2021,Cork University Maternity Hospital,Day Case,Adult,201,40,13,25,279
+30/09/2021,Croom Orthopaedic Hospital,Day Case,Adult,430,118,45,33,626
+30/09/2021,Ennis Hospital,Day Case,Adult,210,120,81,17,428
+30/09/2021,Galway University Hospitals,Day Case,Adult,"2,984","1,540",488,"1,505","6,517"
+30/09/2021,Kilcreene Regional Orthopaedic Hospital,Day Case,Adult,100,9,4,2,115
+30/09/2021,Letterkenny University Hospital,Day Case,Adult,949,438,286,480,"2,153"
+30/09/2021,Louth County Hospital,Day Case,Adult,381,64,15,2,462
+30/09/2021,Mallow General Hospital,Day Case,Adult,137,54,20,12,223
+30/09/2021,Mater Misericordiae University Hospital,Day Case,Adult,"2,551",507,183,548,"3,789"
+30/09/2021,Mayo University Hospital,Day Case,Adult,420,165,49,329,963
+30/09/2021,Mercy University Hospital,Day Case,Adult,435,188,89,210,922
+30/09/2021,Midland Regional Hospital Mullingar,Day Case,Adult,411,187,107,70,775
+30/09/2021,Midland Regional Hospital Portlaoise,Day Case,Adult,224,125,73,102,524
+30/09/2021,Midland Regional Hospital Tullamore,Day Case,Adult,376,175,38,84,673
+30/09/2021,Naas General Hospital,Day Case,Adult,149,76,39,44,308
+30/09/2021,National Orthopaedic Hospital Cappagh,Day Case,Adult,361,26,4,2,393
+30/09/2021,Nenagh Hospital,Day Case,Adult,390,345,240,442,"1,417"
+30/09/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Adult,153,48,0,0,201
+30/09/2021,Our Lady's Hospital Navan,Day Case,Adult,329,81,14,10,434
+30/09/2021,Portiuncula University Hospital,Day Case,Adult,353,61,17,39,470
+30/09/2021,Roscommon University Hospital,Day Case,Adult,275,188,83,147,693
+30/09/2021,Royal Victoria Eye and Ear Hospital,Day Case,Adult,"1,650",277,91,125,"2,143"
+30/09/2021,Sligo University Hospital,Day Case,Adult,"1,278",447,153,266,"2,144"
+30/09/2021,South Infirmary Victoria University Hospital,Day Case,Adult,"1,276",465,107,57,"1,905"
+30/09/2021,St. Columcille's Hospital,Day Case,Adult,516,115,32,33,696
+30/09/2021,St. James's Hospital,Day Case,Adult,"1,869",817,254,979,"3,919"
+30/09/2021,St. John's Hospital Limerick,Day Case,Adult,273,169,75,245,762
+30/09/2021,St. Luke's General Hospital Kilkenny,Day Case,Adult,435,130,79,152,796
+30/09/2021,St. Michael's Hospital,Day Case,Adult,30,4,4,2,40
+30/09/2021,St. Vincent's University Hospital,Day Case,Adult,"1,540",395,167,181,"2,283"
+30/09/2021,Tallaght University Hospital,Day Case,Adult,"1,591",406,133,214,"2,344"
+30/09/2021,Tipperary University Hospital,Day Case,Adult,191,11,2,0,204
+30/09/2021,University Hospital Kerry,Day Case,Adult,169,95,26,44,334
+30/09/2021,University Hospital Limerick,Day Case,Adult,655,232,60,226,"1,173"
+30/09/2021,University Hospital Waterford,Day Case,Adult,"1,742",496,238,"1,028","3,504"
+30/09/2021,Wexford General Hospital,Day Case,Adult,537,254,67,24,882
+30/09/2021,Beaumont Hospital,Inpatient,Adult,933,416,180,198,"1,727"
+30/09/2021,Connolly Hospital Blanchardstown,Inpatient,Adult,91,0,0,0,91
+30/09/2021,Cork University Hospital,Inpatient,Adult,176,97,45,70,388
+30/09/2021,Cork University Maternity Hospital,Inpatient,Adult,109,66,14,171,360
+30/09/2021,Croom Orthopaedic Hospital,Inpatient,Adult,242,63,38,13,356
+30/09/2021,Galway University Hospitals,Inpatient,Adult,780,370,185,"1,007","2,342"
+30/09/2021,Kilcreene Regional Orthopaedic Hospital,Inpatient,Adult,181,14,2,6,203
+30/09/2021,Letterkenny University Hospital,Inpatient,Adult,163,95,69,200,527
+30/09/2021,Mater Misericordiae University Hospital,Inpatient,Adult,705,182,94,405,"1,386"
+30/09/2021,Mayo University Hospital,Inpatient,Adult,107,66,18,109,300
+30/09/2021,Mercy University Hospital,Inpatient,Adult,102,23,14,50,189
+30/09/2021,Midland Regional Hospital Portlaoise,Inpatient,Adult,13,4,4,5,26
+30/09/2021,Midland Regional Hospital Tullamore,Inpatient,Adult,206,121,32,144,503
+30/09/2021,National Orthopaedic Hospital Cappagh,Inpatient,Adult,873,107,8,16,"1,004"
+30/09/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Adult,303,63,24,14,404
+30/09/2021,Our Lady's Hospital Navan,Inpatient,Adult,91,24,14,19,148
+30/09/2021,Royal Victoria Eye and Ear Hospital,Inpatient,Adult,128,46,17,46,237
+30/09/2021,Sligo University Hospital,Inpatient,Adult,339,172,64,192,767
+30/09/2021,Small Volume Hospitals,Inpatient,Adult,82,39,10,19,149
+30/09/2021,South Infirmary Victoria University Hospital,Inpatient,Adult,186,68,26,114,394
+30/09/2021,St. James's Hospital,Inpatient,Adult,691,259,139,575,"1,664"
+30/09/2021,St. John's Hospital Limerick,Inpatient,Adult,290,111,44,104,549
+30/09/2021,St. Luke's General Hospital Kilkenny,Inpatient,Adult,28,8,12,10,58
+30/09/2021,St. Michael's Hospital,Inpatient,Adult,433,119,32,50,634
+30/09/2021,St. Vincent's University Hospital,Inpatient,Adult,511,129,56,243,939
+30/09/2021,Tallaght University Hospital,Inpatient,Adult,432,183,106,235,956
+30/09/2021,University Hospital Kerry,Inpatient,Adult,143,42,20,23,228
+30/09/2021,University Hospital Limerick,Inpatient,Adult,203,112,42,141,498
+30/09/2021,University Hospital Waterford,Inpatient,Adult,109,53,30,96,288
+30/09/2021,Children's Health Ireland,Day Case,Child,"1,184",646,223,575,"2,628"
+30/09/2021,Cork University Hospital,Day Case,Child,61,30,13,21,125
+30/09/2021,Galway University Hospitals,Day Case,Child,126,67,36,79,308
+30/09/2021,Letterkenny University Hospital,Day Case,Child,25,15,15,15,70
+30/09/2021,Mercy University Hospital,Day Case,Child,83,23,7,2,114
+30/09/2021,Midland Regional Hospital Tullamore,Day Case,Child,36,3,2,0,41
+30/09/2021,National Orthopaedic Hospital Cappagh,Day Case,Child,26,2,0,0,28
+30/09/2021,Portiuncula University Hospital,Day Case,Child,19,2,2,0,22
+30/09/2021,Royal Victoria Eye and Ear Hospital,Day Case,Child,30,12,8,15,64
+30/09/2021,Sligo University Hospital,Day Case,Child,49,19,5,12,85
+30/09/2021,Small Volume Hospitals,Day Case,Child,91,12,13,34,150
+30/09/2021,South Infirmary Victoria University Hospital,Day Case,Child,50,14,2,8,74
+30/09/2021,University Hospital Limerick,Day Case,Child,60,32,15,61,168
+30/09/2021,University Hospital Waterford,Day Case,Child,27,9,2,16,53
+30/09/2021,Children's Health Ireland,Inpatient,Child,899,665,323,738,"2,625"
+30/09/2021,Galway University Hospitals,Inpatient,Child,30,17,2,18,67
+30/09/2021,Midland Regional Hospital Tullamore,Inpatient,Child,36,2,0,0,38
+30/09/2021,National Orthopaedic Hospital Cappagh,Inpatient,Child,132,30,11,21,194
+30/09/2021,Sligo University Hospital,Inpatient,Child,28,9,2,16,55
+30/09/2021,Small Volume Hospitals,Inpatient,Child,86,52,12,68,217
+30/09/2021,South Infirmary Victoria University Hospital,Inpatient,Child,24,4,0,2,30
+28/10/2021,Bantry General Hospital,Day Case,Adult,81,10,8,6,105
+28/10/2021,Beaumont Hospital,Day Case,Adult,"2,670",372,50,14,"3,106"
+28/10/2021,Cavan General Hospital,Day Case,Adult,272,11,13,0,296
+28/10/2021,Connolly Hospital Blanchardstown,Day Case,Adult,416,7,0,0,423
+28/10/2021,Coombe Women and Infants University Hospital,Day Case,Adult,156,43,10,2,211
+28/10/2021,Cork University Hospital,Day Case,Adult,351,177,65,173,766
+28/10/2021,Cork University Maternity Hospital,Day Case,Adult,134,56,15,22,227
+28/10/2021,Croom Orthopaedic Hospital,Day Case,Adult,392,112,45,35,584
+28/10/2021,Ennis Hospital,Day Case,Adult,203,78,59,6,346
+28/10/2021,Galway University Hospitals,Day Case,Adult,"2,919","1,452",584,"1,180","6,135"
+28/10/2021,Kilcreene Regional Orthopaedic Hospital,Day Case,Adult,88,4,2,2,97
+28/10/2021,Letterkenny University Hospital,Day Case,Adult,988,296,340,485,"2,109"
+28/10/2021,Louth County Hospital,Day Case,Adult,369,46,12,2,429
+28/10/2021,Mallow General Hospital,Day Case,Adult,150,37,20,12,219
+28/10/2021,Mater Misericordiae University Hospital,Day Case,Adult,"2,619",574,192,544,"3,929"
+28/10/2021,Mayo University Hospital,Day Case,Adult,432,162,71,332,997
+28/10/2021,Mercy University Hospital,Day Case,Adult,464,190,85,195,934
+28/10/2021,Midland Regional Hospital Mullingar,Day Case,Adult,556,207,117,71,951
+28/10/2021,Midland Regional Hospital Portlaoise,Day Case,Adult,240,115,85,104,544
+28/10/2021,Midland Regional Hospital Tullamore,Day Case,Adult,351,159,31,29,570
+28/10/2021,Naas General Hospital,Day Case,Adult,155,46,21,22,244
+28/10/2021,National Orthopaedic Hospital Cappagh,Day Case,Adult,333,11,4,2,351
+28/10/2021,Nenagh Hospital,Day Case,Adult,443,317,231,410,"1,401"
+28/10/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Adult,170,53,2,0,225
+28/10/2021,Our Lady's Hospital Navan,Day Case,Adult,377,74,43,12,506
+28/10/2021,Portiuncula University Hospital,Day Case,Adult,345,58,17,34,454
+28/10/2021,Roscommon University Hospital,Day Case,Adult,263,183,94,138,678
+28/10/2021,Royal Victoria Eye and Ear Hospital,Day Case,Adult,"1,351",192,68,83,"1,694"
+28/10/2021,Sligo University Hospital,Day Case,Adult,"1,256",462,168,260,"2,146"
+28/10/2021,South Infirmary Victoria University Hospital,Day Case,Adult,"1,464",409,138,49,"2,060"
+28/10/2021,St. Columcille's Hospital,Day Case,Adult,500,103,40,22,665
+28/10/2021,St. James's Hospital,Day Case,Adult,"1,961",783,278,878,"3,900"
+28/10/2021,St. John's Hospital Limerick,Day Case,Adult,298,166,91,236,791
+28/10/2021,St. Luke's General Hospital Kilkenny,Day Case,Adult,389,135,77,133,734
+28/10/2021,St. Michael's Hospital,Day Case,Adult,23,4,4,2,34
+28/10/2021,St. Vincent's University Hospital,Day Case,Adult,"1,495",402,181,163,"2,241"
+28/10/2021,Tallaght University Hospital,Day Case,Adult,"1,657",379,154,228,"2,418"
+28/10/2021,Tipperary University Hospital,Day Case,Adult,173,10,2,0,185
+28/10/2021,University Hospital Kerry,Day Case,Adult,221,104,24,49,398
+28/10/2021,University Hospital Limerick,Day Case,Adult,689,216,79,211,"1,195"
+28/10/2021,University Hospital Waterford,Day Case,Adult,"1,880",486,251,961,"3,578"
+28/10/2021,Wexford General Hospital,Day Case,Adult,578,256,74,31,939
+28/10/2021,Beaumont Hospital,Inpatient,Adult,914,390,183,135,"1,622"
+28/10/2021,Connolly Hospital Blanchardstown,Inpatient,Adult,94,0,0,0,94
+28/10/2021,Coombe Women and Infants University Hospital,Inpatient,Adult,39,8,2,0,50
+28/10/2021,Cork University Hospital,Inpatient,Adult,196,84,63,69,412
+28/10/2021,Cork University Maternity Hospital,Inpatient,Adult,77,84,16,168,345
+28/10/2021,Croom Orthopaedic Hospital,Inpatient,Adult,224,88,34,9,355
+28/10/2021,Galway University Hospitals,Inpatient,Adult,804,378,214,992,"2,388"
+28/10/2021,Kilcreene Regional Orthopaedic Hospital,Inpatient,Adult,184,12,5,6,207
+28/10/2021,Letterkenny University Hospital,Inpatient,Adult,164,74,78,161,477
+28/10/2021,Mater Misericordiae University Hospital,Inpatient,Adult,774,196,106,382,"1,458"
+28/10/2021,Mayo University Hospital,Inpatient,Adult,98,60,27,110,295
+28/10/2021,Mercy University Hospital,Inpatient,Adult,126,25,17,46,214
+28/10/2021,Midland Regional Hospital Mullingar,Inpatient,Adult,5,16,0,0,21
+28/10/2021,Midland Regional Hospital Portlaoise,Inpatient,Adult,15,2,5,2,24
+28/10/2021,Midland Regional Hospital Tullamore,Inpatient,Adult,241,118,21,104,484
+28/10/2021,National Orthopaedic Hospital Cappagh,Inpatient,Adult,953,104,11,16,"1,084"
+28/10/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Adult,293,78,28,14,413
+28/10/2021,Our Lady's Hospital Navan,Inpatient,Adult,107,30,17,21,175
+28/10/2021,Portiuncula University Hospital,Inpatient,Adult,9,0,0,14,23
+28/10/2021,Royal Victoria Eye and Ear Hospital,Inpatient,Adult,138,41,17,41,237
+28/10/2021,Sligo University Hospital,Inpatient,Adult,365,161,83,176,785
+28/10/2021,Small Volume Hospitals,Inpatient,Adult,7,5,7,5,23
+28/10/2021,South Infirmary Victoria University Hospital,Inpatient,Adult,180,48,22,102,352
+28/10/2021,St. James's Hospital,Inpatient,Adult,725,267,144,540,"1,676"
+28/10/2021,St. John's Hospital Limerick,Inpatient,Adult,317,108,46,102,573
+28/10/2021,St. Luke's General Hospital Kilkenny,Inpatient,Adult,29,8,5,8,50
+28/10/2021,St. Michael's Hospital,Inpatient,Adult,448,105,27,41,621
+28/10/2021,St. Vincent's University Hospital,Inpatient,Adult,514,122,60,227,923
+28/10/2021,Tallaght University Hospital,Inpatient,Adult,489,179,121,238,"1,027"
+28/10/2021,Tipperary University Hospital,Inpatient,Adult,20,5,0,0,25
+28/10/2021,University Hospital Kerry,Inpatient,Adult,151,52,20,25,248
+28/10/2021,University Hospital Limerick,Inpatient,Adult,218,96,63,135,512
+28/10/2021,University Hospital Waterford,Inpatient,Adult,108,50,39,88,285
+28/10/2021,Children's Health Ireland,Day Case,Child,"1,282",647,244,513,"2,686"
+28/10/2021,Cork University Hospital,Day Case,Child,59,18,11,17,105
+28/10/2021,Galway University Hospitals,Day Case,Child,122,59,38,73,292
+28/10/2021,Letterkenny University Hospital,Day Case,Child,24,4,10,13,51
+28/10/2021,Mercy University Hospital,Day Case,Child,57,22,4,2,85
+28/10/2021,Midland Regional Hospital Tullamore,Day Case,Child,31,2,0,0,33
+28/10/2021,National Orthopaedic Hospital Cappagh,Day Case,Child,30,7,0,0,37
+28/10/2021,Nenagh Hospital,Day Case,Child,21,4,9,23,57
+28/10/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Child,14,0,2,5,21
+28/10/2021,Portiuncula University Hospital,Day Case,Child,23,2,2,2,29
+28/10/2021,Royal Victoria Eye and Ear Hospital,Day Case,Child,31,9,4,12,56
+28/10/2021,Sligo University Hospital,Day Case,Child,52,11,5,5,73
+28/10/2021,Small Volume Hospitals,Day Case,Child,70,11,4,4,89
+28/10/2021,South Infirmary Victoria University Hospital,Day Case,Child,46,11,4,7,68
+28/10/2021,University Hospital Limerick,Day Case,Child,61,25,13,51,150
+28/10/2021,University Hospital Waterford,Day Case,Child,30,10,0,13,53
+28/10/2021,Beaumont Hospital,Inpatient,Child,8,12,7,17,44
+28/10/2021,Children's Health Ireland,Inpatient,Child,"1,084",707,362,723,"2,876"
+28/10/2021,Galway University Hospitals,Inpatient,Child,27,18,4,15,64
+28/10/2021,Midland Regional Hospital Mullingar,Inpatient,Child,26,2,0,0,28
+28/10/2021,Midland Regional Hospital Tullamore,Inpatient,Child,45,0,0,0,45
+28/10/2021,National Orthopaedic Hospital Cappagh,Inpatient,Child,133,24,12,22,191
+28/10/2021,Sligo University Hospital,Inpatient,Child,22,10,7,14,53
+28/10/2021,Small Volume Hospitals,Inpatient,Child,43,11,4,19,77
+28/10/2021,South Infirmary Victoria University Hospital,Inpatient,Child,23,2,0,2,27
+28/10/2021,University Hospital Limerick,Inpatient,Child,12,2,4,25,42
+28/10/2021,University Hospital Waterford,Inpatient,Child,18,13,4,2,36
+25/11/2021,Bantry General Hospital,Day Case,Adult,65,2,4,7,77
+25/11/2021,Beaumont Hospital,Day Case,Adult,"2,870",346,41,13,"3,270"
+25/11/2021,Cavan General Hospital,Day Case,Adult,275,15,0,0,290
+25/11/2021,Connolly Hospital Blanchardstown,Day Case,Adult,610,26,2,0,638
+25/11/2021,Coombe Women and Infants University Hospital,Day Case,Adult,159,44,16,2,221
+25/11/2021,Cork University Hospital,Day Case,Adult,381,153,79,167,780
+25/11/2021,Cork University Maternity Hospital,Day Case,Adult,151,65,17,21,254
+25/11/2021,Croom Orthopaedic Hospital,Day Case,Adult,256,82,36,29,403
+25/11/2021,Ennis Hospital,Day Case,Adult,141,55,12,2,210
+25/11/2021,Galway University Hospitals,Day Case,Adult,"3,117","1,272",708,"1,108","6,205"
+25/11/2021,Kilcreene Regional Orthopaedic Hospital,Day Case,Adult,98,2,0,2,102
+25/11/2021,Letterkenny University Hospital,Day Case,Adult,"1,006",235,371,461,"2,073"
+25/11/2021,Louth County Hospital,Day Case,Adult,380,54,8,2,444
+25/11/2021,Mallow General Hospital,Day Case,Adult,130,31,16,14,191
+25/11/2021,Mater Misericordiae University Hospital,Day Case,Adult,"2,830",586,213,554,"4,183"
+25/11/2021,Mayo University Hospital,Day Case,Adult,478,152,98,334,"1,062"
+25/11/2021,Mercy University Hospital,Day Case,Adult,521,190,86,194,991
+25/11/2021,Midland Regional Hospital Mullingar,Day Case,Adult,577,206,128,75,986
+25/11/2021,Midland Regional Hospital Portlaoise,Day Case,Adult,246,98,86,75,505
+25/11/2021,Midland Regional Hospital Tullamore,Day Case,Adult,320,136,35,27,518
+25/11/2021,Naas General Hospital,Day Case,Adult,190,42,17,20,269
+25/11/2021,National Orthopaedic Hospital Cappagh,Day Case,Adult,313,12,2,2,328
+25/11/2021,Nenagh Hospital,Day Case,Adult,454,230,148,295,"1,127"
+25/11/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Adult,236,57,2,0,295
+25/11/2021,Our Lady's Hospital Navan,Day Case,Adult,476,73,26,12,587
+25/11/2021,Portiuncula University Hospital,Day Case,Adult,378,70,21,12,481
+25/11/2021,Roscommon University Hospital,Day Case,Adult,218,184,98,111,611
+25/11/2021,Royal Victoria Eye and Ear Hospital,Day Case,Adult,"1,400",149,63,61,"1,673"
+25/11/2021,Sligo University Hospital,Day Case,Adult,"1,338",374,177,156,"2,045"
+25/11/2021,South Infirmary Victoria University Hospital,Day Case,Adult,"1,535",367,178,40,"2,120"
+25/11/2021,St. Columcille's Hospital,Day Case,Adult,507,116,38,17,678
+25/11/2021,St. James's Hospital,Day Case,Adult,"2,268",746,360,858,"4,232"
+25/11/2021,St. John's Hospital Limerick,Day Case,Adult,306,160,108,194,768
+25/11/2021,St. Luke's General Hospital Kilkenny,Day Case,Adult,343,125,70,83,621
+25/11/2021,St. Michael's Hospital,Day Case,Adult,31,2,2,2,36
+25/11/2021,St. Vincent's University Hospital,Day Case,Adult,"1,468",434,222,167,"2,291"
+25/11/2021,Tallaght University Hospital,Day Case,Adult,"1,654",378,137,194,"2,363"
+25/11/2021,Tipperary University Hospital,Day Case,Adult,170,11,0,0,181
+25/11/2021,University Hospital Kerry,Day Case,Adult,211,101,17,45,374
+25/11/2021,University Hospital Limerick,Day Case,Adult,763,201,82,183,"1,229"
+25/11/2021,University Hospital Waterford,Day Case,Adult,"2,128",500,283,910,"3,821"
+25/11/2021,Wexford General Hospital,Day Case,Adult,704,167,68,38,977
+25/11/2021,Beaumont Hospital,Inpatient,Adult,"1,028",363,110,100,"1,601"
+25/11/2021,Connolly Hospital Blanchardstown,Inpatient,Adult,163,2,2,0,167
+25/11/2021,Coombe Women and Infants University Hospital,Inpatient,Adult,36,8,2,0,46
+25/11/2021,Cork University Hospital,Inpatient,Adult,200,70,68,68,406
+25/11/2021,Cork University Maternity Hospital,Inpatient,Adult,82,72,28,164,346
+25/11/2021,Croom Orthopaedic Hospital,Inpatient,Adult,205,85,23,7,320
+25/11/2021,Galway University Hospitals,Inpatient,Adult,839,357,238,991,"2,425"
+25/11/2021,Kilcreene Regional Orthopaedic Hospital,Inpatient,Adult,210,5,0,0,215
+25/11/2021,Letterkenny University Hospital,Inpatient,Adult,229,57,96,160,542
+25/11/2021,Mater Misericordiae University Hospital,Inpatient,Adult,769,219,127,369,"1,484"
+25/11/2021,Mayo University Hospital,Inpatient,Adult,111,47,37,108,303
+25/11/2021,Mercy University Hospital,Inpatient,Adult,139,22,19,37,217
+25/11/2021,Midland Regional Hospital Mullingar,Inpatient,Adult,4,15,2,0,20
+25/11/2021,Midland Regional Hospital Portlaoise,Inpatient,Adult,19,4,4,5,31
+25/11/2021,Midland Regional Hospital Tullamore,Inpatient,Adult,234,122,23,97,476
+25/11/2021,National Orthopaedic Hospital Cappagh,Inpatient,Adult,937,92,10,17,"1,056"
+25/11/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Adult,363,92,44,19,518
+25/11/2021,Our Lady's Hospital Navan,Inpatient,Adult,133,28,22,31,214
+25/11/2021,Royal Victoria Eye and Ear Hospital,Inpatient,Adult,158,32,20,26,236
+25/11/2021,Sligo University Hospital,Inpatient,Adult,316,130,84,152,682
+25/11/2021,Small Volume Hospitals,Inpatient,Adult,19,5,2,4,30
+25/11/2021,South Infirmary Victoria University Hospital,Inpatient,Adult,188,34,22,94,338
+25/11/2021,St. James's Hospital,Inpatient,Adult,779,289,158,517,"1,743"
+25/11/2021,St. John's Hospital Limerick,Inpatient,Adult,270,88,61,81,500
+25/11/2021,St. Luke's General Hospital Kilkenny,Inpatient,Adult,37,9,7,5,58
+25/11/2021,St. Michael's Hospital,Inpatient,Adult,542,99,34,33,708
+25/11/2021,St. Vincent's University Hospital,Inpatient,Adult,471,128,64,206,869
+25/11/2021,Tallaght University Hospital,Inpatient,Adult,478,186,122,229,"1,015"
+25/11/2021,Tipperary University Hospital,Inpatient,Adult,31,2,0,0,33
+25/11/2021,University Hospital Kerry,Inpatient,Adult,138,51,26,28,243
+25/11/2021,University Hospital Limerick,Inpatient,Adult,220,82,55,114,471
+25/11/2021,University Hospital Waterford,Inpatient,Adult,108,40,39,78,265
+25/11/2021,Children's Health Ireland,Day Case,Child,"1,399",604,268,483,"2,754"
+25/11/2021,Cork University Hospital,Day Case,Child,63,18,11,17,109
+25/11/2021,Galway University Hospitals,Day Case,Child,131,55,42,71,299
+25/11/2021,Letterkenny University Hospital,Day Case,Child,27,7,11,14,59
+25/11/2021,Mercy University Hospital,Day Case,Child,84,33,7,2,126
+25/11/2021,Midland Regional Hospital Tullamore,Day Case,Child,32,0,0,0,32
+25/11/2021,National Orthopaedic Hospital Cappagh,Day Case,Child,40,8,0,0,48
+25/11/2021,Nenagh Hospital,Day Case,Child,31,4,4,16,55
+25/11/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Child,36,4,2,5,47
+25/11/2021,Portiuncula University Hospital,Day Case,Child,23,2,0,2,27
+25/11/2021,Royal Victoria Eye and Ear Hospital,Day Case,Child,33,8,4,12,57
+25/11/2021,Sligo University Hospital,Day Case,Child,52,9,5,2,68
+25/11/2021,Small Volume Hospitals,Day Case,Child,73,10,6,6,94
+25/11/2021,South Infirmary Victoria University Hospital,Day Case,Child,64,8,4,5,81
+25/11/2021,University Hospital Limerick,Day Case,Child,72,17,11,46,146
+25/11/2021,University Hospital Waterford,Day Case,Child,54,4,0,12,70
+25/11/2021,Wexford General Hospital,Day Case,Child,24,0,0,0,24
+25/11/2021,Beaumont Hospital,Inpatient,Child,10,13,8,13,44
+25/11/2021,Children's Health Ireland,Inpatient,Child,"1,136",689,390,688,"2,903"
+25/11/2021,Galway University Hospitals,Inpatient,Child,25,18,4,12,59
+25/11/2021,Midland Regional Hospital Mullingar,Inpatient,Child,31,2,0,0,33
+25/11/2021,Midland Regional Hospital Tullamore,Inpatient,Child,59,0,0,0,59
+25/11/2021,National Orthopaedic Hospital Cappagh,Inpatient,Child,162,26,14,19,221
+25/11/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Child,22,8,0,0,30
+25/11/2021,Sligo University Hospital,Inpatient,Child,29,11,7,12,59
+25/11/2021,Small Volume Hospitals,Inpatient,Child,35,9,4,17,66
+25/11/2021,South Infirmary Victoria University Hospital,Inpatient,Child,20,4,0,2,26
+25/11/2021,University Hospital Limerick,Inpatient,Child,10,0,2,16,28
+25/11/2021,University Hospital Waterford,Inpatient,Child,21,8,4,2,34
+23/12/2021,Bantry General Hospital,Day Case,Adult,72,13,3,5,93
+23/12/2021,Beaumont Hospital,Day Case,Adult,"2,918",363,0,0,"3,281"
+23/12/2021,Cavan General Hospital,Day Case,Adult,297,2,0,0,299
+23/12/2021,Connolly Hospital Blanchardstown,Day Case,Adult,688,48,0,0,736
+23/12/2021,Coombe Women and Infants University Hospital,Day Case,Adult,148,37,22,2,208
+23/12/2021,Cork University Hospital,Day Case,Adult,488,158,81,151,878
+23/12/2021,Cork University Maternity Hospital,Day Case,Adult,169,45,30,15,259
+23/12/2021,Croom Orthopaedic Hospital,Day Case,Adult,294,61,39,32,426
+23/12/2021,Ennis Hospital,Day Case,Adult,132,33,2,2,168
+23/12/2021,Galway University Hospitals,Day Case,Adult,"3,199","1,085",720,998,"6,002"
+23/12/2021,Kilcreene Regional Orthopaedic Hospital,Day Case,Adult,104,0,0,0,104
+23/12/2021,Letterkenny University Hospital,Day Case,Adult,"1,030",206,371,408,"2,015"
+23/12/2021,Louth County Hospital,Day Case,Adult,387,24,8,2,421
+23/12/2021,Mallow General Hospital,Day Case,Adult,123,23,17,13,176
+23/12/2021,Mater Misericordiae University Hospital,Day Case,Adult,"2,634",602,251,569,"4,056"
+23/12/2021,Mayo University Hospital,Day Case,Adult,518,117,76,217,928
+23/12/2021,Mercy University Hospital,Day Case,Adult,588,170,91,163,"1,012"
+23/12/2021,Midland Regional Hospital Mullingar,Day Case,Adult,640,224,130,71,"1,065"
+23/12/2021,Midland Regional Hospital Portlaoise,Day Case,Adult,289,89,93,80,551
+23/12/2021,Midland Regional Hospital Tullamore,Day Case,Adult,405,108,39,32,584
+23/12/2021,Naas General Hospital,Day Case,Adult,195,41,20,18,274
+23/12/2021,National Orthopaedic Hospital Cappagh,Day Case,Adult,364,15,3,2,384
+23/12/2021,Nenagh Hospital,Day Case,Adult,395,108,116,198,817
+23/12/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Adult,273,55,2,0,330
+23/12/2021,Our Lady's Hospital Navan,Day Case,Adult,538,110,29,13,690
+23/12/2021,Portiuncula University Hospital,Day Case,Adult,402,74,30,9,515
+23/12/2021,Roscommon University Hospital,Day Case,Adult,250,143,52,87,532
+23/12/2021,Royal Victoria Eye and Ear Hospital,Day Case,Adult,"1,320",125,73,50,"1,568"
+23/12/2021,Sligo University Hospital,Day Case,Adult,"1,265",326,217,122,"1,930"
+23/12/2021,South Infirmary Victoria University Hospital,Day Case,Adult,"1,623",376,197,31,"2,227"
+23/12/2021,St. Columcille's Hospital,Day Case,Adult,533,102,36,16,687
+23/12/2021,St. James's Hospital,Day Case,Adult,"2,242",642,346,749,"3,979"
+23/12/2021,St. John's Hospital Limerick,Day Case,Adult,342,116,130,170,758
+23/12/2021,St. Luke's General Hospital Kilkenny,Day Case,Adult,378,160,75,85,698
+23/12/2021,St. Michael's Hospital,Day Case,Adult,27,3,0,2,32
+23/12/2021,St. Vincent's University Hospital,Day Case,Adult,"1,416",416,240,148,"2,220"
+23/12/2021,Tallaght University Hospital,Day Case,Adult,"1,704",368,97,128,"2,297"
+23/12/2021,Tipperary University Hospital,Day Case,Adult,158,10,0,0,168
+23/12/2021,University Hospital Kerry,Day Case,Adult,226,85,38,47,396
+23/12/2021,University Hospital Limerick,Day Case,Adult,916,161,69,124,"1,270"
+23/12/2021,University Hospital Waterford,Day Case,Adult,"2,406",494,310,901,"4,111"
+23/12/2021,Wexford General Hospital,Day Case,Adult,646,228,74,43,991
+23/12/2021,Beaumont Hospital,Inpatient,Adult,"1,006",393,2,2,"1,403"
+23/12/2021,Cavan General Hospital,Inpatient,Adult,23,0,0,0,23
+23/12/2021,Connolly Hospital Blanchardstown,Inpatient,Adult,219,2,0,0,221
+23/12/2021,Coombe Women and Infants University Hospital,Inpatient,Adult,31,11,2,0,44
+23/12/2021,Cork University Hospital,Inpatient,Adult,213,67,69,66,415
+23/12/2021,Cork University Maternity Hospital,Inpatient,Adult,82,28,44,62,216
+23/12/2021,Croom Orthopaedic Hospital,Inpatient,Adult,215,78,29,6,328
+23/12/2021,Galway University Hospitals,Inpatient,Adult,903,326,233,926,"2,388"
+23/12/2021,Kilcreene Regional Orthopaedic Hospital,Inpatient,Adult,218,0,0,0,218
+23/12/2021,Letterkenny University Hospital,Inpatient,Adult,224,61,77,142,504
+23/12/2021,Mater Misericordiae University Hospital,Inpatient,Adult,788,238,135,369,"1,530"
+23/12/2021,Mayo University Hospital,Inpatient,Adult,112,37,33,89,271
+23/12/2021,Mercy University Hospital,Inpatient,Adult,134,20,19,36,209
+23/12/2021,Midland Regional Hospital Mullingar,Inpatient,Adult,4,14,2,0,20
+23/12/2021,Midland Regional Hospital Portlaoise,Inpatient,Adult,15,4,4,2,25
+23/12/2021,Midland Regional Hospital Tullamore,Inpatient,Adult,315,101,33,93,542
+23/12/2021,National Orthopaedic Hospital Cappagh,Inpatient,Adult,900,111,13,16,"1,040"
+23/12/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Adult,392,89,27,2,510
+23/12/2021,Our Lady's Hospital Navan,Inpatient,Adult,161,28,29,35,253
+23/12/2021,Royal Victoria Eye and Ear Hospital,Inpatient,Adult,192,30,22,26,270
+23/12/2021,Sligo University Hospital,Inpatient,Adult,363,115,96,128,702
+23/12/2021,Small Volume Hospitals,Inpatient,Adult,15,4,2,2,23
+23/12/2021,South Infirmary Victoria University Hospital,Inpatient,Adult,189,34,17,64,304
+23/12/2021,St. James's Hospital,Inpatient,Adult,670,301,206,563,"1,740"
+23/12/2021,St. John's Hospital Limerick,Inpatient,Adult,296,59,65,73,493
+23/12/2021,St. Luke's General Hospital Kilkenny,Inpatient,Adult,38,15,7,9,69
+23/12/2021,St. Michael's Hospital,Inpatient,Adult,544,114,37,33,728
+23/12/2021,St. Vincent's University Hospital,Inpatient,Adult,551,139,75,189,954
+23/12/2021,Tallaght University Hospital,Inpatient,Adult,473,167,127,227,994
+23/12/2021,University Hospital Kerry,Inpatient,Adult,133,48,25,30,236
+23/12/2021,University Hospital Limerick,Inpatient,Adult,240,60,45,77,422
+23/12/2021,University Hospital Waterford,Inpatient,Adult,111,39,41,76,267
+23/12/2021,Wexford General Hospital,Inpatient,Adult,12,4,4,0,20
+23/12/2021,Cavan General Hospital,Day Case,Child,20,0,0,0,20
+23/12/2021,Children's Health Ireland,Day Case,Child,"1,628",561,312,446,"2,947"
+23/12/2021,Cork University Hospital,Day Case,Child,53,16,10,17,96
+23/12/2021,Galway University Hospitals,Day Case,Child,151,47,42,57,297
+23/12/2021,Letterkenny University Hospital,Day Case,Child,24,4,11,13,52
+23/12/2021,Mercy University Hospital,Day Case,Child,91,19,12,2,124
+23/12/2021,Midland Regional Hospital Mullingar,Day Case,Child,17,4,0,0,21
+23/12/2021,Midland Regional Hospital Tullamore,Day Case,Child,44,2,0,0,46
+23/12/2021,National Orthopaedic Hospital Cappagh,Day Case,Child,40,12,0,0,52
+23/12/2021,Nenagh Hospital,Day Case,Child,28,2,0,2,32
+23/12/2021,Our Lady of Lourdes Hospital Drogheda,Day Case,Child,41,4,4,2,52
+23/12/2021,Portiuncula University Hospital,Day Case,Child,31,0,2,2,35
+23/12/2021,Royal Victoria Eye and Ear Hospital,Day Case,Child,33,4,4,11,53
+23/12/2021,Sligo University Hospital,Day Case,Child,56,7,4,2,70
+23/12/2021,Small Volume Hospitals,Day Case,Child,45,6,4,6,62
+23/12/2021,South Infirmary Victoria University Hospital,Day Case,Child,74,9,2,2,87
+23/12/2021,University Hospital Limerick,Day Case,Child,80,16,10,21,127
+23/12/2021,University Hospital Waterford,Day Case,Child,78,7,2,12,99
+23/12/2021,Beaumont Hospital,Inpatient,Child,11,13,0,0,24
+23/12/2021,Children's Health Ireland,Inpatient,Child,"1,247",663,423,670,"3,003"
+23/12/2021,Galway University Hospitals,Inpatient,Child,31,18,3,9,61
+23/12/2021,Midland Regional Hospital Mullingar,Inpatient,Child,31,1,0,0,32
+23/12/2021,Midland Regional Hospital Tullamore,Inpatient,Child,82,0,0,0,82
+23/12/2021,National Orthopaedic Hospital Cappagh,Inpatient,Child,159,24,14,20,217
+23/12/2021,Our Lady of Lourdes Hospital Drogheda,Inpatient,Child,32,1,0,0,33
+23/12/2021,Sligo University Hospital,Inpatient,Child,31,6,7,10,55
+23/12/2021,Small Volume Hospitals,Inpatient,Child,28,1,7,14,51
+23/12/2021,South Infirmary Victoria University Hospital,Inpatient,Child,28,3,0,1,32
+23/12/2021,University Hospital Kerry,Inpatient,Child,14,6,0,1,21
+23/12/2021,University Hospital Limerick,Inpatient,Child,14,0,3,5,22
+23/12/2021,University Hospital Waterford,Inpatient,Child,28,3,3,1,35

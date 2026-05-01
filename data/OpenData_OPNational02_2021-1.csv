@@ -1,0 +1,748 @@
+ArchiveDate,Adult_Child,Speciality,0-6 Months,6-12 Months,12-18 Months,18 Months +,Total
+29/04/2021,Adult,Anaesthetics,114,210,292,"1,086","1,702"
+29/04/2021,Adult,Breast Surgery,"3,082","1,368",739,911,"6,100"
+29/04/2021,Adult,Cardio-Thoracic Surgery,210,27,19,13,269
+29/04/2021,Adult,Cardiology,"12,969","6,854","5,481","5,523","30,827"
+29/04/2021,Adult,Chemical Pathology,38,18,10,2,68
+29/04/2021,Adult,Clinical (Medical) Genetics,952,641,452,51,"2,096"
+29/04/2021,Adult,Clinical Immunology,727,174,228,157,"1,286"
+29/04/2021,Adult,Clinical Neurophysiology,551,570,419,450,"1,990"
+29/04/2021,Adult,Dermatology,"15,909","7,798","5,273","12,961","41,941"
+29/04/2021,Adult,Diabetes Mellitus,759,415,356,291,"1,821"
+29/04/2021,Adult,Endocrinology,"5,695","2,804","1,876","4,945","15,320"
+29/04/2021,Adult,Gastro-Enterology,"8,466","2,818","1,594","1,657","14,535"
+29/04/2021,Adult,Gastro-Intestinal Surgery,222,43,39,43,347
+29/04/2021,Adult,General Medicine,"8,618","5,580","3,604","4,057","21,859"
+29/04/2021,Adult,General Surgery,"26,541","8,688","4,062","4,314","43,605"
+29/04/2021,Adult,Geriatric Medicine,"2,006",518,191,268,"2,983"
+29/04/2021,Adult,Gynaecology,"17,238","6,638","3,377","4,590","31,843"
+29/04/2021,Adult,Haematology,"4,223","1,466",970,"1,424","8,083"
+29/04/2021,Adult,Hepato-Biliary Surgery,82,27,4,2,115
+29/04/2021,Adult,Immunology,0,2,11,2,15
+29/04/2021,Adult,Infectious Diseases,497,53,48,0,598
+29/04/2021,Adult,Intensive Care,19,0,0,0,19
+29/04/2021,Adult,Maxillo-Facial,"1,177",807,895,"2,862","5,741"
+29/04/2021,Adult,Metabolic Medicine,59,49,29,30,167
+29/04/2021,Adult,Microbiology,46,0,0,2,48
+29/04/2021,Adult,Nephrology,"1,885",565,388,718,"3,556"
+29/04/2021,Adult,Neurology,"7,392","4,609","3,252","7,994","23,247"
+29/04/2021,Adult,Neurosurgery,"2,237",808,732,"1,112","4,889"
+29/04/2021,Adult,Obstetrics,2,0,4,2,8
+29/04/2021,Adult,Oncology,456,19,10,2,487
+29/04/2021,Adult,Ophthalmology,"13,270","6,514","6,112","14,292","40,188"
+29/04/2021,Adult,Oral Surgery,576,383,452,"1,689","3,100"
+29/04/2021,Adult,Orthopaedics,"23,039","15,713","12,119","19,113","69,984"
+29/04/2021,Adult,Otolaryngology (ENT),"13,580","8,372","7,694","25,862","55,508"
+29/04/2021,Adult,Paed Cardiology,7,4,4,8,23
+29/04/2021,Adult,Paed Endocrinology,4,4,4,2,13
+29/04/2021,Adult,Paediatric ENT,10,4,7,5,26
+29/04/2021,Adult,Paediatric Neurology,2,2,8,19,31
+29/04/2021,Adult,Paediatric Respiratory Medicine,2,4,2,0,8
+29/04/2021,Adult,Paediatrics,61,38,27,19,145
+29/04/2021,Adult,Pain Relief,"3,600","2,283","2,067","4,820","12,770"
+29/04/2021,Adult,Pathology,58,43,32,43,176
+29/04/2021,Adult,Plastic Surgery,"5,049","2,950","2,267","5,769","16,035"
+29/04/2021,Adult,Psychiatry,279,51,17,2,349
+29/04/2021,Adult,Radiology,14,2,2,2,20
+29/04/2021,Adult,Radiotherapy,56,0,0,0,56
+29/04/2021,Adult,Rehabilitation Medicine,15,0,0,0,15
+29/04/2021,Adult,Respiratory Medicine,"6,386","3,398","3,244","5,911","18,939"
+29/04/2021,Adult,Rheumatology,"6,608","3,575","2,675","6,807","19,665"
+29/04/2021,Adult,Small Volume Specialities,6,2,2,0,10
+29/04/2021,Adult,Urology,"10,067","5,480","4,800","10,826","31,173"
+29/04/2021,Adult,Vascular Surgery,"4,758","3,146","2,160","4,200","14,264"
+29/04/2021,Child,Anaesthetics,0,2,2,2,6
+29/04/2021,Child,Breast Surgery,14,4,7,0,25
+29/04/2021,Child,Cardio-Thoracic Surgery,73,30,16,8,127
+29/04/2021,Child,Cardiology,44,25,23,7,99
+29/04/2021,Child,Chemical Pathology,8,0,2,0,10
+29/04/2021,Child,Child/Adolescent Psychiatry,27,0,4,0,31
+29/04/2021,Child,Clinical (Medical) Genetics,403,294,356,904,"1,957"
+29/04/2021,Child,Clinical Immunology,250,124,187,"1,151","1,712"
+29/04/2021,Child,Dental Surgery,104,62,127,193,486
+29/04/2021,Child,Dermatology,"1,221",622,488,"1,063","3,394"
+29/04/2021,Child,Developmental Paediatrics,219,52,89,306,666
+29/04/2021,Child,Diabetes Mellitus,4,4,0,0,7
+29/04/2021,Child,Endocrinology,12,4,2,2,19
+29/04/2021,Child,Gastro-Enterology,20,4,2,2,27
+29/04/2021,Child,General Medicine,24,8,4,2,37
+29/04/2021,Child,General Surgery,870,472,264,281,"1,887"
+29/04/2021,Child,Gynaecology,327,127,47,20,521
+29/04/2021,Child,Haematology,51,15,4,0,70
+29/04/2021,Child,Immunology,114,32,65,336,547
+29/04/2021,Child,Maxillo-Facial,102,50,46,141,339
+29/04/2021,Child,Neonatology,7,4,2,2,14
+29/04/2021,Child,Nephrology,4,0,2,0,6
+29/04/2021,Child,Neurology,21,8,7,2,38
+29/04/2021,Child,Neurosurgery,11,0,2,0,13
+29/04/2021,Child,Ophthalmology,"2,064","1,051",960,"2,807","6,882"
+29/04/2021,Child,Oral Surgery,61,24,35,65,185
+29/04/2021,Child,Orthopaedics,"1,420",670,420,493,"3,003"
+29/04/2021,Child,Otolaryngology (ENT),"2,059","1,259","1,982","6,785","12,085"
+29/04/2021,Child,Paed Cardiology,"1,669",886,504,337,"3,396"
+29/04/2021,Child,Paed Endocrinology,498,151,103,104,856
+29/04/2021,Child,Paed Gastro-Enterol,439,143,110,319,"1,011"
+29/04/2021,Child,Paed Haematology,123,31,18,25,197
+29/04/2021,Child,Paed Metabolic Medicine,49,4,4,2,58
+29/04/2021,Child,Paed Nephrology,295,109,50,58,512
+29/04/2021,Child,Paed Oncology,2,4,2,0,7
+29/04/2021,Child,Paed Orthopaedic,"1,283",901,491,"1,021","3,696"
+29/04/2021,Child,Paediatric Anaesthetics,24,11,0,55,90
+29/04/2021,Child,Paediatric Dermatology,"1,450",550,523,"2,679","5,202"
+29/04/2021,Child,Paediatric ENT,"1,345",780,"1,379","2,350","5,854"
+29/04/2021,Child,Paediatric Infectious Diseases,69,36,33,12,150
+29/04/2021,Child,Paediatric Neurology,573,147,155,279,"1,154"
+29/04/2021,Child,Paediatric Neurosurgery,27,4,0,5,36
+29/04/2021,Child,Paediatric Respiratory Medicine,381,257,404,882,"1,924"
+29/04/2021,Child,Paediatric Surgery,"1,864","1,020",568,557,"4,009"
+29/04/2021,Child,Paediatric Urology,328,220,223,285,"1,056"
+29/04/2021,Child,Paediatrics,"8,572","2,469","1,148",605,"12,794"
+29/04/2021,Child,Pain Relief,16,11,7,2,36
+29/04/2021,Child,Plastic Surgery,659,416,427,579,"2,081"
+29/04/2021,Child,Respiratory Medicine,10,4,0,7,21
+29/04/2021,Child,Rheumatology,261,140,147,736,"1,284"
+29/04/2021,Child,Small Volume Specialities,4,2,4,0,9
+29/04/2021,Child,Urology,792,530,440,846,"2,608"
+29/04/2021,Child,Vascular Surgery,9,2,0,2,13
+13/05/2021,Adult,Anaesthetics,118,204,282,"1,093","1,697"
+13/05/2021,Adult,Breast Surgery,"2,858","1,435",731,904,"5,928"
+13/05/2021,Adult,Cardio-Thoracic Surgery,232,30,18,13,293
+13/05/2021,Adult,Cardiology,"13,006","7,188","5,119","5,658","30,971"
+13/05/2021,Adult,Chemical Pathology,34,19,8,5,66
+13/05/2021,Adult,Clinical (Medical) Genetics,937,679,431,50,"2,097"
+13/05/2021,Adult,Clinical Immunology,716,203,217,134,"1,270"
+13/05/2021,Adult,Clinical Neurophysiology,546,617,407,463,"2,033"
+13/05/2021,Adult,Dermatology,"15,876","8,216","4,859","12,936","41,887"
+13/05/2021,Adult,Diabetes Mellitus,757,437,328,298,"1,820"
+13/05/2021,Adult,Endocrinology,"5,760","2,947","1,824","4,993","15,524"
+13/05/2021,Adult,Gastro-Enterology,"8,562","2,873","1,473","1,735","14,643"
+13/05/2021,Adult,Gastro-Intestinal Surgery,237,53,36,44,370
+13/05/2021,Adult,General Medicine,"8,622","5,826","3,413","4,201","22,062"
+13/05/2021,Adult,General Surgery,"26,256","9,059","3,746","4,438","43,499"
+13/05/2021,Adult,Geriatric Medicine,"2,054",542,182,271,"3,049"
+13/05/2021,Adult,Gynaecology,"17,302","6,976","3,162","4,585","32,025"
+13/05/2021,Adult,Haematology,"4,183","1,524",925,"1,457","8,089"
+13/05/2021,Adult,Hepato-Biliary Surgery,87,30,4,2,123
+13/05/2021,Adult,Immunology,0,2,9,2,13
+13/05/2021,Adult,Infectious Diseases,520,51,53,0,624
+13/05/2021,Adult,Intensive Care,17,0,0,0,17
+13/05/2021,Adult,Maxillo-Facial,"1,216",847,834,"2,863","5,760"
+13/05/2021,Adult,Metabolic Medicine,90,58,33,32,213
+13/05/2021,Adult,Microbiology,52,4,0,2,58
+13/05/2021,Adult,Nephrology,"1,820",613,382,716,"3,531"
+13/05/2021,Adult,Neurology,"7,393","4,785","3,071","8,003","23,252"
+13/05/2021,Adult,Neurosurgery,"2,256",833,695,"1,172","4,956"
+13/05/2021,Adult,Obstetrics,2,0,2,2,6
+13/05/2021,Adult,Oncology,453,18,9,2,482
+13/05/2021,Adult,Ophthalmology,"13,375","6,960","5,598","14,253","40,186"
+13/05/2021,Adult,Oral Surgery,570,415,414,"1,667","3,066"
+13/05/2021,Adult,Orthopaedics,"23,597","16,489","11,245","17,932","69,263"
+13/05/2021,Adult,Otolaryngology (ENT),"13,835","8,783","7,198","25,622","55,438"
+13/05/2021,Adult,Paed Cardiology,4,7,4,9,24
+13/05/2021,Adult,Paed Endocrinology,2,2,2,2,8
+13/05/2021,Adult,Paediatric ENT,7,7,7,2,23
+13/05/2021,Adult,Paediatric Neurology,2,2,7,21,32
+13/05/2021,Adult,Paediatric Respiratory Medicine,4,4,2,0,10
+13/05/2021,Adult,Paediatrics,68,40,25,17,150
+13/05/2021,Adult,Pain Relief,"3,557","2,466","1,943","4,841","12,807"
+13/05/2021,Adult,Palliative Medicine,13,0,0,0,13
+13/05/2021,Adult,Pathology,52,43,31,43,169
+13/05/2021,Adult,Plastic Surgery,"5,003","3,006","2,054","5,783","15,846"
+13/05/2021,Adult,Psychiatry,287,49,16,2,354
+13/05/2021,Adult,Radiology,14,2,2,0,18
+13/05/2021,Adult,Radiotherapy,50,0,0,0,50
+13/05/2021,Adult,Rehabilitation Medicine,14,0,0,0,14
+13/05/2021,Adult,Respiratory Medicine,"6,434","3,517","3,054","6,054","19,059"
+13/05/2021,Adult,Rheumatology,"6,554","3,626","2,489","6,898","19,567"
+13/05/2021,Adult,Small Volume Specialities,2,2,2,0,6
+13/05/2021,Adult,Urology,"10,083","5,684","4,483","10,860","31,110"
+13/05/2021,Adult,Vascular Surgery,"4,956","3,199","2,075","4,202","14,432"
+13/05/2021,Child,Anaesthetics,0,2,2,2,6
+13/05/2021,Child,Breast Surgery,11,7,2,0,20
+13/05/2021,Child,Cardio-Thoracic Surgery,74,28,15,9,126
+13/05/2021,Child,Cardiology,44,23,23,7,97
+13/05/2021,Child,Child/Adolescent Psychiatry,26,0,4,0,30
+13/05/2021,Child,Clinical (Medical) Genetics,389,305,357,918,"1,969"
+13/05/2021,Child,Clinical Immunology,262,125,172,"1,133","1,692"
+13/05/2021,Child,Dental Surgery,92,70,121,192,475
+13/05/2021,Child,Dermatology,"1,300",655,456,"1,063","3,474"
+13/05/2021,Child,Developmental Paediatrics,216,61,81,312,670
+13/05/2021,Child,Diabetes Mellitus,7,4,0,0,11
+13/05/2021,Child,Endocrinology,12,4,2,2,19
+13/05/2021,Child,Gastro-Enterology,16,4,2,2,23
+13/05/2021,Child,General Medicine,25,8,4,2,38
+13/05/2021,Child,General Surgery,882,481,265,291,"1,919"
+13/05/2021,Child,Gynaecology,328,148,42,18,536
+13/05/2021,Child,Haematology,58,14,2,2,76
+13/05/2021,Child,Immunology,124,34,62,341,561
+13/05/2021,Child,Maxillo-Facial,100,52,44,142,338
+13/05/2021,Child,Neonatology,4,2,2,2,9
+13/05/2021,Child,Nephrology,4,0,2,0,6
+13/05/2021,Child,Neurology,23,9,7,2,41
+13/05/2021,Child,Neurosurgery,4,2,0,2,7
+13/05/2021,Child,Ophthalmology,"2,010","1,107",911,"2,823","6,851"
+13/05/2021,Child,Oral Surgery,53,32,30,67,182
+13/05/2021,Child,Orthopaedics,"1,412",706,389,491,"2,998"
+13/05/2021,Child,Otolaryngology (ENT),"2,118","1,310","1,869","6,776","12,073"
+13/05/2021,Child,Paed Cardiology,"1,644",905,516,334,"3,399"
+13/05/2021,Child,Paed Endocrinology,533,152,86,101,872
+13/05/2021,Child,Paed Gastro-Enterol,454,156,103,280,993
+13/05/2021,Child,Paed Haematology,126,32,15,23,196
+13/05/2021,Child,Paed Metabolic Medicine,49,4,4,0,56
+13/05/2021,Child,Paed Nephrology,294,95,42,51,482
+13/05/2021,Child,Paed Oncology,2,4,2,0,7
+13/05/2021,Child,Paed Orthopaedic,"1,251",929,380,978,"3,538"
+13/05/2021,Child,Paediatric Anaesthetics,20,14,0,54,88
+13/05/2021,Child,Paediatric Dermatology,"1,486",605,484,"2,686","5,261"
+13/05/2021,Child,Paediatric ENT,"1,370",823,"1,286","2,318","5,797"
+13/05/2021,Child,Paediatric Infectious Diseases,70,37,30,15,152
+13/05/2021,Child,Paediatric Neurology,575,171,137,288,"1,171"
+13/05/2021,Child,Paediatric Neurosurgery,29,4,0,2,35
+13/05/2021,Child,Paediatric Respiratory Medicine,374,260,389,860,"1,883"
+13/05/2021,Child,Paediatric Surgery,"1,894","1,067",535,587,"4,083"
+13/05/2021,Child,Paediatric Urology,327,226,214,286,"1,053"
+13/05/2021,Child,Paediatrics,"8,657","2,590","1,069",599,"12,915"
+13/05/2021,Child,Pain Relief,14,15,8,2,39
+13/05/2021,Child,Plastic Surgery,659,444,376,588,"2,067"
+13/05/2021,Child,Respiratory Medicine,7,4,0,7,18
+13/05/2021,Child,Rheumatology,258,149,144,739,"1,290"
+13/05/2021,Child,Small Volume Specialities,7,2,4,0,13
+13/05/2021,Child,Urology,784,540,434,841,"2,599"
+13/05/2021,Child,Vascular Surgery,9,4,0,0,13
+29/07/2021,Adult,Anaesthetics,144,138,232,"1,198","1,712"
+29/07/2021,Adult,Breast Surgery,"2,773","1,548",736,549,"5,606"
+29/07/2021,Adult,Cardio-Thoracic Surgery,234,53,17,18,322
+29/07/2021,Adult,Cardiology,"14,217","7,639","4,414","6,607","32,877"
+29/07/2021,Adult,Chemical Pathology,47,18,9,7,81
+29/07/2021,Adult,Clinical (Medical) Genetics,880,775,327,132,"2,114"
+29/07/2021,Adult,Clinical Immunology,775,247,150,131,"1,303"
+29/07/2021,Adult,Clinical Neurophysiology,706,595,463,638,"2,402"
+29/07/2021,Adult,Dermatology,"18,960","8,211","4,551","13,332","45,054"
+29/07/2021,Adult,Diabetes Mellitus,791,455,298,375,"1,919"
+29/07/2021,Adult,Endocrinology,"6,211","3,384","1,892","5,966","17,453"
+29/07/2021,Adult,Gastro-Enterology,"8,456","3,150","1,506","2,194","15,306"
+29/07/2021,Adult,Gastro-Intestinal Surgery,382,54,30,57,523
+29/07/2021,Adult,General Medicine,"8,498","5,256","3,350","3,955","21,059"
+29/07/2021,Adult,General Surgery,"27,295","9,035","4,052","4,944","45,326"
+29/07/2021,Adult,Geriatric Medicine,"2,441",433,218,292,"3,384"
+29/07/2021,Adult,Gynaecology,"17,547","7,789","2,993","4,881","33,210"
+29/07/2021,Adult,Haematology,"3,847","1,619",840,"1,547","7,853"
+29/07/2021,Adult,Hepato-Biliary Surgery,62,34,4,2,102
+29/07/2021,Adult,Infectious Diseases,489,49,56,2,596
+29/07/2021,Adult,Maxillo-Facial,"1,201",749,653,"2,844","5,447"
+29/07/2021,Adult,Metabolic Medicine,41,49,27,42,159
+29/07/2021,Adult,Microbiology,41,2,0,2,45
+29/07/2021,Adult,Nephrology,"1,632",818,366,815,"3,631"
+29/07/2021,Adult,Neurology,"7,768","4,837","3,032","8,407","24,044"
+29/07/2021,Adult,Neurosurgery,"2,305",898,609,"1,438","5,250"
+29/07/2021,Adult,Oncology,559,30,10,5,604
+29/07/2021,Adult,Ophthalmology,"14,454","7,821","4,621","14,810","41,706"
+29/07/2021,Adult,Oral Surgery,594,476,353,"1,839","3,262"
+29/07/2021,Adult,Orthopaedics,"24,649","16,755","10,698","19,219","71,321"
+29/07/2021,Adult,Otolaryngology (ENT),"14,643","8,653","6,393","26,746","56,435"
+29/07/2021,Adult,Paed Cardiology,10,7,4,13,34
+29/07/2021,Adult,Paediatric ENT,4,10,4,11,29
+29/07/2021,Adult,Paediatric Neurology,4,4,2,26,36
+29/07/2021,Adult,Paediatrics,70,45,18,26,159
+29/07/2021,Adult,Pain Relief,"3,708","2,653","1,626","5,141","13,128"
+29/07/2021,Adult,Palliative Medicine,22,2,0,0,24
+29/07/2021,Adult,Pathology,55,34,40,44,173
+29/07/2021,Adult,Plastic Surgery,"6,205","2,963","1,890","5,978","17,036"
+29/07/2021,Adult,Psychiatry,401,35,21,2,459
+29/07/2021,Adult,Radiology,23,4,2,2,31
+29/07/2021,Adult,Radiotherapy,29,0,0,0,29
+29/07/2021,Adult,Respiratory Medicine,"6,937","3,610","2,557","6,686","19,790"
+29/07/2021,Adult,Rheumatology,"6,477","3,731","2,086","7,206","19,500"
+29/07/2021,Adult,Small Volume Specialities,22,28,17,11,78
+29/07/2021,Adult,Urology,"10,538","6,175","3,991","11,279","31,983"
+29/07/2021,Adult,Vascular Surgery,"5,918","2,941","2,041","4,089","14,989"
+29/07/2021,Child,Breast Surgery,14,4,4,0,22
+29/07/2021,Child,Cardio-Thoracic Surgery,52,12,4,2,70
+29/07/2021,Child,Cardiology,43,25,23,14,105
+29/07/2021,Child,Child/Adolescent Psychiatry,26,0,2,0,28
+29/07/2021,Child,Clinical (Medical) Genetics,388,306,282,"1,021","1,997"
+29/07/2021,Child,Clinical Immunology,241,145,110,"1,205","1,701"
+29/07/2021,Child,Dental Surgery,76,74,87,242,479
+29/07/2021,Child,Dermatology,"1,435",670,436,"1,145","3,686"
+29/07/2021,Child,Developmental Paediatrics,211,79,58,286,634
+29/07/2021,Child,Gastro-Enterology,18,2,4,2,26
+29/07/2021,Child,General Medicine,26,7,4,2,39
+29/07/2021,Child,General Surgery,992,506,259,339,"2,096"
+29/07/2021,Child,Gynaecology,312,171,35,21,539
+29/07/2021,Child,Haematology,46,7,4,2,59
+29/07/2021,Child,Immunology,121,32,40,362,555
+29/07/2021,Child,Maxillo-Facial,79,63,35,151,328
+29/07/2021,Child,Neurology,19,14,2,2,37
+29/07/2021,Child,Ophthalmology,"2,041","1,164",758,"2,734","6,697"
+29/07/2021,Child,Oral Surgery,60,49,20,77,206
+29/07/2021,Child,Orthopaedics,"1,453",716,354,518,"3,041"
+29/07/2021,Child,Otolaryngology (ENT),"2,345","1,419","1,275","7,326","12,365"
+29/07/2021,Child,Paed Cardiology,"1,691","1,048",622,382,"3,743"
+29/07/2021,Child,Paed Endocrinology,514,185,49,98,846
+29/07/2021,Child,Paed Gastro-Enterol,413,196,90,273,972
+29/07/2021,Child,Paed Haematology,121,44,26,26,217
+29/07/2021,Child,Paed Metabolic Medicine,49,4,4,0,57
+29/07/2021,Child,Paed Nephrology,285,116,40,55,496
+29/07/2021,Child,Paed Orthopaedic,"1,311",897,457,936,"3,601"
+29/07/2021,Child,Paediatric Anaesthetics,20,14,0,54,88
+29/07/2021,Child,Paediatric Dermatology,"1,546",652,448,"2,706","5,352"
+29/07/2021,Child,Paediatric ENT,"1,471",919,977,"2,894","6,261"
+29/07/2021,Child,Paediatric Infectious Diseases,61,25,26,33,145
+29/07/2021,Child,Paediatric Neurology,608,206,93,345,"1,252"
+29/07/2021,Child,Paediatric Neurosurgery,29,4,0,2,35
+29/07/2021,Child,Paediatric Respiratory Medicine,400,258,334,884,"1,876"
+29/07/2021,Child,Paediatric Surgery,"2,010","1,001",605,586,"4,202"
+29/07/2021,Child,Paediatric Urology,360,224,211,326,"1,121"
+29/07/2021,Child,Paediatrics,"9,036","2,808","1,009",674,"13,527"
+29/07/2021,Child,Pain Relief,23,13,7,2,45
+29/07/2021,Child,Plastic Surgery,757,431,341,636,"2,165"
+29/07/2021,Child,Rheumatology,232,177,116,779,"1,304"
+29/07/2021,Child,Small Volume Specialities,54,18,16,18,106
+29/07/2021,Child,Urology,824,590,402,956,"2,772"
+29/07/2021,Child,Vascular Surgery,17,4,0,0,21
+26/08/2021,Adult,Anaesthetics,153,105,197,"1,212","1,667"
+26/08/2021,Adult,Breast Surgery,"2,662","1,710",731,465,"5,568"
+26/08/2021,Adult,Cardio-Thoracic Surgery,243,59,14,23,339
+26/08/2021,Adult,Cardiology,"14,455","7,656","4,105","6,981","33,197"
+26/08/2021,Adult,Chemical Pathology,59,18,12,9,98
+26/08/2021,Adult,Clinical (Medical) Genetics,852,782,368,124,"2,126"
+26/08/2021,Adult,Clinical Immunology,749,272,135,141,"1,297"
+26/08/2021,Adult,Clinical Neurophysiology,702,573,418,663,"2,356"
+26/08/2021,Adult,Dermatology,"20,007","7,840","4,178","12,869","44,894"
+26/08/2021,Adult,Diabetes Mellitus,807,447,282,412,"1,948"
+26/08/2021,Adult,Endocrinology,"6,553","3,388","1,898","6,068","17,907"
+26/08/2021,Adult,Gastro-Enterology,"8,571","3,187","1,477","2,292","15,527"
+26/08/2021,Adult,Gastro-Intestinal Surgery,397,69,28,62,556
+26/08/2021,Adult,General Medicine,"8,941","5,001","3,154","3,998","21,094"
+26/08/2021,Adult,General Surgery,"27,659","8,649","3,873","4,867","45,048"
+26/08/2021,Adult,Geriatric Medicine,"2,886",424,215,303,"3,828"
+26/08/2021,Adult,Gynaecology,"17,524","7,552","2,657","4,746","32,479"
+26/08/2021,Adult,Haematology,"4,063","1,614",794,"1,580","8,051"
+26/08/2021,Adult,Hepato-Biliary Surgery,68,23,10,6,107
+26/08/2021,Adult,Infectious Diseases,478,41,49,2,570
+26/08/2021,Adult,Maxillo-Facial,"1,225",746,586,"2,891","5,448"
+26/08/2021,Adult,Metabolic Medicine,45,46,31,46,168
+26/08/2021,Adult,Microbiology,45,4,0,2,51
+26/08/2021,Adult,Nephrology,"1,649",855,337,852,"3,693"
+26/08/2021,Adult,Neurology,"7,627","4,856","2,895","8,601","23,979"
+26/08/2021,Adult,Neurosurgery,"2,282",952,573,"1,534","5,341"
+26/08/2021,Adult,Oncology,508,30,8,8,554
+26/08/2021,Adult,Ophthalmology,"14,573","7,775","4,047","14,804","41,199"
+26/08/2021,Adult,Oral Surgery,559,506,307,"1,860","3,232"
+26/08/2021,Adult,Orthopaedics,"25,685","16,497","10,131","19,056","71,369"
+26/08/2021,Adult,Otolaryngology (ENT),"14,883","8,360","5,698","26,160","55,101"
+26/08/2021,Adult,Paed Cardiology,13,11,4,15,43
+26/08/2021,Adult,Paediatric ENT,4,12,4,10,30
+26/08/2021,Adult,Paediatric Neurology,4,4,2,22,32
+26/08/2021,Adult,Paediatrics,68,49,18,27,162
+26/08/2021,Adult,Pain Relief,"3,675","2,629","1,487","5,238","13,029"
+26/08/2021,Adult,Palliative Medicine,22,0,0,0,22
+26/08/2021,Adult,Pathology,61,36,35,42,174
+26/08/2021,Adult,Plastic Surgery,"6,730","2,856","1,784","6,036","17,406"
+26/08/2021,Adult,Psychiatry,451,27,29,5,512
+26/08/2021,Adult,Radiology,21,4,2,2,29
+26/08/2021,Adult,Radiotherapy,44,0,0,0,44
+26/08/2021,Adult,Respiratory Medicine,"7,069","3,539","2,268","6,583","19,459"
+26/08/2021,Adult,Rheumatology,"6,658","3,699","1,916","7,043","19,316"
+26/08/2021,Adult,Small Volume Specialities,18,29,8,14,69
+26/08/2021,Adult,Urology,"10,872","6,026","3,555","11,542","31,995"
+26/08/2021,Adult,Vascular Surgery,"6,237","2,730","2,037","4,275","15,279"
+26/08/2021,Child,Breast Surgery,19,4,4,2,29
+26/08/2021,Child,Cardio-Thoracic Surgery,61,9,4,2,76
+26/08/2021,Child,Cardiology,43,26,21,17,107
+26/08/2021,Child,Child/Adolescent Psychiatry,9,15,0,2,26
+26/08/2021,Child,Clinical (Medical) Genetics,363,304,270,"1,073","2,010"
+26/08/2021,Child,Clinical Immunology,225,152,101,"1,173","1,651"
+26/08/2021,Child,Dental Surgery,120,65,79,262,526
+26/08/2021,Child,Dermatology,"1,492",654,425,"1,132","3,703"
+26/08/2021,Child,Developmental Paediatrics,209,95,51,302,657
+26/08/2021,Child,Endocrinology,11,4,5,2,22
+26/08/2021,Child,Gastro-Enterology,16,2,4,2,24
+26/08/2021,Child,General Medicine,29,7,4,2,42
+26/08/2021,Child,General Surgery,"1,050",487,215,363,"2,115"
+26/08/2021,Child,Gynaecology,338,176,36,21,571
+26/08/2021,Child,Haematology,57,7,4,0,68
+26/08/2021,Child,Immunology,116,31,32,361,540
+26/08/2021,Child,Maxillo-Facial,82,62,29,157,330
+26/08/2021,Child,Neurology,17,9,2,2,30
+26/08/2021,Child,Ophthalmology,"2,041","1,165",648,"2,745","6,599"
+26/08/2021,Child,Oral Surgery,57,47,20,76,200
+26/08/2021,Child,Orthopaedics,"1,460",683,339,528,"3,010"
+26/08/2021,Child,Otolaryngology (ENT),"2,352","1,390","1,015","7,295","12,052"
+26/08/2021,Child,Paed Cardiology,"1,759","1,045",609,473,"3,886"
+26/08/2021,Child,Paed Endocrinology,531,197,41,121,890
+26/08/2021,Child,Paed Gastro-Enterol,397,170,94,246,907
+26/08/2021,Child,Paed Haematology,189,56,24,29,298
+26/08/2021,Child,Paed Metabolic Medicine,36,9,4,2,51
+26/08/2021,Child,Paed Nephrology,273,130,51,61,515
+26/08/2021,Child,Paed Orthopaedic,"1,428",852,458,949,"3,687"
+26/08/2021,Child,Paediatric Anaesthetics,8,15,2,43,68
+26/08/2021,Child,Paediatric Dermatology,"1,619",709,380,"2,821","5,529"
+26/08/2021,Child,Paediatric ENT,"1,539",917,626,"3,079","6,161"
+26/08/2021,Child,Paediatric Infectious Diseases,81,22,17,39,159
+26/08/2021,Child,Paediatric Neurology,613,215,75,346,"1,249"
+26/08/2021,Child,Paediatric Neurosurgery,29,2,2,2,35
+26/08/2021,Child,Paediatric Respiratory Medicine,424,268,243,978,"1,913"
+26/08/2021,Child,Paediatric Surgery,"2,039","1,111",464,898,"4,512"
+26/08/2021,Child,Paediatric Urology,399,231,174,392,"1,196"
+26/08/2021,Child,Paediatrics,"9,101","3,246",929,767,"14,043"
+26/08/2021,Child,Pain Relief,19,11,2,2,34
+26/08/2021,Child,Plastic Surgery,849,422,269,702,"2,242"
+26/08/2021,Child,Rheumatology,231,188,104,796,"1,319"
+26/08/2021,Child,Small Volume Specialities,54,15,14,16,99
+26/08/2021,Child,Urology,843,585,353,991,"2,772"
+30/09/2021,Adult,Anaesthetics,152,90,173,"1,207","1,622"
+30/09/2021,Adult,Audiological Medicine,16,8,0,0,24
+30/09/2021,Adult,Breast Surgery,"2,634","1,644",699,220,"5,197"
+30/09/2021,Adult,Cardio-Thoracic Surgery,266,64,16,27,373
+30/09/2021,Adult,Cardiology,"15,117","7,622","4,046","6,817","33,602"
+30/09/2021,Adult,Chemical Pathology,68,25,12,7,112
+30/09/2021,Adult,Clinical (Medical) Genetics,856,821,375,127,"2,179"
+30/09/2021,Adult,Clinical Immunology,826,262,130,108,"1,326"
+30/09/2021,Adult,Clinical Neurophysiology,778,533,415,674,"2,400"
+30/09/2021,Adult,Dermatology,"21,140","7,268","4,001","12,178","44,587"
+30/09/2021,Adult,Diabetes Mellitus,874,433,297,419,"2,023"
+30/09/2021,Adult,Endocrinology,"6,532","3,563","1,884","6,068","18,047"
+30/09/2021,Adult,Gastro-Enterology,"9,001","3,155","1,494","2,371","16,021"
+30/09/2021,Adult,Gastro-Intestinal Surgery,398,88,29,67,582
+30/09/2021,Adult,General Medicine,"9,372","4,826","3,091","4,121","21,410"
+30/09/2021,Adult,General Surgery,"28,623","8,011","3,955","4,885","45,474"
+30/09/2021,Adult,Geriatric Medicine,"2,953",340,218,311,"3,822"
+30/09/2021,Adult,Gynaecology,"17,838","7,525","2,584","4,269","32,216"
+30/09/2021,Adult,Haematology,"4,374","1,544",710,"1,567","8,195"
+30/09/2021,Adult,Hepato-Biliary Surgery,57,19,14,7,97
+30/09/2021,Adult,Infectious Diseases,466,37,13,2,518
+30/09/2021,Adult,Maxillo-Facial,"1,237",717,556,"2,894","5,404"
+30/09/2021,Adult,Metabolic Medicine,36,44,34,53,167
+30/09/2021,Adult,Microbiology,37,12,0,2,50
+30/09/2021,Adult,Nephrology,"1,721",829,338,886,"3,774"
+30/09/2021,Adult,Neurology,"7,956","4,691","3,029","8,448","24,124"
+30/09/2021,Adult,Neurosurgery,"2,540","1,003",618,"1,584","5,745"
+30/09/2021,Adult,Oncology,495,32,7,10,544
+30/09/2021,Adult,Ophthalmology,"15,131","7,968","3,725","14,467","41,291"
+30/09/2021,Adult,Oral Surgery,577,486,260,"1,823","3,146"
+30/09/2021,Adult,Orthopaedics,"26,833","16,449","10,013","18,252","71,547"
+30/09/2021,Adult,Otolaryngology (ENT),"15,218","8,538","5,414","25,435","54,605"
+30/09/2021,Adult,Paed Cardiology,14,10,7,16,47
+30/09/2021,Adult,Paediatric ENT,4,9,2,7,21
+30/09/2021,Adult,Paediatric Neurology,4,4,4,24,35
+30/09/2021,Adult,Paediatrics,71,53,12,27,163
+30/09/2021,Adult,Pain Relief,"3,950","2,661","1,369","5,083","13,063"
+30/09/2021,Adult,Palliative Medicine,29,0,0,0,29
+30/09/2021,Adult,Pathology,52,36,33,42,163
+30/09/2021,Adult,Plastic Surgery,"7,250","2,829","1,884","5,845","17,808"
+30/09/2021,Adult,Psychiatry,491,23,30,11,555
+30/09/2021,Adult,Radiology,24,4,2,2,31
+30/09/2021,Adult,Radiotherapy,35,0,0,0,35
+30/09/2021,Adult,Respiratory Medicine,"7,221","3,415","2,114","6,578","19,328"
+30/09/2021,Adult,Rheumatology,"6,706","3,568","1,900","6,628","18,802"
+30/09/2021,Adult,Small Volume Specialities,23,14,7,17,62
+30/09/2021,Adult,Urology,"10,758","5,920","3,305","11,454","31,437"
+30/09/2021,Adult,Vascular Surgery,"6,611","2,576","2,085","4,319","15,591"
+30/09/2021,Child,Breast Surgery,19,4,4,0,28
+30/09/2021,Child,Cardio-Thoracic Surgery,59,9,2,2,72
+30/09/2021,Child,Cardiology,39,23,14,24,100
+30/09/2021,Child,Child/Adolescent Psychiatry,0,24,0,2,26
+30/09/2021,Child,Clinical (Medical) Genetics,363,331,251,"1,077","2,022"
+30/09/2021,Child,Clinical Immunology,238,149,103,"1,122","1,612"
+30/09/2021,Child,Dental Surgery,123,61,61,291,536
+30/09/2021,Child,Dermatology,"1,537",668,410,"1,123","3,738"
+30/09/2021,Child,Developmental Paediatrics,229,112,40,290,671
+30/09/2021,Child,Endocrinology,13,4,2,2,22
+30/09/2021,Child,Gastro-Enterology,19,4,2,0,25
+30/09/2021,Child,General Medicine,35,4,2,2,44
+30/09/2021,Child,General Surgery,"1,077",434,219,315,"2,045"
+30/09/2021,Child,Gynaecology,367,170,33,19,589
+30/09/2021,Child,Haematology,60,10,2,2,74
+30/09/2021,Child,Immunology,135,28,25,349,537
+30/09/2021,Child,Maxillo-Facial,91,61,28,159,339
+30/09/2021,Child,Neurology,25,8,5,2,40
+30/09/2021,Child,Ophthalmology,"1,956","1,111",592,"2,653","6,312"
+30/09/2021,Child,Oral Surgery,61,48,14,74,197
+30/09/2021,Child,Orthopaedics,"1,530",703,354,550,"3,137"
+30/09/2021,Child,Otolaryngology (ENT),"2,514","1,356",884,"7,189","11,943"
+30/09/2021,Child,Paed Cardiology,"1,834","1,010",544,433,"3,821"
+30/09/2021,Child,Paed Endocrinology,560,205,48,124,937
+30/09/2021,Child,Paed Gastro-Enterol,433,134,60,227,854
+30/09/2021,Child,Paed Haematology,189,53,31,31,304
+30/09/2021,Child,Paed Metabolic Medicine,43,7,2,8,60
+30/09/2021,Child,Paed Nephrology,291,140,47,73,551
+30/09/2021,Child,Paed Orthopaedic,"1,485",858,459,946,"3,748"
+30/09/2021,Child,Paediatric Anaesthetics,2,17,5,41,65
+30/09/2021,Child,Paediatric Dermatology,"1,690",721,378,"2,844","5,633"
+30/09/2021,Child,Paediatric ENT,"1,513",888,523,"3,111","6,035"
+30/09/2021,Child,Paediatric Infectious Diseases,77,36,16,39,168
+30/09/2021,Child,Paediatric Neurology,622,196,86,310,"1,214"
+30/09/2021,Child,Paediatric Neurosurgery,31,2,4,2,40
+30/09/2021,Child,Paediatric Respiratory Medicine,489,259,199,987,"1,934"
+30/09/2021,Child,Paediatric Surgery,"2,036","1,092",543,943,"4,614"
+30/09/2021,Child,Paediatric Urology,390,238,175,404,"1,207"
+30/09/2021,Child,Paediatrics,"9,319","3,216",917,807,"14,259"
+30/09/2021,Child,Pain Relief,18,14,4,2,39
+30/09/2021,Child,Plastic Surgery,935,434,232,664,"2,265"
+30/09/2021,Child,Rheumatology,219,200,100,805,"1,324"
+30/09/2021,Child,Small Volume Specialities,58,15,17,16,106
+30/09/2021,Child,Urology,881,585,351,"1,026","2,843"
+28/10/2021,Adult,Anaesthetics,146,75,172,"1,198","1,591"
+28/10/2021,Adult,Breast Surgery,"2,856","1,020",447,74,"4,397"
+28/10/2021,Adult,Cardio-Thoracic Surgery,256,68,15,26,365
+28/10/2021,Adult,Cardiology,"15,770","7,574","4,391","6,251","33,986"
+28/10/2021,Adult,Chemical Pathology,76,25,10,8,119
+28/10/2021,Adult,Clinical (Medical) Genetics,899,835,345,113,"2,192"
+28/10/2021,Adult,Clinical Immunology,813,297,95,94,"1,299"
+28/10/2021,Adult,Clinical Neurophysiology,830,491,459,634,"2,414"
+28/10/2021,Adult,Dermatology,"21,381","7,240","4,030","10,839","43,490"
+28/10/2021,Adult,Diabetes Mellitus,865,448,303,351,"1,967"
+28/10/2021,Adult,Endocrinology,"6,174","3,632","2,041","5,979","17,826"
+28/10/2021,Adult,Gastro-Enterology,"9,061","3,210","1,557","2,204","16,032"
+28/10/2021,Adult,Gastro-Intestinal Surgery,418,110,34,58,620
+28/10/2021,Adult,General Medicine,"9,113","4,328","2,974","3,654","20,069"
+28/10/2021,Adult,General Surgery,"28,442","7,923","4,173","4,576","45,114"
+28/10/2021,Adult,Geriatric Medicine,"3,016",331,207,296,"3,850"
+28/10/2021,Adult,Gynaecology,"17,481","7,675","2,667","3,988","31,811"
+28/10/2021,Adult,Haematology,"4,350","1,505",784,"1,385","8,024"
+28/10/2021,Adult,Hepato-Biliary Surgery,52,22,14,7,95
+28/10/2021,Adult,Infectious Diseases,473,30,18,2,523
+28/10/2021,Adult,Maxillo-Facial,"1,180",737,560,"2,870","5,347"
+28/10/2021,Adult,Metabolic Medicine,43,36,45,56,180
+28/10/2021,Adult,Microbiology,32,14,0,2,49
+28/10/2021,Adult,Nephrology,"1,701",825,353,865,"3,744"
+28/10/2021,Adult,Neurology,"8,058","4,619","3,328","8,130","24,135"
+28/10/2021,Adult,Neurosurgery,"2,614","1,025",653,"1,605","5,897"
+28/10/2021,Adult,Oncology,573,34,9,11,627
+28/10/2021,Adult,Ophthalmology,"15,341","7,839","4,080","13,862","41,122"
+28/10/2021,Adult,Oral Surgery,597,474,288,"1,772","3,131"
+28/10/2021,Adult,Orthopaedics,"26,958","16,579","10,989","16,569","71,095"
+28/10/2021,Adult,Otolaryngology (ENT),"15,182","8,266","5,685","23,803","52,936"
+28/10/2021,Adult,Paed Cardiology,10,14,5,14,43
+28/10/2021,Adult,Paediatric Neurology,7,5,2,24,38
+28/10/2021,Adult,Paediatrics,75,44,16,25,160
+28/10/2021,Adult,Pain Relief,"4,080","2,603","1,508","4,994","13,185"
+28/10/2021,Adult,Palliative Medicine,31,0,0,0,31
+28/10/2021,Adult,Pathology,51,36,33,41,161
+28/10/2021,Adult,Plastic Surgery,"7,220","2,903","2,017","5,448","17,588"
+28/10/2021,Adult,Psychiatry,444,24,29,14,511
+28/10/2021,Adult,Radiology,24,2,2,2,31
+28/10/2021,Adult,Radiotherapy,30,0,0,0,30
+28/10/2021,Adult,Respiratory Medicine,"7,327","3,419","2,232","6,152","19,130"
+28/10/2021,Adult,Rheumatology,"6,641","3,568","2,015","6,137","18,361"
+28/10/2021,Adult,Small Volume Specialities,34,21,11,21,88
+28/10/2021,Adult,Urology,"10,594","5,753","3,368","11,079","30,794"
+28/10/2021,Adult,Vascular Surgery,"6,562","2,708","2,249","3,728","15,247"
+28/10/2021,Child,Breast Surgery,16,4,4,0,24
+28/10/2021,Child,Cardio-Thoracic Surgery,73,10,4,2,89
+28/10/2021,Child,Cardiology,36,25,10,26,97
+28/10/2021,Child,Child/Adolescent Psychiatry,2,22,0,2,26
+28/10/2021,Child,Clinical (Medical) Genetics,374,329,256,"1,076","2,035"
+28/10/2021,Child,Clinical Immunology,223,133,114,"1,028","1,498"
+28/10/2021,Child,Dental Surgery,129,62,53,283,527
+28/10/2021,Child,Dermatology,"1,516",683,416,"1,039","3,654"
+28/10/2021,Child,Developmental Paediatrics,204,130,29,277,640
+28/10/2021,Child,Endocrinology,15,2,4,2,23
+28/10/2021,Child,Gastro-Enterology,19,4,0,2,25
+28/10/2021,Child,General Medicine,30,7,4,2,43
+28/10/2021,Child,General Surgery,"1,046",440,246,311,"2,043"
+28/10/2021,Child,Gynaecology,388,170,47,19,624
+28/10/2021,Child,Haematology,54,4,4,0,62
+28/10/2021,Child,Immunology,134,33,26,332,525
+28/10/2021,Child,Maxillo-Facial,101,52,40,155,348
+28/10/2021,Child,Neurology,27,4,5,2,38
+28/10/2021,Child,Ophthalmology,"2,042","1,097",631,"2,567","6,337"
+28/10/2021,Child,Oral Surgery,82,48,17,72,219
+28/10/2021,Child,Orthopaedics,"1,433",684,401,525,"3,043"
+28/10/2021,Child,Otolaryngology (ENT),"2,476","1,339",900,"6,646","11,361"
+28/10/2021,Child,Paed Cardiology,"1,764","1,061",488,337,"3,650"
+28/10/2021,Child,Paed Endocrinology,492,220,56,121,889
+28/10/2021,Child,Paed Gastro-Enterol,422,143,48,160,773
+28/10/2021,Child,Paed Haematology,185,52,29,32,298
+28/10/2021,Child,Paed Metabolic Medicine,51,8,4,2,65
+28/10/2021,Child,Paed Nephrology,274,154,47,74,549
+28/10/2021,Child,Paed Orthopaedic,"1,483",874,522,903,"3,782"
+28/10/2021,Child,Paediatric Anaesthetics,4,9,4,23,40
+28/10/2021,Child,Paediatric Dermatology,"1,593",793,428,"2,814","5,628"
+28/10/2021,Child,Paediatric ENT,"1,532",880,569,"2,869","5,850"
+28/10/2021,Child,Paediatric Infectious Diseases,67,34,21,41,163
+28/10/2021,Child,Paediatric Neurology,638,216,84,253,"1,191"
+28/10/2021,Child,Paediatric Neurosurgery,31,4,2,2,39
+28/10/2021,Child,Paediatric Respiratory Medicine,502,246,194,967,"1,909"
+28/10/2021,Child,Paediatric Surgery,"2,042","1,112",600,929,"4,683"
+28/10/2021,Child,Paediatric Urology,381,232,188,391,"1,192"
+28/10/2021,Child,Paediatrics,"9,614","3,122","1,022",762,"14,520"
+28/10/2021,Child,Pain Relief,29,7,4,2,42
+28/10/2021,Child,Plastic Surgery,911,425,257,620,"2,213"
+28/10/2021,Child,Rheumatology,223,199,117,795,"1,334"
+28/10/2021,Child,Small Volume Specialities,48,21,14,17,99
+28/10/2021,Child,Urology,883,563,358,"1,018","2,822"
+25/11/2021,Adult,Anaesthetics,104,106,150,"1,177","1,537"
+25/11/2021,Adult,Breast Surgery,"2,714",897,354,82,"4,047"
+25/11/2021,Adult,Cardio-Thoracic Surgery,214,44,15,25,298
+25/11/2021,Adult,Cardiology,"16,270","7,126","4,770","5,951","34,117"
+25/11/2021,Adult,Chemical Pathology,77,28,11,7,123
+25/11/2021,Adult,Clinical (Medical) Genetics,896,819,314,104,"2,133"
+25/11/2021,Adult,Clinical Immunology,945,258,102,61,"1,366"
+25/11/2021,Adult,Clinical Neurophysiology,872,494,458,569,"2,393"
+25/11/2021,Adult,Dermatology,"21,262","6,877","4,074","9,390","41,603"
+25/11/2021,Adult,Diabetes Mellitus,862,456,331,318,"1,967"
+25/11/2021,Adult,Endocrinology,"6,307","3,486","2,195","5,836","17,824"
+25/11/2021,Adult,Gastro-Enterology,"9,296","3,005","1,678","2,058","16,037"
+25/11/2021,Adult,Gastro-Intestinal Surgery,443,125,38,52,658
+25/11/2021,Adult,General Medicine,"9,466","4,159","3,054","3,406","20,085"
+25/11/2021,Adult,General Surgery,"28,384","7,510","4,605","4,346","44,845"
+25/11/2021,Adult,Geriatric Medicine,"3,059",278,190,199,"3,726"
+25/11/2021,Adult,Gynaecology,"17,331","7,173","2,865","3,479","30,848"
+25/11/2021,Adult,Haematology,"4,452","1,312",799,"1,259","7,822"
+25/11/2021,Adult,Hepato-Biliary Surgery,50,23,12,8,93
+25/11/2021,Adult,Infectious Diseases,475,29,7,5,516
+25/11/2021,Adult,Maxillo-Facial,"1,225",732,607,"2,784","5,348"
+25/11/2021,Adult,Metabolic Medicine,41,31,41,55,168
+25/11/2021,Adult,Microbiology,33,10,2,2,48
+25/11/2021,Adult,Nephrology,"1,663",677,401,809,"3,550"
+25/11/2021,Adult,Neurology,"7,993","4,532","3,496","7,813","23,834"
+25/11/2021,Adult,Neurosurgery,"2,655","1,020",708,"1,650","6,033"
+25/11/2021,Adult,Oncology,557,34,10,11,612
+25/11/2021,Adult,Ophthalmology,"15,511","7,563","4,345","12,541","39,960"
+25/11/2021,Adult,Oral Surgery,576,431,342,"1,717","3,066"
+25/11/2021,Adult,Orthopaedics,"27,588","15,864","11,726","15,360","70,538"
+25/11/2021,Adult,Otolaryngology (ENT),"15,681","8,005","6,138","22,244","52,068"
+25/11/2021,Adult,Paed Cardiology,12,11,10,8,41
+25/11/2021,Adult,Paediatric ENT,5,7,5,6,23
+25/11/2021,Adult,Paediatric Neurology,5,5,5,24,38
+25/11/2021,Adult,Paediatrics,88,42,15,20,165
+25/11/2021,Adult,Pain Relief,"4,191","2,508","1,581","4,874","13,154"
+25/11/2021,Adult,Palliative Medicine,22,0,0,0,22
+25/11/2021,Adult,Pathology,53,36,31,42,162
+25/11/2021,Adult,Plastic Surgery,"7,304","2,855","2,047","5,336","17,542"
+25/11/2021,Adult,Psychiatry,435,17,28,16,496
+25/11/2021,Adult,Radiotherapy,46,0,0,0,46
+25/11/2021,Adult,Respiratory Medicine,"7,494","3,317","2,356","5,707","18,874"
+25/11/2021,Adult,Rheumatology,"6,787","3,337","2,190","5,767","18,081"
+25/11/2021,Adult,Small Volume Specialities,52,19,7,15,93
+25/11/2021,Adult,Urology,"11,276","5,516","3,402","10,256","30,450"
+25/11/2021,Adult,Vascular Surgery,"6,627","2,763","2,282","3,720","15,392"
+25/11/2021,Child,Cardio-Thoracic Surgery,49,15,4,2,70
+25/11/2021,Child,Cardiology,34,22,9,21,86
+25/11/2021,Child,Child/Adolescent Psychiatry,0,18,2,2,22
+25/11/2021,Child,Clinical (Medical) Genetics,390,327,274,"1,043","2,034"
+25/11/2021,Child,Clinical Immunology,246,121,122,939,"1,428"
+25/11/2021,Child,Dental Surgery,147,85,54,270,556
+25/11/2021,Child,Dermatology,"1,515",680,427,958,"3,580"
+25/11/2021,Child,Developmental Paediatrics,239,126,33,264,662
+25/11/2021,Child,Gastro-Enterology,19,4,0,2,25
+25/11/2021,Child,General Medicine,35,4,4,2,46
+25/11/2021,Child,General Surgery,886,370,230,299,"1,785"
+25/11/2021,Child,Gynaecology,384,163,66,19,632
+25/11/2021,Child,Haematology,51,4,2,0,57
+25/11/2021,Child,Immunology,138,35,27,312,512
+25/11/2021,Child,Maxillo-Facial,123,43,46,141,353
+25/11/2021,Child,Neurology,30,7,7,2,46
+25/11/2021,Child,Ophthalmology,"2,119",949,678,"2,481","6,227"
+25/11/2021,Child,Oral Surgery,79,34,32,71,216
+25/11/2021,Child,Orthopaedics,"1,363",616,397,504,"2,880"
+25/11/2021,Child,Otolaryngology (ENT),"2,582","1,349",964,"6,212","11,107"
+25/11/2021,Child,Paed Cardiology,"1,815","1,051",440,249,"3,555"
+25/11/2021,Child,Paed Endocrinology,462,214,65,111,852
+25/11/2021,Child,Paed Gastro-Enterol,468,119,53,149,789
+25/11/2021,Child,Paed Haematology,172,38,35,33,278
+25/11/2021,Child,Paed Metabolic Medicine,43,2,4,7,56
+25/11/2021,Child,Paed Nephrology,286,131,42,52,511
+25/11/2021,Child,Paed Orthopaedic,"1,638",885,595,876,"3,994"
+25/11/2021,Child,Paediatric Anaesthetics,7,7,4,20,38
+25/11/2021,Child,Paediatric Dermatology,"1,667",797,472,"2,816","5,752"
+25/11/2021,Child,Paediatric ENT,"1,566",853,616,"2,768","5,803"
+25/11/2021,Child,Paediatric Infectious Diseases,70,27,22,43,162
+25/11/2021,Child,Paediatric Neurology,654,216,94,216,"1,180"
+25/11/2021,Child,Paediatric Neurosurgery,36,4,2,2,44
+25/11/2021,Child,Paediatric Respiratory Medicine,541,237,191,968,"1,937"
+25/11/2021,Child,Paediatric Surgery,"2,204","1,157",720,900,"4,981"
+25/11/2021,Child,Paediatric Urology,388,245,188,395,"1,216"
+25/11/2021,Child,Paediatrics,"10,069","3,071","1,061",672,"14,873"
+25/11/2021,Child,Pain Relief,27,4,4,2,38
+25/11/2021,Child,Plastic Surgery,925,424,285,546,"2,180"
+25/11/2021,Child,Rheumatology,224,197,128,796,"1,345"
+25/11/2021,Child,Small Volume Specialities,72,22,17,17,127
+25/11/2021,Child,Urology,940,539,361,973,"2,813"
+23/12/2021,Adult,Anaesthetics,46,56,75,"1,050","1,227"
+23/12/2021,Adult,Breast Surgery,"2,444",778,192,79,"3,493"
+23/12/2021,Adult,Cardio-Thoracic Surgery,220,41,20,22,303
+23/12/2021,Adult,Cardiology,"16,413","6,933","4,828","5,011","33,185"
+23/12/2021,Adult,Chemical Pathology,76,25,10,5,116
+23/12/2021,Adult,Clinical (Medical) Genetics,896,801,377,20,"2,094"
+23/12/2021,Adult,Clinical Immunology,937,209,71,42,"1,259"
+23/12/2021,Adult,Clinical Neurophysiology,805,397,370,471,"2,043"
+23/12/2021,Adult,Dermatology,"20,356","7,063","3,951","8,731","40,101"
+23/12/2021,Adult,Diabetes Mellitus,915,408,349,298,"1,970"
+23/12/2021,Adult,Endocrinology,"6,517","3,265","2,203","5,282","17,267"
+23/12/2021,Adult,Gastro-Enterology,"9,259","2,684","1,639","1,938","15,520"
+23/12/2021,Adult,Gastro-Intestinal Surgery,419,142,43,54,658
+23/12/2021,Adult,General Medicine,"9,563","3,717","2,996","3,075","19,351"
+23/12/2021,Adult,General Surgery,"26,921","7,287","4,679","4,094","42,981"
+23/12/2021,Adult,Geriatric Medicine,"2,938",277,160,138,"3,513"
+23/12/2021,Adult,Gynaecology,"17,198","6,498","2,668","3,390","29,754"
+23/12/2021,Adult,Haematology,"4,480","1,244",758,"1,168","7,650"
+23/12/2021,Adult,Hepato-Biliary Surgery,56,21,12,8,97
+23/12/2021,Adult,Infectious Diseases,415,32,4,2,454
+23/12/2021,Adult,Maxillo-Facial,"1,259",660,619,"2,663","5,201"
+23/12/2021,Adult,Metabolic Medicine,60,27,43,50,180
+23/12/2021,Adult,Microbiology,50,11,2,2,66
+23/12/2021,Adult,Nephrology,"1,689",532,393,705,"3,319"
+23/12/2021,Adult,Neurology,"8,062","4,363","3,555","7,396","23,376"
+23/12/2021,Adult,Neurosurgery,"2,733","1,053",715,"1,707","6,208"
+23/12/2021,Adult,Oncology,540,14,4,2,561
+23/12/2021,Adult,Ophthalmology,"15,210","7,204","4,286","12,184","38,884"
+23/12/2021,Adult,Oral Surgery,553,416,289,"1,598","2,856"
+23/12/2021,Adult,Orthopaedics,"28,151","14,926","11,492","14,145","68,714"
+23/12/2021,Adult,Otolaryngology (ENT),"15,727","7,681","6,095","20,667","50,170"
+23/12/2021,Adult,Paed Cardiology,10,8,11,7,36
+23/12/2021,Adult,Paediatric Neurology,4,4,4,24,37
+23/12/2021,Adult,Paediatrics,85,42,15,14,156
+23/12/2021,Adult,Pain Relief,"4,465","2,293","1,654","4,632","13,044"
+23/12/2021,Adult,Pathology,66,26,26,47,165
+23/12/2021,Adult,Plastic Surgery,"7,286","2,774","2,031","5,082","17,173"
+23/12/2021,Adult,Psychiatry,437,12,19,15,483
+23/12/2021,Adult,Radiotherapy,53,0,0,0,53
+23/12/2021,Adult,Respiratory Medicine,"7,750","3,101","2,369","5,342","18,562"
+23/12/2021,Adult,Rheumatology,"6,814","3,014","2,236","5,273","17,337"
+23/12/2021,Adult,Small Volume Specialities,94,18,16,24,152
+23/12/2021,Adult,Urology,"11,613","5,232","3,485","8,813","29,143"
+23/12/2021,Adult,Vascular Surgery,"6,622","2,705","2,216","3,615","15,158"
+23/12/2021,Child,Cardio-Thoracic Surgery,58,15,4,0,77
+23/12/2021,Child,Cardiology,42,13,15,12,82
+23/12/2021,Child,Child/Adolescent Psychiatry,0,13,8,2,23
+23/12/2021,Child,Clinical (Medical) Genetics,407,305,266,957,"1,935"
+23/12/2021,Child,Clinical Immunology,239,93,140,860,"1,332"
+23/12/2021,Child,Dental Surgery,151,71,58,255,535
+23/12/2021,Child,Dermatology,"1,504",643,435,896,"3,478"
+23/12/2021,Child,Developmental Paediatrics,250,129,30,251,660
+23/12/2021,Child,Gastro-Enterology,17,4,2,0,22
+23/12/2021,Child,General Medicine,33,4,4,2,42
+23/12/2021,Child,General Surgery,867,371,241,266,"1,745"
+23/12/2021,Child,Gynaecology,385,142,77,18,622
+23/12/2021,Child,Haematology,55,4,2,0,60
+23/12/2021,Child,Immunology,136,35,25,309,505
+23/12/2021,Child,Maxillo-Facial,144,43,44,130,361
+23/12/2021,Child,Neurology,33,9,7,2,50
+23/12/2021,Child,Ophthalmology,"2,108",797,654,"2,312","5,871"
+23/12/2021,Child,Oral Surgery,87,31,29,69,216
+23/12/2021,Child,Orthopaedics,"1,403",564,383,485,"2,835"
+23/12/2021,Child,Otolaryngology (ENT),"2,708","1,361","1,007","5,725","10,801"
+23/12/2021,Child,Paed Cardiology,"1,936","1,032",426,181,"3,575"
+23/12/2021,Child,Paed Endocrinology,457,209,79,96,841
+23/12/2021,Child,Paed Gastro-Enterol,487,110,57,134,788
+23/12/2021,Child,Paed Haematology,201,30,29,29,289
+23/12/2021,Child,Paed Metabolic Medicine,48,2,2,18,70
+23/12/2021,Child,Paed Nephrology,309,108,40,55,512
+23/12/2021,Child,Paed Orthopaedic,"1,687",849,623,894,"4,053"
+23/12/2021,Child,Paediatric Dermatology,"1,743",775,517,"2,635","5,670"
+23/12/2021,Child,Paediatric ENT,"1,517",807,638,"2,673","5,635"
+23/12/2021,Child,Paediatric Infectious Diseases,77,22,20,46,165
+23/12/2021,Child,Paediatric Neurology,698,201,98,194,"1,191"
+23/12/2021,Child,Paediatric Neurosurgery,40,4,2,2,47
+23/12/2021,Child,Paediatric Respiratory Medicine,590,221,145,891,"1,847"
+23/12/2021,Child,Paediatric Surgery,"2,247","1,165",700,731,"4,843"
+23/12/2021,Child,Paediatric Urology,379,243,200,402,"1,224"
+23/12/2021,Child,Paediatrics,"10,251","2,945","1,067",658,"14,921"
+23/12/2021,Child,Pain Relief,25,4,4,2,34
+23/12/2021,Child,Plastic Surgery,920,419,264,537,"2,140"
+23/12/2021,Child,Rheumatology,238,184,141,805,"1,368"
+23/12/2021,Child,Small Volume Specialities,74,20,14,20,127
+23/12/2021,Child,Urology,953,488,413,931,"2,785"
